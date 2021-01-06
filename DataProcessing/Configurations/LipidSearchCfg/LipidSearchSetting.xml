@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<lipidsearch-setting>
+    <molec-file path="/WEB-INF/conf/MolecularList.txt"/>
+    <database-setting>
+        <lipidion-database>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/evenGPL.xml" id="GPL,GL,SL"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/oxGPL.xml" id="oxGPL"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/sphingolipid.xml" id="SP,Cer,SPD"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/CholesterolEstel.xml" id="ChE"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/Cholesterol.xml" id="Ch"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/Coenzyme.xml" id="Co"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/CL.xml" id="CL"/>
+            <database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/GGL.xml" id="GGL"/>
+			<database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/Labeled_IS.xml" id="Labeled_IS"/>
+       		<database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/fattyamid.xml" id="FAmid"/>
+			<database ion="general" fattyacid="general" classification="general" type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidDefinition.xsd" path="/WEB-INF/conf/database/sphingolipid_skinCER.xml" id="Skin CER"/>
+        </lipidion-database>
+        <class-database>
+            <database type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/LipidClassification.xsd" path="/WEB-INF/conf/database/LipidClassification.xml" id="general"/>
+        </class-database>
+        <fattyacid-database>
+            <database type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/FattyAcidDefinition.xsd" path="/WEB-INF/conf/database/FattyAcidDefinition.xml" id="general"/>
+        </fattyacid-database>
+        <ion-database>
+            <database type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/IonDefinition.xsd" path="/WEB-INF/conf/database/IonDefinition.xml" id="general"/>
+        </ion-database>
+        <productconf-database>
+        	<database type="xml" xsd="/WEB-INF/conf/database/xsd/ver1.2/ProductConfiguration.xsd" path="/WEB-INF/conf/database/ProductConfiguration.xml" id="general"/>
+        </productconf-database>
+    </database-setting>
+    <database-group-setting>
+        <database-group id="General">
+            <database-item database="GPL,GL,SL"/>
+            <database-item database="SP,Cer,SPD"/>
+            <database-item database="ChE"/>
+            <database-item database="Ch"/>
+            <database-item database="Co"/>
+            <database-item database="CL"/>
+            <database-item database="GGL"/>
+            <database-item database="FAmid"/>
+        </database-group>
+        <database-group pcdb="general" pcid="QExactive" id="HCD">
+            <database-item database="GPL,GL,SL"/>
+            <database-item database="SP,Cer,SPD"/>
+            <database-item database="ChE"/>
+            <database-item database="Ch"/>
+            <database-item database="Co"/>
+            <database-item database="CL"/>
+            <database-item database="GGL"/>
+            <database-item database="FAmid"/>
+        </database-group>
+        <database-group pcdb="general" pcid="Orbitrap" id="CID">
+            <database-item database="GPL,GL,SL"/>
+            <database-item database="SP,Cer,SPD"/>
+            <database-item database="ChE"/>
+            <database-item database="Ch"/>
+            <database-item database="Co"/>
+            <database-item database="CL"/>
+            <database-item database="GGL"/>
+            <database-item database="FAmid"/>
+        </database-group>
+        <database-group id="Oxid. GPL">
+            <database-item database="oxGPL"/>
+        </database-group>
+		<database-group pcdb="general" id="Labeled GPL,GL,SP,ChE">
+            <database-item database="Labeled_IS"/>
+        </database-group>
+		<database-group id="Skin Lipids">
+            <database-item database="Skin CER"/>
+        </database-group>
+    </database-group-setting>
+</lipidsearch-setting>

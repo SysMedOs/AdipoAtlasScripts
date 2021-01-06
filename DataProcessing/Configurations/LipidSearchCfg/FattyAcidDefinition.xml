@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<fattyacid-definition>
+    <fattyacid-group id="FA1">
+    	<fattyacid subKey="" rank="5" key="4:0" baseKey="4:0"/>
+    	<fattyacid subKey="" rank="5" key="6:0" baseKey="6:0"/>
+    	<fattyacid subKey="" rank="5" key="8:0" baseKey="8:0"/>
+        <fattyacid subKey="" rank="4" key="8:0e" baseKey="8:0e"/>
+        <fattyacid subKey="" rank="15" key="8:0p" baseKey="8:0p"/>
+        <fattyacid subKey="" rank="4" key="8:1e" baseKey="8:1e"/>
+        <fattyacid subKey="" rank="99" key="9:0" baseKey="9:0"/>
+    	<fattyacid subKey="" rank="5" key="10:0" baseKey="10:0"/>
+        <fattyacid subKey="" rank="4" key="10:0e" baseKey="10:0e"/>
+        <fattyacid subKey="" rank="15" key="10:0p" baseKey="10:0p"/>
+        <fattyacid subKey="" rank="4" key="10:1e" baseKey="10:1e"/>
+        <fattyacid subKey="" rank="5" key="11:0" baseKey="11:0"/>
+        <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="4" key="12:0e" baseKey="12:0e"/>
+        <fattyacid subKey="" rank="15" key="12:0p" baseKey="12:0p"/>
+        <fattyacid subKey="" rank="4" key="12:1e" baseKey="12:1e"/>
+        <fattyacid subKey="" rank="9" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="999" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="4" key="14:0e" baseKey="14:0e"/>
+        <fattyacid subKey="" rank="15" key="14:0p" baseKey="14:0p"/>
+         <fattyacid subKey="" rank="4" key="14:1e" baseKey="14:1e"/>
+        <fattyacid subKey="" rank="3" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="4" key="16:0e" baseKey="16:0e"/>
+        <fattyacid subKey="" rank="13" key="16:0p" baseKey="16:0p"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="4" key="16:1e" baseKey="16:1e"/>
+        <fattyacid subKey="" rank="13" key="16:1p" baseKey="16:1p"/>
+        <fattyacid subKey="" rank="4" key="16:2e" baseKey="16:2e"/>
+        <fattyacid subKey="" rank="3" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="3" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="4" key="18:0e" baseKey="18:0e"/>
+        <fattyacid subKey="" rank="13" key="18:0p" baseKey="18:0p"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:1e" baseKey="18:1e"/>
+        <fattyacid subKey="" rank="15" key="18:1p" baseKey="18:1p"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="4" key="18:2e" baseKey="18:2e"/>
+        <fattyacid subKey="" rank="15" key="18:2p" baseKey="18:2p"/>
+        <fattyacid subKey="" rank="4" key="18:3e" baseKey="18:3e"/>
+        <fattyacid subKey="" rank="5" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="5" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="3" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="3" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="4" key="20:0e" baseKey="20:0e"/>
+        <fattyacid subKey="" rank="15" key="20:0p" baseKey="20:0p"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="4" key="20:1e" baseKey="20:1e"/>
+        <fattyacid subKey="" rank="15" key="20:1p" baseKey="20:1p"/>
+        <fattyacid subKey="" rank="5" key="20:2e" baseKey="20:2e"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+         <fattyacid subKey="" rank="5" key="20:3e" baseKey="20:3e"/>
+        <fattyacid subKey="" rank="15" key="20:3p" baseKey="20:3p"/>
+        <fattyacid subKey="" rank="5" key="20:4e" baseKey="20:4e"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="5" key="20:5" baseKey="20:5"/>
+        <fattyacid subKey="" rank="999" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="999" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="999" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="999" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="999" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="999" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="5" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="999" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="" rank="999" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="5" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="5" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="999" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="" rank="999" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="100" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="100" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="100" key="31:0" baseKey="31:0"/>
+        <fattyacid subKey="" rank="100" key="31:1" baseKey="31:1"/>
+        <fattyacid subKey="" rank="100" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="" rank="100" key="32:1" baseKey="32:1"/>
+        <fattyacid subKey="" rank="100" key="33:0" baseKey="33:0"/>
+        <fattyacid subKey="" rank="100" key="33:1" baseKey="33:1"/>
+        <fattyacid subKey="" rank="100" key="34:0" baseKey="34:0"/>
+        <fattyacid subKey="" rank="100" key="34:1" baseKey="34:1"/>
+        <fattyacid subKey="" rank="100" key="35:0" baseKey="35:0"/>
+        <fattyacid subKey="" rank="100" key="35:1" baseKey="35:1"/>
+        <fattyacid subKey="" rank="100" key="36:0" baseKey="36:0"/>
+        <fattyacid subKey="" rank="100" key="36:1" baseKey="36:1"/>
+        <fattyacid subKey="" rank="100" key="37:0" baseKey="37:0"/>
+        <fattyacid subKey="" rank="100" key="37:1" baseKey="37:1"/>
+        <fattyacid subKey="" rank="100" key="38:0" baseKey="38:0"/>
+        <fattyacid subKey="" rank="100" key="38:1" baseKey="38:1"/>
+    </fattyacid-group>
+	<fattyacid-group id="FA1_TG">
+    	<fattyacid subKey="" rank="5" key="4:0" baseKey="4:0"/>
+    	<fattyacid subKey="" rank="5" key="6:0" baseKey="6:0"/>
+    	<fattyacid subKey="" rank="5" key="8:0" baseKey="8:0"/>
+        <fattyacid subKey="" rank="99" key="9:0" baseKey="9:0"/>
+    	<fattyacid subKey="" rank="5" key="10:0" baseKey="10:0"/>
+        <fattyacid subKey="" rank="5" key="11:0" baseKey="11:0"/>
+        <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="4" key="12:0e" baseKey="12:0e"/>
+        <fattyacid subKey="" rank="15" key="12:0p" baseKey="12:0p"/>
+        <fattyacid subKey="" rank="4" key="12:1e" baseKey="12:1e"/>
+        <fattyacid subKey="" rank="9" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="999" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="4" key="14:0e" baseKey="14:0e"/>
+        <fattyacid subKey="" rank="15" key="14:0p" baseKey="14:0p"/>
+        <fattyacid subKey="" rank="4" key="14:1e" baseKey="14:1e"/>
+        <fattyacid subKey="" rank="3" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="4" key="16:0e" baseKey="16:0e"/>
+        <fattyacid subKey="" rank="13" key="16:0p" baseKey="16:0p"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="4" key="16:1e" baseKey="16:1e"/>
+        <fattyacid subKey="" rank="13" key="16:1p" baseKey="16:1p"/>
+        <fattyacid subKey="" rank="4" key="16:2e" baseKey="16:2e"/>
+        <fattyacid subKey="" rank="3" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="999" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="4" key="18:0e" baseKey="18:0e"/>
+        <fattyacid subKey="" rank="13" key="18:0p" baseKey="18:0p"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:1e" baseKey="18:1e"/>
+        <fattyacid subKey="" rank="15" key="18:1p" baseKey="18:1p"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="4" key="18:2e" baseKey="18:2e"/>
+        <fattyacid subKey="" rank="15" key="18:2p" baseKey="18:2p"/>
+        <fattyacid subKey="" rank="4" key="18:3e" baseKey="18:3e"/>
+        <fattyacid subKey="" rank="5" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="5" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="3" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="3" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="4" key="20:0e" baseKey="20:0e"/>
+        <fattyacid subKey="" rank="15" key="20:0p" baseKey="20:0p"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="4" key="20:1e" baseKey="20:1e"/>
+        <fattyacid subKey="" rank="15" key="20:1p" baseKey="20:1p"/>
+        <fattyacid subKey="" rank="5" key="20:2e" baseKey="20:2e"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+         <fattyacid subKey="" rank="5" key="20:3e" baseKey="20:3e"/>
+        <fattyacid subKey="" rank="15" key="20:3p" baseKey="20:3p"/>
+        <fattyacid subKey="" rank="5" key="20:4e" baseKey="20:4e"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="5" key="20:5" baseKey="20:5"/>
+        <fattyacid subKey="" rank="999" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="999" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="999" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="999" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="999" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="999" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="5" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="999" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="" rank="999" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="5" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="5" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="999" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="" rank="999" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="100" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="100" key="30:1" baseKey="30:1"/>
+    </fattyacid-group>
+    <fattyacid-group id="FA1_e">
+    	<fattyacid subKey="" rank="4" key="8:0e" baseKey="8:0e"/>
+        <fattyacid subKey="" rank="5" key="10:0e" baseKey="10:0e"/>
+        <fattyacid subKey="" rank="5" key="12:0e" baseKey="12:0e"/>
+        <fattyacid subKey="" rank="5" key="14:0e" baseKey="14:0e"/>
+        <fattyacid subKey="" rank="3" key="16:0e" baseKey="16:0e"/>
+        <fattyacid subKey="" rank="3" key="18:0e" baseKey="18:0e"/>
+        <fattyacid subKey="" rank="5" key="20:0e" baseKey="20:0e"/>
+        <fattyacid subKey="" rank="5" key="22:0e" baseKey="22:0e"/>
+        <fattyacid subKey="" rank="5" key="24:0e" baseKey="24:0e"/>
+        <fattyacid subKey="" rank="5" key="26:0e" baseKey="26:0e"/>
+    </fattyacid-group>
+    <fattyacid-group id="FA2">
+    	<fattyacid subKey="" rank="5" key="6:0" baseKey="6:0"/>
+    	<fattyacid subKey="" rank="5" key="8:0" baseKey="8:0"/>
+    	<fattyacid subKey="" rank="99" key="9:0" baseKey="9:0"/>
+    	<fattyacid subKey="" rank="5" key="10:0" baseKey="10:0"/>
+    	<fattyacid subKey="" rank="99" key="10:1" baseKey="10:1"/>
+    	<fattyacid subKey="" rank="99" key="10:2" baseKey="10:2"/>
+        <fattyacid subKey="" rank="99" key="10:3" baseKey="10:3"/>
+        <fattyacid subKey="" rank="99" key="10:4" baseKey="10:4"/>
+    	<fattyacid subKey="" rank="99" key="11:0" baseKey="11:0"/>
+        <fattyacid subKey="" rank="99" key="11:1" baseKey="11:1"/>
+        <fattyacid subKey="" rank="99" key="11:2" baseKey="11:2"/>
+        <fattyacid subKey="" rank="99" key="11:3" baseKey="11:3"/>
+        <fattyacid subKey="" rank="99" key="11:4" baseKey="11:4"/>
+        <fattyacid subKey="" rank="4" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="99" key="12:1" baseKey="12:1"/>
+        <fattyacid subKey="" rank="99" key="12:2" baseKey="12:2"/>
+        <fattyacid subKey="" rank="99" key="12:3" baseKey="12:3"/>
+        <fattyacid subKey="" rank="99" key="12:4" baseKey="12:4"/>
+
+        <fattyacid subKey="" rank="4" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="4" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="99" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="99" key="14:2" baseKey="14:2"/>
+        <fattyacid subKey="" rank="99" key="14:3" baseKey="14:3"/>
+        <fattyacid subKey="" rank="99" key="14:4" baseKey="14:4"/>
+        <fattyacid subKey="" rank="4" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="2" key="16:0" baseKey="16:0"/>
+
+        <fattyacid subKey="" rank="2" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="4" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="99" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="4" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="1" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="3" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="99" key="18:4" baseKey="18:4"/>
+       <fattyacid subKey="" rank="4" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="99" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="4" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="3" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="3" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="3" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="1" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="3" key="20:5" baseKey="20:5"/>
+        <fattyacid subKey="" rank="4" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="99" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="4" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="3" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="3" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="3" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="3" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="3" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="1" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="4" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="99" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="4" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="4" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="3" key="24:2" baseKey="24:2"/>
+    </fattyacid-group>
+
+    <fattyacid-group id="FA2_13C4">
+    	<fattyacid subKey="13C4" rank="5" key="8:0_13C4" baseKey="8:0"/>
+    	<fattyacid subKey="13C4" rank="99" key="9:0_13C4" baseKey="9:0"/>
+    	<fattyacid subKey="13C4" rank="5" key="10:0_13C4" baseKey="10:0"/>
+    	<fattyacid subKey="13C4" rank="99" key="10:1_13C4" baseKey="10:1"/>
+    	<fattyacid subKey="13C4" rank="99" key="10:2_13C4" baseKey="10:2"/>
+        <fattyacid subKey="13C4" rank="99" key="10:3_13C4" baseKey="10:3"/>
+        <fattyacid subKey="13C4" rank="99" key="10:4_13C4" baseKey="10:4"/>
+    	<fattyacid subKey="13C4" rank="99" key="11:0_13C4" baseKey="11:0"/>
+        <fattyacid subKey="13C4" rank="99" key="11:1_13C4" baseKey="11:1"/>
+        <fattyacid subKey="13C4" rank="99" key="11:2_13C4" baseKey="11:2"/>
+        <fattyacid subKey="13C4" rank="99" key="11:3_13C4" baseKey="11:3"/>
+        <fattyacid subKey="13C4" rank="99" key="11:4_13C4" baseKey="11:4"/>
+        <fattyacid subKey="13C4" rank="4" key="12:0_13C4" baseKey="12:0"/>
+        <fattyacid subKey="13C4" rank="99" key="12:1_13C4" baseKey="12:1"/>
+        <fattyacid subKey="13C4" rank="99" key="12:2_13C4" baseKey="12:2"/>
+        <fattyacid subKey="13C4" rank="99" key="12:3_13C4" baseKey="12:3"/>
+        <fattyacid subKey="13C4" rank="99" key="12:4_13C4" baseKey="12:4"/>
+
+        <fattyacid subKey="13C4" rank="4" key="13:0_13C4" baseKey="13:0"/>
+        <fattyacid subKey="13C4" rank="4" key="14:0_13C4" baseKey="14:0"/>
+        <fattyacid subKey="13C4" rank="99" key="14:1_13C4" baseKey="14:1"/>
+        <fattyacid subKey="13C4" rank="99" key="14:2_13C4" baseKey="14:2"/>
+        <fattyacid subKey="13C4" rank="99" key="14:3_13C4" baseKey="14:3"/>
+        <fattyacid subKey="13C4" rank="99" key="14:4_13C4" baseKey="14:4"/>
+        <fattyacid subKey="13C4" rank="4" key="15:0_13C4" baseKey="15:0"/>
+        <fattyacid subKey="_13C4" rank="2" key="16:0_13C4" baseKey="16:0"/>
+
+        <fattyacid subKey="13C4" rank="2" key="16:1_13C4" baseKey="16:1"/>
+        <fattyacid subKey="13C4" rank="4" key="17:0_13C4" baseKey="17:0"/>
+        <fattyacid subKey="13C4" rank="99" key="17:1_13C4" baseKey="17:1"/>
+        <fattyacid subKey="13C4" rank="4" key="18:0_13C4" baseKey="18:0"/>
+        <fattyacid subKey="13C4" rank="2" key="18:1_13C4" baseKey="18:1"/>
+        <fattyacid subKey="13C4" rank="1" key="18:2_13C4" baseKey="18:2"/>
+        <fattyacid subKey="13C4" rank="3" key="18:3_13C4" baseKey="18:3"/>
+        <fattyacid subKey="13C4" rank="99" key="18:4_13C4" baseKey="18:4"/>
+       <fattyacid subKey="13C4" rank="4" key="19:0_13C4" baseKey="19:0"/>
+        <fattyacid subKey="13C4" rank="99" key="19:1_13C4" baseKey="19:1"/>
+        <fattyacid subKey="13C4" rank="4" key="20:0_13C4" baseKey="20:0"/>
+        <fattyacid subKey="13C4" rank="3" key="20:1_13C4" baseKey="20:1"/>
+        <fattyacid subKey="13C4" rank="3" key="20:2_13C4" baseKey="20:2"/>
+        <fattyacid subKey="13C4" rank="3" key="20:3_13C4" baseKey="20:3"/>
+        <fattyacid subKey="13C4" rank="1" key="20:4_13C4" baseKey="20:4"/>
+        <fattyacid subKey="13C4" rank="3" key="20:5_13C4" baseKey="20:5"/>
+        <fattyacid subKey="13C4" rank="4" key="21:0_13C4" baseKey="21:0"/>
+        <fattyacid subKey="13C4" rank="99" key="21:1_13C4" baseKey="21:1"/>
+        <fattyacid subKey="13C4" rank="4" key="22:0_13C4" baseKey="22:0"/>
+        <fattyacid subKey="13C4" rank="3" key="22:1_13C4" baseKey="22:1"/>
+        <fattyacid subKey="13C4" rank="3" key="22:2_13C4" baseKey="22:2"/>
+        <fattyacid subKey="13C4" rank="3" key="22:3_13C4" baseKey="22:3"/>
+        <fattyacid subKey="13C4" rank="3" key="22:4_13C4" baseKey="22:4"/>
+        <fattyacid subKey="13C4" rank="3" key="22:5_13C4" baseKey="22:5"/>
+        <fattyacid subKey="13C4" rank="1" key="22:6_13C4" baseKey="22:6"/>
+        <fattyacid subKey="13C4" rank="4" key="23:0_13C4" baseKey="23:0"/>
+        <fattyacid subKey="13C4" rank="99" key="23:1_13C4" baseKey="23:1"/>
+        <fattyacid subKey="13C4" rank="4" key="24:0_13C4" baseKey="24:0"/>
+        <fattyacid subKey="13C4" rank="4" key="24:1_13C4" baseKey="24:1"/>
+        <fattyacid subKey="13C4" rank="3" key="24:2_13C4" baseKey="24:2"/>
+    </fattyacid-group>
+
+    <fattyacid-group id="FA3">
+        <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+         <fattyacid subKey="" rank="99" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="3" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="3" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="3" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="3" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="5" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="5" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="3" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="3" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="5" key="20:5" baseKey="20:5"/>
+        <fattyacid subKey="" rank="999" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="999" key="21:1" baseKey="21:1"/>
+         <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="999" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="999" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+     </fattyacid-group>
+    <fattyacid-group id="FA4">
+        <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="5" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="5" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="5" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="2" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="2" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="4" key="24:1" baseKey="24:1"/>
+    </fattyacid-group>
+    <fattyacid-group id="OAHFA-1">
+         <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+
+        <fattyacid subKey="" rank="1" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="2" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="4" key="19:2" baseKey="19:2"/>
+
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+
+        <fattyacid subKey="" rank="2" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="2" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="5" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="4" key="21:4" baseKey="21:4"/>
+
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+
+        <fattyacid subKey="" rank="5" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="5" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="5" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="5" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="5" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="4" key="23:6" baseKey="23:6"/>
+    </fattyacid-group>
+    <fattyacid-group id="OAHFA-2">
+    	<fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+
+        <fattyacid subKey="" rank="1" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="2" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="4" key="19:2" baseKey="19:2"/>
+
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+
+        <fattyacid subKey="" rank="2" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="2" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="5" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="4" key="21:4" baseKey="21:4"/>
+
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+
+        <fattyacid subKey="" rank="5" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="5" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="5" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="5" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="5" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="4" key="23:6" baseKey="23:6"/>
+
+
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="5" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="5" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="5" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="5" key="24:6" baseKey="24:6"/>
+
+         <fattyacid subKey="" rank="5" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="5" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="5" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="5" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="5" key="25:5" baseKey="25:5"/>
+        <fattyacid subKey="" rank="4" key="25:6" baseKey="25:6"/>
+
+        <fattyacid subKey="" rank="5" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="5" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="5" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="5" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="5" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="5" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="5" key="26:6" baseKey="26:6"/>
+
+         <fattyacid subKey="" rank="5" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="" rank="5" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="5" key="27:2" baseKey="27:2"/>
+        <fattyacid subKey="" rank="5" key="27:3" baseKey="27:3"/>
+        <fattyacid subKey="" rank="5" key="27:4" baseKey="27:4"/>
+        <fattyacid subKey="" rank="5" key="27:5" baseKey="27:5"/>
+        <fattyacid subKey="" rank="4" key="27:6" baseKey="27:6"/>
+
+        <fattyacid subKey="" rank="5" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="5" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="5" key="28:2" baseKey="28:2"/>
+        <fattyacid subKey="" rank="5" key="28:3" baseKey="28:3"/>
+        <fattyacid subKey="" rank="5" key="28:4" baseKey="28:4"/>
+        <fattyacid subKey="" rank="5" key="28:5" baseKey="28:5"/>
+        <fattyacid subKey="" rank="5" key="28:6" baseKey="28:6"/>
+
+         <fattyacid subKey="" rank="5" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="" rank="5" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="5" key="29:2" baseKey="29:2"/>
+        <fattyacid subKey="" rank="5" key="29:3" baseKey="29:3"/>
+        <fattyacid subKey="" rank="5" key="29:4" baseKey="29:4"/>
+        <fattyacid subKey="" rank="5" key="29:5" baseKey="29:5"/>
+        <fattyacid subKey="" rank="4" key="29:6" baseKey="29:6"/>
+
+        <fattyacid subKey="" rank="5" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="5" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="5" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="5" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="5" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="5" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="5" key="30:6" baseKey="30:6"/>
+
+         <fattyacid subKey="" rank="5" key="31:0" baseKey="31:0"/>
+        <fattyacid subKey="" rank="5" key="31:1" baseKey="31:1"/>
+        <fattyacid subKey="" rank="5" key="31:2" baseKey="31:2"/>
+        <fattyacid subKey="" rank="5" key="31:3" baseKey="31:3"/>
+        <fattyacid subKey="" rank="5" key="31:4" baseKey="31:4"/>
+        <fattyacid subKey="" rank="5" key="31:5" baseKey="31:5"/>
+        <fattyacid subKey="" rank="4" key="31:6" baseKey="31:6"/>
+
+        <fattyacid subKey="" rank="5" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="" rank="5" key="32:1" baseKey="32:1"/>
+        <fattyacid subKey="" rank="5" key="32:2" baseKey="32:2"/>
+        <fattyacid subKey="" rank="5" key="32:3" baseKey="32:3"/>
+        <fattyacid subKey="" rank="5" key="32:4" baseKey="32:4"/>
+        <fattyacid subKey="" rank="5" key="32:5" baseKey="32:5"/>
+        <fattyacid subKey="" rank="5" key="32:6" baseKey="32:6"/>
+        <fattyacid subKey="" rank="5" key="33:0" baseKey="33:0"/>
+        <fattyacid subKey="" rank="5" key="33:1" baseKey="33:1"/>
+        <fattyacid subKey="" rank="5" key="33:2" baseKey="33:2"/>
+        <fattyacid subKey="" rank="5" key="33:3" baseKey="33:3"/>
+        <fattyacid subKey="" rank="5" key="33:4" baseKey="33:4"/>
+        <fattyacid subKey="" rank="5" key="33:5" baseKey="33:5"/>
+        <fattyacid subKey="" rank="5" key="33:6" baseKey="33:6"/>
+        <fattyacid subKey="" rank="5" key="34:0" baseKey="34:0"/>
+        <fattyacid subKey="" rank="5" key="34:1" baseKey="34:1"/>
+        <fattyacid subKey="" rank="5" key="34:2" baseKey="34:2"/>
+        <fattyacid subKey="" rank="5" key="34:3" baseKey="34:3"/>
+        <fattyacid subKey="" rank="5" key="34:4" baseKey="34:4"/>
+        <fattyacid subKey="" rank="5" key="34:5" baseKey="34:5"/>
+        <fattyacid subKey="" rank="5" key="34:6" baseKey="34:6"/>
+        <fattyacid subKey="" rank="5" key="35:0" baseKey="35:0"/>
+        <fattyacid subKey="" rank="5" key="35:1" baseKey="35:1"/>
+        <fattyacid subKey="" rank="5" key="35:2" baseKey="35:2"/>
+        <fattyacid subKey="" rank="5" key="35:3" baseKey="35:3"/>
+        <fattyacid subKey="" rank="5" key="35:4" baseKey="35:4"/>
+        <fattyacid subKey="" rank="5" key="35:5" baseKey="35:5"/>
+        <fattyacid subKey="" rank="5" key="35:6" baseKey="35:6"/>
+        <fattyacid subKey="" rank="5" key="36:0" baseKey="36:0"/>
+        <fattyacid subKey="" rank="5" key="36:1" baseKey="36:1"/>
+        <fattyacid subKey="" rank="5" key="36:2" baseKey="36:2"/>
+        <fattyacid subKey="" rank="5" key="36:3" baseKey="36:3"/>
+        <fattyacid subKey="" rank="5" key="36:4" baseKey="36:4"/>
+        <fattyacid subKey="" rank="5" key="36:5" baseKey="36:5"/>
+        <fattyacid subKey="" rank="5" key="36:6" baseKey="36:6"/>
+        <fattyacid subKey="" rank="5" key="37:0" baseKey="37:0"/>
+        <fattyacid subKey="" rank="5" key="37:1" baseKey="37:1"/>
+        <fattyacid subKey="" rank="5" key="37:2" baseKey="37:2"/>
+        <fattyacid subKey="" rank="5" key="37:3" baseKey="37:3"/>
+        <fattyacid subKey="" rank="5" key="37:4" baseKey="37:4"/>
+        <fattyacid subKey="" rank="5" key="37:5" baseKey="37:5"/>
+        <fattyacid subKey="" rank="5" key="37:6" baseKey="37:6"/>
+        <fattyacid subKey="" rank="5" key="38:0" baseKey="38:0"/>
+        <fattyacid subKey="" rank="5" key="38:1" baseKey="38:1"/>
+        <fattyacid subKey="" rank="5" key="38:2" baseKey="38:2"/>
+        <fattyacid subKey="" rank="5" key="38:3" baseKey="38:3"/>
+        <fattyacid subKey="" rank="5" key="38:4" baseKey="38:4"/>
+        <fattyacid subKey="" rank="5" key="38:5" baseKey="38:5"/>
+        <fattyacid subKey="" rank="5" key="38:6" baseKey="38:6"/>
+    </fattyacid-group>
+    <fattyacid-group id="OddFa">
+        <fattyacid subKey="" rank="999" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="999" key="13:1" baseKey="13:1"/>
+        <fattyacid subKey="" rank="999" key="13:2" baseKey="13:2"/>
+        <fattyacid subKey="" rank="999" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="999" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="999" key="15:2" baseKey="15:2"/>
+        <fattyacid subKey="" rank="999" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="999" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="999" key="17:2" baseKey="17:2"/>
+        <fattyacid subKey="" rank="999" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="999" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="999" key="19:2" baseKey="19:2"/>
+        <fattyacid subKey="" rank="999" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="999" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="999" key="21:2" baseKey="21:2"/>
+    </fattyacid-group>
+
+    <fattyacid-group id="WE-1">
+        <fattyacid subKey="" rank="5" key="2:0" baseKey="2:0"/>
+        <fattyacid subKey="" rank="1" key="3:0" baseKey="3:0"/>
+        <fattyacid subKey="" rank="1" key="4:0" baseKey="4:0"/>
+        <fattyacid subKey="" rank="1" key="5:0" baseKey="5:0"/>
+        <fattyacid subKey="" rank="1" key="6:0" baseKey="6:0"/>
+        <fattyacid subKey="" rank="1" key="7:0" baseKey="7:0"/>
+        <fattyacid subKey="" rank="1" key="8:0" baseKey="8:0"/>
+        <fattyacid subKey="" rank="1" key="9:0" baseKey="9:0"/>
+        <fattyacid subKey="" rank="1" key="10:0" baseKey="10:0"/>
+        <fattyacid subKey="" rank="1" key="11:0" baseKey="11:0"/>
+
+         <fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+         <fattyacid subKey="" rank="5" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="4" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="4" key="18:4" baseKey="18:4"/>
+
+        <fattyacid subKey="" rank="1" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="2" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="4" key="19:2" baseKey="19:2"/>
+        <fattyacid subKey="" rank="4" key="19:3" baseKey="19:3"/>
+        <fattyacid subKey="" rank="4" key="19:4" baseKey="19:4"/>
+
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+
+        <fattyacid subKey="" rank="2" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="2" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="5" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="4" key="21:4" baseKey="21:4"/>
+
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+
+        <fattyacid subKey="" rank="5" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="5" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="5" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="5" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="5" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="4" key="23:6" baseKey="23:6"/>
+
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="5" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="5" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="5" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="4" key="24:6" baseKey="24:6"/>
+
+        <fattyacid subKey="" rank="5" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="5" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="5" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="5" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="5" key="25:5" baseKey="25:5"/>
+        <fattyacid subKey="" rank="4" key="25:6" baseKey="25:6"/>
+
+        <fattyacid subKey="" rank="5" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="5" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="5" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="5" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="5" key="25:5" baseKey="25:5"/>
+        <fattyacid subKey="" rank="4" key="25:6" baseKey="25:6"/>
+
+        <fattyacid subKey="" rank="5" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="5" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="5" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="5" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="5" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="5" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="4" key="26:6" baseKey="26:6"/>
+
+        <fattyacid subKey="" rank="5" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="" rank="5" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="5" key="27:2" baseKey="27:2"/>
+        <fattyacid subKey="" rank="5" key="27:3" baseKey="27:3"/>
+        <fattyacid subKey="" rank="5" key="27:4" baseKey="27:4"/>
+        <fattyacid subKey="" rank="5" key="27:5" baseKey="27:5"/>
+        <fattyacid subKey="" rank="4" key="27:6" baseKey="27:6"/>
+
+
+        <fattyacid subKey="" rank="5" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="5" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="5" key="28:2" baseKey="28:2"/>
+        <fattyacid subKey="" rank="5" key="28:3" baseKey="28:3"/>
+        <fattyacid subKey="" rank="5" key="28:4" baseKey="28:4"/>
+        <fattyacid subKey="" rank="5" key="28:5" baseKey="28:5"/>
+        <fattyacid subKey="" rank="4" key="28:6" baseKey="28:6"/>
+
+
+        <fattyacid subKey="" rank="5" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="" rank="5" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="5" key="29:2" baseKey="29:2"/>
+        <fattyacid subKey="" rank="5" key="29:3" baseKey="29:3"/>
+        <fattyacid subKey="" rank="5" key="29:4" baseKey="29:4"/>
+        <fattyacid subKey="" rank="5" key="29:5" baseKey="29:5"/>
+        <fattyacid subKey="" rank="4" key="29:6" baseKey="29:6"/>
+
+        <fattyacid subKey="" rank="5" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="5" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="5" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="5" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="5" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="5" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="4" key="30:6" baseKey="30:6"/>
+
+    </fattyacid-group>
+
+    <fattyacid-group id="WE-2">
+    	<fattyacid subKey="" rank="5" key="12:0" baseKey="12:0"/>
+    	<fattyacid subKey="" rank="5" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="5" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="5" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="5" key="14:2" baseKey="14:2"/>
+        <fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="1" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="15:2" baseKey="15:2"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="1" key="16:2" baseKey="16:2"/>
+        <fattyacid subKey="" rank="1" key="16:3" baseKey="16:3"/>
+        <fattyacid subKey="" rank="1" key="16:4" baseKey="16:4"/>
+        <fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="17:2" baseKey="17:2"/>
+         <fattyacid subKey="" rank="1" key="17:3" baseKey="17:3"/>
+          <fattyacid subKey="" rank="1" key="17:4" baseKey="17:4"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="18:0+Ox" baseKey="18:0"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="2" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="4" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="4" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="4" key="18:4" baseKey="18:4"/>
+
+        <fattyacid subKey="" rank="1" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="19:0+Ox" baseKey="19:0"/>
+        <fattyacid subKey="" rank="2" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="4" key="19:2" baseKey="19:2"/>
+        <fattyacid subKey="" rank="4" key="19:3" baseKey="19:3"/>
+        <fattyacid subKey="" rank="4" key="19:4" baseKey="19:4"/>
+
+        <fattyacid subKey="" rank="2" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="20:0+Ox" baseKey="20:0"/>
+        <fattyacid subKey="" rank="2" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="5" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="5" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="4" key="20:4" baseKey="20:4"/>
+
+        <fattyacid subKey="" rank="2" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="21:0+Ox" baseKey="21:0"/>
+        <fattyacid subKey="" rank="2" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="5" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="5" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="4" key="21:4" baseKey="21:4"/>
+
+        <fattyacid subKey="" rank="5" key="22:0" baseKey="22:0"/>
+       	<fattyacid subKey="+Ox" rank="1" key="22:0+Ox" baseKey="22:0"/>
+        <fattyacid subKey="" rank="5" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="5" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="5" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="5" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="5" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="4" key="22:6" baseKey="22:6"/>
+
+        <fattyacid subKey="" rank="5" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="23:0+Ox" baseKey="23:0"/>
+        <fattyacid subKey="" rank="5" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="5" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="5" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="5" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="5" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="4" key="23:6" baseKey="23:6"/>
+
+
+        <fattyacid subKey="" rank="5" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="24:0+Ox" baseKey="24:0"/>
+        <fattyacid subKey="" rank="5" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="5" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="5" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="5" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="5" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="5" key="24:6" baseKey="24:6"/>
+
+         <fattyacid subKey="" rank="5" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="25:0+Ox" baseKey="25:0"/>
+        <fattyacid subKey="" rank="5" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="5" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="5" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="5" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="5" key="25:5" baseKey="25:5"/>
+        <fattyacid subKey="" rank="4" key="25:6" baseKey="25:6"/>
+
+        <fattyacid subKey="" rank="5" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="+Ox" rank="1" key="26:0+Ox" baseKey="26:0"/>
+        <fattyacid subKey="" rank="5" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="5" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="5" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="5" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="5" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="5" key="26:6" baseKey="26:6"/>
+    </fattyacid-group>
+    <fattyacid-group id="OxFa2">
+    	<fattyacid key="PGE2" rank="999">C20 H32 O5</fattyacid>
+    	<fattyacid key="PGD2" rank="999">C20 H32 O5</fattyacid>
+    	<fattyacid key="5s6r-LipoxinB4" rank="999">C20 H32 O5</fattyacid>
+    	<fattyacid key="LTB4 20-OH" rank="999">C20 H32 O5</fattyacid>
+    	<fattyacid key="PGJ2 15-deoxy" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="PGF2a" rank="999">C20 H34 O5</fattyacid>
+    	<fattyacid key="PGF1a 6-keto" rank="999">C20 H34 O6</fattyacid>
+    	<fattyacid key="TxB2" rank="999">C20 H34 O6</fattyacid>
+    	<fattyacid key="LTB4" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="LTC4" rank="999">C30 H47 O9 N3 S1</fattyacid>
+    	<fattyacid key="LTD4" rank="999">C25 H40 O6 N2 S1</fattyacid>
+    	<fattyacid key="5-OH AA" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="8-OH AA" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="12-OH AA" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="15-OH AA" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="AA+O" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="5,15-DiH AA" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="8,15-DiH AA" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="AA+2O" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="AA+3O" rank="999">C20 H32 O5</fattyacid>
+    	<fattyacid key="20-H PGE3" rank="999">C20 H32 O6</fattyacid>
+    	<fattyacid key="5-Oxo ETE" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="15-Oxo ETE" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="5-OH EPA" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="8-OH EPA" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="12-OH EPA" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="15-OH EPA" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="18-OH EPA" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="EPA+O" rank="999">C20 H30 O3</fattyacid>
+    	<fattyacid key="LTB5" rank="999">C20 H30 O4</fattyacid>
+    	<fattyacid key="5,15-DiH EPA" rank="999">C20 H30 O4</fattyacid>
+    	<fattyacid key="8,15-DiH EPA" rank="999">C20 H30 O4</fattyacid>
+    	<fattyacid key="8,18-DiH EPA" rank="999">C20 H30 O4</fattyacid>
+    	<fattyacid key="EPA+2O" rank="999">C20 H30 O4</fattyacid>
+    	<fattyacid key="PGE3" rank="999">C20 H30 O5</fattyacid>
+    	<fattyacid key="PGD3" rank="999">C20 H30 O5</fattyacid>
+    	<fattyacid key="RvE1" rank="999">C20 H30 O5</fattyacid>
+    	<fattyacid key="EPA+3O" rank="999">C20 H30 O5</fattyacid>
+    	<fattyacid key="4-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="7-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="10-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="13-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="17-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="20-OH DHA" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="DHA+O" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="7,17-DiH DHA" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="10,17-DiH DHA" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="DHA+2O" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="RvD1" rank="999">C22 H32 O5</fattyacid>
+    	<fattyacid key="DHA+3O" rank="999">C22 H32 O5</fattyacid>
+    	<fattyacid key="DHA+4O" rank="999">C22 H32 O6</fattyacid>
+    	<fattyacid key="4-OH DPA" rank="999">C22 H34 O3</fattyacid>
+    	<fattyacid key="7-OH DPA" rank="999">C22 H34 O3</fattyacid>
+    	<fattyacid key="DPA+O" rank="999">C22 H34 O3</fattyacid>
+    	<fattyacid key="7,17-DiH DPA" rank="999">C22 H34 O4</fattyacid>
+    	<fattyacid key="DPA+2O" rank="999">C22 H34 O4</fattyacid>
+    	<fattyacid key="7,8,17-TriH DPA" rank="999">C22 H34 O5</fattyacid>
+    	<fattyacid key="7,17,18-TriH DPA" rank="999">C22 H34 O5</fattyacid>
+    	<fattyacid key="DPA+3O" rank="999">C22 H34 O5</fattyacid>
+    	<fattyacid key="DPA+4O" rank="999">C22 H34 O6</fattyacid>
+    	<fattyacid key="9-HODE" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="13-HODE" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="18:2+O" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="9-oxy 18:2" rank="999">C18 H30 O3</fattyacid>
+    	<fattyacid key="13-oxy 18:2" rank="999">C18 H30 O3</fattyacid>
+    	<fattyacid key="18:2+2O" rank="999">C18 H32 O4</fattyacid>
+    	<fattyacid key="9-HOTrE" rank="999">C18 H30 O3</fattyacid>
+    	<fattyacid key="13-HOTrE" rank="999">C18 H30 O3</fattyacid>
+    	<fattyacid key="18:3+O" rank="999">C18 H30 O3</fattyacid>
+    	<fattyacid key="18:3+2O" rank="999">C18 H30 O4</fattyacid>
+    </fattyacid-group>
+    <fattyacid-group id="OxFa">
+        <fattyacid subKey="CHO" rank="999" key="4:0CHO" baseKey="4:0"/>
+        <fattyacid subKey="CHO" rank="999" key="5:0CHO" baseKey="5:0"/>
+        <fattyacid subKey="CHO" rank="999" key="6:1CHO" baseKey="6:1"/>
+        <fattyacid subKey="CHO" rank="999" key="7:1CHO" baseKey="7:1"/>
+        <fattyacid subKey="CHO" rank="999" key="8:1CHO" baseKey="8:1"/>
+        <fattyacid subKey="CHO" rank="999" key="8:2CHO" baseKey="8:2"/>
+        <fattyacid subKey="CHO" rank="999" key="9:0CHO" baseKey="9:0"/>
+        <fattyacid subKey="CHO" rank="999" key="9:2CHO" baseKey="9:2"/>
+        <fattyacid subKey="CHO" rank="999" key="10:2CHO" baseKey="10:2"/>
+        <fattyacid subKey="CHO" rank="999" key="11:0CHO" baseKey="11:0"/>
+        <fattyacid subKey="CHO" rank="999" key="11:1CHO" baseKey="11:1"/>
+        <fattyacid subKey="CHO" rank="999" key="11:2CHO" baseKey="11:2"/>
+        <fattyacid subKey="CHO" rank="999" key="11:3CHO" baseKey="11:3"/>
+        <fattyacid subKey="CHO" rank="999" key="12:1CHO" baseKey="12:1"/>
+        <fattyacid subKey="CHO" rank="999" key="12:3CHO" baseKey="12:3"/>
+        <fattyacid subKey="CHO" rank="999" key="13:2CHO" baseKey="13:2"/>
+        <fattyacid subKey="CHO" rank="999" key="13:3CHO" baseKey="13:3"/>
+        <fattyacid subKey="CHO" rank="999" key="14:4CHO" baseKey="14:4"/>
+        <fattyacid subKey="CHO" rank="999" key="15:4CHO" baseKey="14:4"/>
+        <fattyacid subKey="CHO" rank="999" key="16:4CHO" baseKey="16:4"/>
+        <fattyacid subKey="CHO" rank="999" key="17:0CHO" baseKey="17:0"/>
+        <fattyacid subKey="CHO" rank="999" key="17:5CHO" baseKey="17:5"/>
+        <fattyacid subKey="CHO" rank="999" key="18:5CHO" baseKey="18:5"/>
+        <fattyacid subKey="CHO" rank="999" key="20:6CHO" baseKey="20:6"/>
+        <fattyacid subKey="COOH" rank="999" key="4:0COOH" baseKey="4:0"/>
+        <fattyacid subKey="COOH" rank="999" key="5:0COOH" baseKey="5:0"/>
+        <fattyacid subKey="COOH" rank="999" key="6:1COOH" baseKey="6:1"/>
+        <fattyacid subKey="COOH" rank="999" key="7:1COOH" baseKey="7:1"/>
+        <fattyacid subKey="COOH" rank="999" key="8:1COOH" baseKey="8:1"/>
+        <fattyacid subKey="COOH" rank="999" key="8:2COOH" baseKey="8:2"/>
+        <fattyacid subKey="COOH" rank="999" key="9:0COOH" baseKey="9:0"/>
+        <fattyacid subKey="COOH" rank="999" key="9:2COOH" baseKey="9:2"/>
+        <fattyacid subKey="COOH" rank="999" key="10:2COOH" baseKey="10:2"/>
+        <fattyacid subKey="COOH" rank="999" key="11:1COOH" baseKey="11:1"/>
+        <fattyacid subKey="COOH" rank="999" key="11:2COOH" baseKey="11:2"/>
+        <fattyacid subKey="COOH" rank="999" key="11:3COOH" baseKey="11:3"/>
+        <fattyacid subKey="COOH" rank="999" key="12:3COOH" baseKey="12:3"/>
+        <fattyacid subKey="COOH" rank="999" key="13:2COOH" baseKey="13:2"/>
+        <fattyacid subKey="COOH" rank="999" key="13:3COOH" baseKey="13:3"/>
+        <fattyacid subKey="COOH" rank="999" key="14:4COOH" baseKey="14:4"/>
+        <fattyacid subKey="COOH" rank="999" key="15:4COOH" baseKey="15:4"/>
+        <fattyacid subKey="COOH" rank="999" key="16:4COOH" baseKey="16:4"/>
+        <fattyacid subKey="COOH" rank="999" key="17:5COOH" baseKey="17:5"/>
+        <fattyacid subKey="COOH" rank="999" key="18:5COOH" baseKey="18:5"/>
+        <fattyacid subKey="COOH" rank="999" key="20:6COOH" baseKey="20:6"/>
+        <fattyacid subKey="+O" rank="999" key="18:1+O" baseKey="18:1"/>
+        <fattyacid subKey="+2O" rank="999" key="18:1+2O" baseKey="18:1"/>
+        <fattyacid subKey="+O" rank="999" key="18:2+O" baseKey="18:2"/>
+        <fattyacid subKey="+2O" rank="999" key="18:2+2O" baseKey="18:2"/>
+        <fattyacid subKey="+3O" rank="999" key="18:2+3O" baseKey="18:2"/>
+        <fattyacid subKey="+4O" rank="999" key="18:2+4O" baseKey="18:2"/>
+        <fattyacid subKey="+5O" rank="999" key="18:2+5O" baseKey="18:2"/>
+        <fattyacid subKey="+6O" rank="999" key="18:2+6O" baseKey="18:2"/>
+        <fattyacid subKey="+7O" rank="999" key="18:2+7O" baseKey="18:2"/>
+        <fattyacid subKey="+8O" rank="999" key="18:2+8O" baseKey="18:2"/>
+        <fattyacid subKey="+Ox" rank="998" key="18:2+Ox" baseKey="18:2"/>
+        <fattyacid subKey="+OO" rank="998" key="18:2+OO" baseKey="18:2"/>
+        <fattyacid subKey="+Ox" rank="998" key="18:3+Ox" baseKey="18:3"/>
+        <fattyacid subKey="+2O+Ox" rank="999" key="18:3+2O+Ox" baseKey="18:3"/>
+        <fattyacid subKey="+3O+Ox" rank="999" key="18:3+3O+Ox" baseKey="18:3"/>
+        <fattyacid subKey="+Ox" rank="998" key="18:3+Ox" baseKey="18:3"/>
+        <fattyacid subKey="+OO" rank="998" key="18:3+OO" baseKey="18:3"/>
+        <fattyacid subKey="+O" rank="999" key="18:3+O" baseKey="18:3"/>
+        <fattyacid subKey="+2O" rank="999" key="18:3+2O" baseKey="18:3"/>
+        <fattyacid subKey="+3O" rank="999" key="18:3+3O" baseKey="18:3"/>
+        <fattyacid subKey="+4O" rank="999" key="18:3+4O" baseKey="18:3"/>
+        <fattyacid subKey="+5O" rank="999" key="18:3+5O" baseKey="18:3"/>
+        <fattyacid subKey="+6O" rank="999" key="18:3+6O" baseKey="18:3"/>
+        <fattyacid subKey="+7O" rank="999" key="18:3+7O" baseKey="18:3"/>
+        <fattyacid subKey="+8O" rank="999" key="18:3+8O" baseKey="18:3"/>
+        <fattyacid subKey="+2O+Ox" rank="999" key="20:3+2O+Ox" baseKey="20:3"/>
+        <fattyacid subKey="+3O+Ox" rank="999" key="20:3+3O+Ox" baseKey="20:3"/>
+        <fattyacid subKey="+Ox" rank="998" key="20:4+Ox" baseKey="20:4"/>
+        <fattyacid subKey="+OO" rank="998" key="20:4+OO" baseKey="20:4"/>
+        <fattyacid subKey="+O" rank="999" key="20:4+O" baseKey="20:4"/>
+        <fattyacid subKey="+2O" rank="999" key="20:4+2O" baseKey="20:4"/>
+        <fattyacid subKey="+3O" rank="999" key="20:4+3O" baseKey="20:4"/>
+        <fattyacid subKey="+4O" rank="999" key="20:4+4O" baseKey="20:4"/>
+        <fattyacid subKey="+5O" rank="999" key="20:4+5O" baseKey="20:4"/>
+        <fattyacid subKey="+6O" rank="999" key="20:4+6O" baseKey="20:4"/>
+        <fattyacid subKey="+7O" rank="999" key="20:4+7O" baseKey="20:4"/>
+        <fattyacid subKey="+8O" rank="999" key="20:4+8O" baseKey="20:4"/>
+        <fattyacid subKey="+2O" rank="999" key="20:5+2O" baseKey="20:5"/>
+        <fattyacid subKey="+3O" rank="999" key="20:5+3O" baseKey="20:5"/>
+        <fattyacid subKey="+4O" rank="999" key="20:5+4O" baseKey="20:5"/>
+        <fattyacid subKey="+5O" rank="999" key="20:5+5O" baseKey="20:5"/>
+        <fattyacid subKey="+6O" rank="999" key="20:5+6O" baseKey="20:5"/>
+        <fattyacid subKey="+7O" rank="999" key="20:5+7O" baseKey="20:5"/>
+        <fattyacid subKey="+8O" rank="999" key="20:5+8O" baseKey="20:5"/>
+        <fattyacid subKey="+Ox" rank="998" key="20:5+Ox" baseKey="20:5"/>
+        <fattyacid subKey="+OO" rank="998" key="20:5+OO" baseKey="20:5"/>
+        <fattyacid subKey="+O" rank="999" key="22:5+O" baseKey="22:5"/>
+        <fattyacid subKey="+2O" rank="999" key="22:5+2O" baseKey="22:5"/>
+        <fattyacid subKey="+3O" rank="999" key="22:5+3O" baseKey="22:5"/>
+        <fattyacid subKey="+4O" rank="999" key="22:5+4O" baseKey="22:5"/>
+        <fattyacid subKey="+5O" rank="999" key="22:5+5O" baseKey="22:5"/>
+        <fattyacid subKey="+6O" rank="999" key="22:5+6O" baseKey="22:5"/>
+        <fattyacid subKey="+7O" rank="999" key="22:5+7O" baseKey="22:5"/>
+        <fattyacid subKey="+8O" rank="999" key="22:5+8O" baseKey="22:5"/>
+        <fattyacid subKey="+O" rank="999" key="22:6+O" baseKey="22:6"/>
+        <fattyacid subKey="+2O" rank="999" key="22:6+2O" baseKey="22:6"/>
+        <fattyacid subKey="+3O" rank="999" key="22:6+3O" baseKey="22:6"/>
+        <fattyacid subKey="+4O" rank="999" key="22:6+4O" baseKey="22:6"/>
+        <fattyacid subKey="+5O" rank="999" key="22:6+5O" baseKey="22:6"/>
+        <fattyacid subKey="+6O" rank="999" key="22:6+6O" baseKey="22:6"/>
+        <fattyacid subKey="+7O" rank="999" key="22:6+7O" baseKey="22:6"/>
+        <fattyacid subKey="+8O" rank="999" key="22:6+8O" baseKey="22:6"/>
+        <fattyacid subKey="+Ox" rank="998" key="22:6+Ox" baseKey="22:6"/>
+        <fattyacid subKey="+OO" rank="998" key="22:6+OO" baseKey="22:6"/>
+        <fattyacid subKey="COOCH3" rank="999" key="4:0COOCH3" baseKey="4:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="5:0COOCH3" baseKey="5:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="7:0COOCH3" baseKey="7:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="8:0COOCH3" baseKey="8:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="9:0COOCH3" baseKey="9:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="10:0COOCH3" baseKey="10:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="11:0COOCH3" baseKey="11:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="12:0COOCH3" baseKey="12:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="13:0COOCH3" baseKey="13:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="14:0COOCH3" baseKey="14:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="15:0COOCH3" baseKey="15:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="16:0COOCH3" baseKey="16:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="17:0COOCH3" baseKey="17:0"/>
+        <fattyacid subKey="COOCH3" rank="999" key="19:0COOCH3" baseKey="19:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="OxFa3">
+    	<fattyacid subKey="CHO" rank="999" key="5:0CHO" baseKey="5:0"/>
+    	<fattyacid subKey="COOH" rank="999" key="5:0COOH" baseKey="5:0"/>
+    	<fattyacid subKey="CHO" rank="999" key="9:0CHO" baseKey="9:0"/>
+    	<fattyacid subKey="COOH" rank="999" key="9:0COOH" baseKey="9:0"/>
+		<fattyacid subKey="CHO" rank="999" key="5:0eCHO" baseKey="5:0e"/>
+    	<fattyacid subKey="COOH" rank="999" key="5:0eCOOH" baseKey="5:0e"/>
+    	<fattyacid subKey="CHO" rank="999" key="9:0eCHO" baseKey="9:0e"/>
+    	<fattyacid subKey="COOH" rank="999" key="9:0eCOOH" baseKey="9:0e"/>
+        <fattyacid subKey="+O" rank="999" key="18:2+O" baseKey="18:2"/>
+        <fattyacid subKey="+2O" rank="999" key="18:2+2O" baseKey="18:2"/>
+        <fattyacid subKey="+O" rank="999" key="20:4+O" baseKey="20:4"/>
+        <fattyacid subKey="+2O" rank="999" key="20:4+2O" baseKey="20:4"/>
+        <fattyacid subKey="+O" rank="999" key="18:2p+O" baseKey="18:2p"/>
+        <fattyacid subKey="+2O" rank="999" key="18:2p+2O" baseKey="18:2p"/>
+        <fattyacid subKey="+O" rank="999" key="20:4p+O" baseKey="20:4p"/>
+        <fattyacid subKey="+2O" rank="999" key="20:4p+2O" baseKey="20:4p"/>
+    </fattyacid-group>
+
+	<fattyacid-group id="OxFA4">
+		<fattyacid key="9-HODE" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="13-HODE" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="9,10-DiHOME" rank="999">C18 H32 O4</fattyacid>
+    	<fattyacid key="12,13-DiHOME" rank="999">C18 H32 O4</fattyacid>
+    	<fattyacid key="9,12,13-THOD" rank="999">C18 H32 O5</fattyacid>
+
+    	<fattyacid key="5-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="8-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="9-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="11-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="12-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="15-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="16-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="17-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="18-HETE" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="20-HETE" rank="999">C20 H32 O3</fattyacid>
+
+    	<fattyacid key="5,6-DiHETE" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="5,12-DiHETE" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="5,15-DiHETE" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="8,15-DiHETE" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="14,15-DiHETE" rank="999">C20 H32 O4</fattyacid>
+    	<fattyacid key="17,18-DiHETE" rank="999">C20 H32 O4</fattyacid>
+
+    	<fattyacid key="4-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="7-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="8-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="10-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="11-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="13-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="14-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="16-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="17-HDoHE" rank="999">C22 H32 O3</fattyacid>
+    	<fattyacid key="20-HDoHE" rank="999">C22 H32 O3</fattyacid>
+
+    	<fattyacid key="7,14-DiHDoHE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="7,17-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="10,17-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="4,20-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="10,20-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="13,20-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="14,20-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="19,20-DiHETE" rank="999">C22 H32 O4</fattyacid>
+    	<fattyacid key="20,22-DiHETE" rank="999">C22 H32 O4</fattyacid>
+
+    	<fattyacid key="18:2+9,10-epoxyde" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="18:2+12,13-epoxyde" rank="999">C18 H32 O3</fattyacid>
+    	<fattyacid key="20:4+5,6-epoxyde" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="20:4+8,9-epoxyde" rank="999">C20 H32 O3</fattyacid>
+    	<fattyacid key="20:4+14,15-epoxyde" rank="999">C20 H32 O3</fattyacid>
+
+
+    </fattyacid-group>
+
+
+
+    <fattyacid-group id="FASo">
+    	<fattyacid subKey="" rank="999" key="OH" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="FASP">
+    	<fattyacid subKey="" rank="998" key="4:0" baseKey="4:0"/>
+    	<fattyacid subKey="" rank="998" key="6:0" baseKey="6:0"/>
+    	<fattyacid subKey="" rank="998" key="8:0" baseKey="8:0"/>
+    	<fattyacid subKey="" rank="998" key="10:0" baseKey="10:0"/>
+        <fattyacid subKey="" rank="998" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="998" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="998" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="998" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="998" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="998" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="998" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="998" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="1" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="998" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="998" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="998" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="998" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="998" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="998" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="998" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="998" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="998" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="998" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="998" key="20:5" baseKey="20:5"/>
+
+        <fattyacid subKey="" rank="998" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="998" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="998" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="998" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="998" key="21:4" baseKey="21:4"/>
+        <fattyacid subKey="" rank="998" key="21:5" baseKey="21:5"/>
+        <fattyacid subKey="" rank="998" key="21:6" baseKey="21:6"/>
+
+        <fattyacid subKey="" rank="998" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="998" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="998" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="998" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="998" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="998" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="998" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="998" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="998" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="998" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="998" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="998" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="998" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="998" key="23:6" baseKey="23:6"/>
+        <fattyacid subKey="" rank="998" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="998" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="998" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="998" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="998" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="998" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="998" key="24:6" baseKey="24:6"/>
+
+        <fattyacid subKey="" rank="998" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="998" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="998" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="998" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="998" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="998" key="25:5" baseKey="25:5"/>
+        <fattyacid subKey="" rank="998" key="25:6" baseKey="25:6"/>
+
+        <fattyacid subKey="" rank="998" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="998" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="998" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="998" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="998" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="998" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="998" key="26:6" baseKey="26:6"/>
+
+        <fattyacid subKey="" rank="998" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="" rank="998" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="998" key="27:2" baseKey="27:2"/>
+        <fattyacid subKey="" rank="998" key="27:3" baseKey="27:3"/>
+        <fattyacid subKey="" rank="998" key="27:4" baseKey="27:4"/>
+        <fattyacid subKey="" rank="998" key="27:5" baseKey="27:5"/>
+        <fattyacid subKey="" rank="998" key="27:6" baseKey="27:6"/>
+
+        <fattyacid subKey="" rank="998" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="998" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="998" key="28:2" baseKey="28:2"/>
+        <fattyacid subKey="" rank="998" key="28:3" baseKey="28:3"/>
+        <fattyacid subKey="" rank="998" key="28:4" baseKey="28:4"/>
+        <fattyacid subKey="" rank="998" key="28:5" baseKey="28:5"/>
+        <fattyacid subKey="" rank="998" key="28:6" baseKey="28:6"/>
+        <fattyacid subKey="" rank="998" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="998" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="998" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="998" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="998" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="998" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="998" key="30:6" baseKey="30:6"/>
+        <fattyacid subKey="" rank="998" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="" rank="998" key="32:1" baseKey="32:1"/>
+        <fattyacid subKey="" rank="998" key="32:2" baseKey="32:2"/>
+        <fattyacid subKey="" rank="998" key="32:3" baseKey="32:3"/>
+        <fattyacid subKey="" rank="998" key="32:4" baseKey="32:4"/>
+        <fattyacid subKey="" rank="998" key="32:5" baseKey="32:5"/>
+        <fattyacid subKey="" rank="998" key="32:6" baseKey="32:6"/>
+    </fattyacid-group>
+    <fattyacid-group id="FASP2">
+        <fattyacid subKey="" rank="998" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="998" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="998" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="998" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="998" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="998" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="998" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="998" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="1" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="998" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="998" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="998" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="998" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="998" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="998" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="998" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="998" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="998" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="998" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="998" key="20:5" baseKey="20:5"/>
+
+        <fattyacid subKey="" rank="998" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="998" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="998" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="998" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="998" key="21:4" baseKey="21:4"/>
+        <fattyacid subKey="" rank="998" key="21:5" baseKey="21:5"/>
+        <fattyacid subKey="" rank="998" key="21:6" baseKey="21:6"/>
+
+        <fattyacid subKey="" rank="998" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="998" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="998" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="998" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="998" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="998" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="998" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="998" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="998" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="998" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="998" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="998" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="998" key="23:5" baseKey="23:5"/>
+        <fattyacid subKey="" rank="998" key="23:6" baseKey="23:6"/>
+        <fattyacid subKey="" rank="998" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="998" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="998" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="998" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="998" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="998" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="998" key="24:6" baseKey="24:6"/>
+    </fattyacid-group>
+    <fattyacid-group id="FASP(add+O)">
+        <fattyacid subKey="" rank="998" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="998" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="998" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="+O" rank="998" key="14:0+O" baseKey="14:0"/>
+        <fattyacid subKey="" rank="998" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="+O" rank="998" key="15:0+O" baseKey="15:0"/>
+        <fattyacid subKey="" rank="998" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="998" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="+O" rank="998" key="16:0+O" baseKey="16:0"/>
+        <fattyacid subKey="+2O" rank="998" key="16:0+2O" baseKey="16:0"/>
+        <fattyacid subKey="" rank="998" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="+O" rank="998" key="16:1+O" baseKey="16:1"/>
+        <fattyacid subKey="+2O" rank="998" key="16:1+2O" baseKey="16:1"/>
+        <fattyacid subKey="" rank="998" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="+O" rank="998" key="17:0+O" baseKey="17:0"/>
+        <fattyacid subKey="" rank="998" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="+O" rank="998" key="18:0+O" baseKey="18:0"/>
+        <fattyacid subKey="+2O" rank="998" key="18:0+2O" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="+O" rank="998" key="18:1+O" baseKey="18:1"/>
+        <fattyacid subKey="+2O" rank="998" key="18:1+2O" baseKey="18:1"/>
+        <fattyacid subKey="" rank="998" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="+O" rank="998" key="18:2+O" baseKey="18:2"/>
+        <fattyacid subKey="+2O" rank="998" key="18:2+2O" baseKey="18:2"/>
+        <fattyacid subKey="" rank="998" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="998" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="998" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="+O" rank="998" key="19:0+O" baseKey="19:0"/>
+        <fattyacid subKey="" rank="998" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="998" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="+O" rank="998" key="20:0+O" baseKey="20:0"/>
+        <fattyacid subKey="" rank="998" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="+O" rank="998" key="20:1+O" baseKey="20:1"/>
+        <fattyacid subKey="" rank="998" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="998" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="998" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="998" key="20:5" baseKey="20:5"/>
+
+		<fattyacid subKey="" rank="998" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="+O" rank="998" key="21:0+O" baseKey="21:0"/>
+        <fattyacid subKey="" rank="998" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="998" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="998" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="998" key="21:4" baseKey="21:4"/>
+        <fattyacid subKey="" rank="998" key="21:5" baseKey="21:5"/>
+
+        <fattyacid subKey="" rank="998" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="+O" rank="998" key="22:0+O" baseKey="22:0"/>
+        <fattyacid subKey="" rank="998" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="998" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="998" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="998" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="998" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="998" key="22:6" baseKey="22:6"/>
+
+		<fattyacid subKey="" rank="998" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="+O" rank="998" key="23:0+O" baseKey="23:0"/>
+        <fattyacid subKey="" rank="998" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="998" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="998" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="998" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="998" key="23:5" baseKey="23:5"/>
+
+        <fattyacid subKey="" rank="998" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="+O" rank="998" key="24:0+O" baseKey="24:0"/>
+        <fattyacid subKey="" rank="998" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="998" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="998" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="998" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="998" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="998" key="24:6" baseKey="24:6"/>
+
+		<fattyacid subKey="" rank="998" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="+O" rank="998" key="25:0+O" baseKey="25:0"/>
+        <fattyacid subKey="" rank="998" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="998" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="998" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="998" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="998" key="25:5" baseKey="25:5"/>
+
+        <fattyacid subKey="" rank="998" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="+O" rank="998" key="26:0+O" baseKey="26:0"/>
+        <fattyacid subKey="" rank="998" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="998" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="998" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="998" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="998" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="998" key="26:6" baseKey="26:6"/>
+
+    </fattyacid-group>
+
+	<fattyacid-group id="FA_SKIN_CER">
+        <fattyacid subKey="" rank="998" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="+O" rank="998" key="14:0+O" baseKey="14:0"/>
+        <fattyacid subKey="" rank="998" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="+O" rank="998" key="15:0+O" baseKey="15:0"/>
+        <fattyacid subKey="" rank="998" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="998" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="+O" rank="998" key="16:0+O" baseKey="16:0"/>
+        <fattyacid subKey="+2O" rank="998" key="16:0+2O" baseKey="16:0"/>
+        <fattyacid subKey="" rank="998" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="+O" rank="998" key="16:1+O" baseKey="16:1"/>
+        <fattyacid subKey="+2O" rank="998" key="16:1+2O" baseKey="16:1"/>
+        <fattyacid subKey="" rank="998" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="+O" rank="998" key="17:0+O" baseKey="17:0"/>
+        <fattyacid subKey="" rank="998" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="+O" rank="998" key="18:0+O" baseKey="18:0"/>
+        <fattyacid subKey="+2O" rank="998" key="18:0+2O" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="+O" rank="998" key="18:1+O" baseKey="18:1"/>
+        <fattyacid subKey="+2O" rank="998" key="18:1+2O" baseKey="18:1"/>
+        <fattyacid subKey="" rank="998" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="+O" rank="998" key="18:2+O" baseKey="18:2"/>
+        <fattyacid subKey="+2O" rank="998" key="18:2+2O" baseKey="18:2"/>
+        <fattyacid subKey="" rank="998" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="998" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="998" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="+O" rank="998" key="19:0+O" baseKey="19:0"/>
+        <fattyacid subKey="" rank="998" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="998" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="+O" rank="998" key="20:0+O" baseKey="20:0"/>
+        <fattyacid subKey="" rank="998" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="+O" rank="998" key="20:1+O" baseKey="20:1"/>
+        <fattyacid subKey="" rank="998" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="998" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="998" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="998" key="20:5" baseKey="20:5"/>
+
+		<fattyacid subKey="" rank="998" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="+O" rank="998" key="21:0+O" baseKey="21:0"/>
+        <fattyacid subKey="" rank="998" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="998" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="998" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="998" key="21:4" baseKey="21:4"/>
+        <fattyacid subKey="" rank="998" key="21:5" baseKey="21:5"/>
+
+        <fattyacid subKey="" rank="998" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="+O" rank="998" key="22:0+O" baseKey="22:0"/>
+        <fattyacid subKey="" rank="998" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="998" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="998" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="998" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="998" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="998" key="22:6" baseKey="22:6"/>
+
+		<fattyacid subKey="" rank="998" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="+O" rank="998" key="23:0+O" baseKey="23:0"/>
+        <fattyacid subKey="" rank="998" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="998" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="998" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="998" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="998" key="23:5" baseKey="23:5"/>
+
+        <fattyacid subKey="" rank="998" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="+O" rank="998" key="24:0+O" baseKey="24:0"/>
+        <fattyacid subKey="" rank="998" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="998" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="998" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="998" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="998" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="998" key="24:6" baseKey="24:6"/>
+
+		<fattyacid subKey="" rank="998" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="+O" rank="998" key="25:0+O" baseKey="25:0"/>
+        <fattyacid subKey="" rank="998" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="998" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="998" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="998" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="998" key="25:5" baseKey="25:5"/>
+
+        <fattyacid subKey="" rank="998" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="+O" rank="998" key="26:0+O" baseKey="26:0"/>
+        <fattyacid subKey="" rank="998" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="998" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="998" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="998" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="998" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="998" key="26:6" baseKey="26:6"/>
+
+		<fattyacid subKey="" rank="998" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="+O" rank="998" key="27:0+O" baseKey="27:0"/>
+        <fattyacid subKey="" rank="998" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="998" key="27:2" baseKey="27:2"/>
+        <fattyacid subKey="" rank="998" key="27:3" baseKey="27:3"/>
+        <fattyacid subKey="" rank="998" key="27:4" baseKey="27:4"/>
+        <fattyacid subKey="" rank="998" key="27:5" baseKey="27:5"/>
+		<fattyacid subKey="" rank="998" key="27:6" baseKey="27:6"/>
+
+        <fattyacid subKey="" rank="998" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="+O" rank="998" key="28:0+O" baseKey="28:0"/>
+        <fattyacid subKey="" rank="998" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="998" key="28:2" baseKey="28:2"/>
+        <fattyacid subKey="" rank="998" key="28:3" baseKey="28:3"/>
+        <fattyacid subKey="" rank="998" key="28:4" baseKey="28:4"/>
+        <fattyacid subKey="" rank="998" key="28:5" baseKey="28:5"/>
+        <fattyacid subKey="" rank="998" key="28:6" baseKey="28:6"/>
+
+		<fattyacid subKey="" rank="998" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="+O" rank="998" key="29:0+O" baseKey="29:0"/>
+        <fattyacid subKey="" rank="998" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="998" key="29:2" baseKey="29:2"/>
+        <fattyacid subKey="" rank="998" key="29:3" baseKey="29:3"/>
+        <fattyacid subKey="" rank="998" key="29:4" baseKey="29:4"/>
+        <fattyacid subKey="" rank="998" key="29:5" baseKey="29:5"/>
+		<fattyacid subKey="" rank="998" key="29:6" baseKey="29:6"/>
+
+        <fattyacid subKey="" rank="998" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="+O" rank="998" key="30:0+O" baseKey="30:0"/>
+        <fattyacid subKey="" rank="998" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="998" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="998" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="998" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="998" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="998" key="30:6" baseKey="30:6"/>
+
+        <fattyacid subKey="" rank="998" key="31:0" baseKey="31:0"/>
+        <fattyacid subKey="+O" rank="998" key="31:0+O" baseKey="31:0"/>
+        <fattyacid subKey="" rank="998" key="31:1" baseKey="31:1"/>
+        <fattyacid subKey="" rank="998" key="31:2" baseKey="31:2"/>
+        <fattyacid subKey="" rank="998" key="31:3" baseKey="31:3"/>
+        <fattyacid subKey="" rank="998" key="31:4" baseKey="31:4"/>
+        <fattyacid subKey="" rank="998" key="31:5" baseKey="31:5"/>
+        <fattyacid subKey="" rank="998" key="31:6" baseKey="31:6"/>
+
+        <fattyacid subKey="" rank="998" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="+O" rank="998" key="32:0+O" baseKey="32:0"/>
+        <fattyacid subKey="" rank="998" key="32:1" baseKey="32:1"/>
+        <fattyacid subKey="" rank="998" key="32:2" baseKey="32:2"/>
+        <fattyacid subKey="" rank="998" key="32:3" baseKey="32:3"/>
+        <fattyacid subKey="" rank="998" key="32:4" baseKey="32:4"/>
+        <fattyacid subKey="" rank="998" key="32:5" baseKey="32:5"/>
+        <fattyacid subKey="" rank="998" key="32:6" baseKey="32:6"/>
+
+        <fattyacid subKey="" rank="998" key="33:0" baseKey="33:0"/>
+        <fattyacid subKey="+O" rank="998" key="33:0+O" baseKey="33:0"/>
+        <fattyacid subKey="" rank="998" key="33:1" baseKey="33:1"/>
+        <fattyacid subKey="" rank="998" key="33:2" baseKey="33:2"/>
+        <fattyacid subKey="" rank="998" key="33:3" baseKey="33:3"/>
+        <fattyacid subKey="" rank="998" key="33:4" baseKey="33:4"/>
+        <fattyacid subKey="" rank="998" key="33:5" baseKey="33:5"/>
+        <fattyacid subKey="" rank="998" key="33:6" baseKey="33:6"/>
+        <fattyacid subKey="" rank="998" key="34:0" baseKey="34:0"/>
+        <fattyacid subKey="+O" rank="998" key="34:0+O" baseKey="34:0"/>
+        <fattyacid subKey="" rank="998" key="34:1" baseKey="34:1"/>
+        <fattyacid subKey="" rank="998" key="34:2" baseKey="34:2"/>
+        <fattyacid subKey="" rank="998" key="34:3" baseKey="34:3"/>
+        <fattyacid subKey="" rank="998" key="34:4" baseKey="34:4"/>
+        <fattyacid subKey="" rank="998" key="34:5" baseKey="34:5"/>
+        <fattyacid subKey="" rank="998" key="34:6" baseKey="34:6"/>
+        <fattyacid subKey="" rank="998" key="35:0" baseKey="35:0"/>
+        <fattyacid subKey="" rank="998" key="35:1" baseKey="35:1"/>
+        <fattyacid subKey="" rank="998" key="35:2" baseKey="35:2"/>
+        <fattyacid subKey="" rank="998" key="35:3" baseKey="35:3"/>
+        <fattyacid subKey="" rank="998" key="35:4" baseKey="35:4"/>
+        <fattyacid subKey="" rank="998" key="35:5" baseKey="35:5"/>
+        <fattyacid subKey="" rank="998" key="35:6" baseKey="35:6"/>
+        <fattyacid subKey="" rank="998" key="36:0" baseKey="36:0"/>
+        <fattyacid subKey="" rank="998" key="36:1" baseKey="36:1"/>
+        <fattyacid subKey="" rank="998" key="36:2" baseKey="36:2"/>
+        <fattyacid subKey="" rank="998" key="36:3" baseKey="36:3"/>
+        <fattyacid subKey="" rank="998" key="36:4" baseKey="36:4"/>
+        <fattyacid subKey="" rank="998" key="36:5" baseKey="36:5"/>
+        <fattyacid subKey="" rank="998" key="36:6" baseKey="36:6"/>
+        <fattyacid subKey="" rank="998" key="37:0" baseKey="37:0"/>
+        <fattyacid subKey="" rank="998" key="37:1" baseKey="37:1"/>
+        <fattyacid subKey="" rank="998" key="37:2" baseKey="37:2"/>
+        <fattyacid subKey="" rank="998" key="37:3" baseKey="37:3"/>
+        <fattyacid subKey="" rank="998" key="37:4" baseKey="37:4"/>
+        <fattyacid subKey="" rank="998" key="37:5" baseKey="37:5"/>
+        <fattyacid subKey="" rank="998" key="37:6" baseKey="37:6"/>
+        <fattyacid subKey="" rank="998" key="38:0" baseKey="38:0"/>
+        <fattyacid subKey="" rank="998" key="38:1" baseKey="38:1"/>
+        <fattyacid subKey="" rank="998" key="38:2" baseKey="38:2"/>
+        <fattyacid subKey="" rank="998" key="38:3" baseKey="38:3"/>
+        <fattyacid subKey="" rank="998" key="38:4" baseKey="38:4"/>
+        <fattyacid subKey="" rank="998" key="38:5" baseKey="38:5"/>
+        <fattyacid subKey="" rank="998" key="38:6" baseKey="38:6"/>
+        <fattyacid subKey="" rank="998" key="39:0" baseKey="39:0"/>
+        <fattyacid subKey="" rank="998" key="39:1" baseKey="39:1"/>
+        <fattyacid subKey="" rank="998" key="39:2" baseKey="39:2"/>
+        <fattyacid subKey="" rank="998" key="39:3" baseKey="39:3"/>
+        <fattyacid subKey="" rank="998" key="39:4" baseKey="39:4"/>
+        <fattyacid subKey="" rank="998" key="39:5" baseKey="39:5"/>
+        <fattyacid subKey="" rank="998" key="39:6" baseKey="39:6"/>
+        <fattyacid subKey="" rank="998" key="40:0" baseKey="40:0"/>
+        <fattyacid subKey="" rank="998" key="40:1" baseKey="40:1"/>
+        <fattyacid subKey="" rank="998" key="40:2" baseKey="40:2"/>
+        <fattyacid subKey="" rank="998" key="40:3" baseKey="40:3"/>
+        <fattyacid subKey="" rank="998" key="40:4" baseKey="40:4"/>
+        <fattyacid subKey="" rank="998" key="40:5" baseKey="40:5"/>
+        <fattyacid subKey="" rank="998" key="40:6" baseKey="40:6"/>
+
+        <fattyacid subKey="EO" rank="998" key="44:0EO" baseKey="44:0"/>
+        <fattyacid subKey="EO" rank="998" key="44:1EO" baseKey="44:1"/>
+        <fattyacid subKey="EO" rank="998" key="44:2EO" baseKey="44:2"/>
+        <fattyacid subKey="EO" rank="998" key="45:0EO" baseKey="45:0"/>
+        <fattyacid subKey="EO" rank="998" key="45:1EO" baseKey="45:1"/>
+        <fattyacid subKey="EO" rank="998" key="45:2EO" baseKey="45:2"/>
+        <fattyacid subKey="EO" rank="998" key="46:0EO" baseKey="46:0"/>
+        <fattyacid subKey="EO" rank="998" key="46:1EO" baseKey="46:1"/>
+        <fattyacid subKey="EO" rank="998" key="46:2EO" baseKey="46:2"/>
+        <fattyacid subKey="EO" rank="998" key="47:0EO" baseKey="47:0"/>
+        <fattyacid subKey="EO" rank="998" key="47:1EO" baseKey="47:1"/>
+        <fattyacid subKey="EO" rank="998" key="47:2EO" baseKey="47:2"/>
+        <fattyacid subKey="EO" rank="998" key="48:0EO" baseKey="48:0"/>
+        <fattyacid subKey="EO" rank="998" key="48:1EO" baseKey="48:1"/>
+        <fattyacid subKey="EO" rank="998" key="48:2EO" baseKey="48:2"/>
+        <fattyacid subKey="EO" rank="998" key="49:0EO" baseKey="49:0"/>
+        <fattyacid subKey="EO" rank="998" key="49:1EO" baseKey="49:1"/>
+        <fattyacid subKey="EO" rank="998" key="49:2EO" baseKey="49:2"/>
+        <fattyacid subKey="EO" rank="998" key="50:0EO" baseKey="50:0"/>
+        <fattyacid subKey="EO" rank="998" key="50:1EO" baseKey="50:1"/>
+        <fattyacid subKey="EO" rank="998" key="50:2EO" baseKey="50:2"/>
+        <fattyacid subKey="EO" rank="998" key="51:0EO" baseKey="51:0"/>
+        <fattyacid subKey="EO" rank="998" key="51:1EO" baseKey="51:1"/>
+        <fattyacid subKey="EO" rank="998" key="51:2EO" baseKey="51:2"/>
+        <fattyacid subKey="EO" rank="998" key="52:0EO" baseKey="52:0"/>
+        <fattyacid subKey="EO" rank="998" key="52:1EO" baseKey="52:1"/>
+        <fattyacid subKey="EO" rank="998" key="52:2EO" baseKey="52:2"/>
+        <fattyacid subKey="EO" rank="998" key="53:0EO" baseKey="53:0"/>
+        <fattyacid subKey="EO" rank="998" key="53:1EO" baseKey="53:1"/>
+        <fattyacid subKey="EO" rank="998" key="53:2EO" baseKey="53:2"/>
+        <fattyacid subKey="EO" rank="998" key="54:0EO" baseKey="54:0"/>
+        <fattyacid subKey="EO" rank="998" key="54:1EO" baseKey="54:1"/>
+        <fattyacid subKey="EO" rank="998" key="54:2EO" baseKey="54:2"/>
+        <fattyacid subKey="EO" rank="998" key="55:0EO" baseKey="55:0"/>
+        <fattyacid subKey="EO" rank="998" key="55:1EO" baseKey="55:1"/>
+        <fattyacid subKey="EO" rank="998" key="55:2EO" baseKey="55:2"/>
+        <fattyacid subKey="EO" rank="998" key="56:0EO" baseKey="56:0"/>
+        <fattyacid subKey="EO" rank="998" key="56:1EO" baseKey="56:1"/>
+        <fattyacid subKey="EO" rank="998" key="56:2EO" baseKey="56:2"/>
+        <fattyacid subKey="EO" rank="998" key="57:0EO" baseKey="57:0"/>
+        <fattyacid subKey="EO" rank="998" key="57:1EO" baseKey="57:1"/>
+        <fattyacid subKey="EO" rank="998" key="57:2EO" baseKey="57:2"/>
+        <fattyacid subKey="EO" rank="998" key="58:0EO" baseKey="58:0"/>
+        <fattyacid subKey="EO" rank="998" key="58:1EO" baseKey="58:1"/>
+        <fattyacid subKey="EO" rank="998" key="58:2EO" baseKey="58:2"/>
+        <fattyacid subKey="EO" rank="998" key="59:0EO" baseKey="59:0"/>
+        <fattyacid subKey="EO" rank="998" key="59:1EO" baseKey="59:1"/>
+        <fattyacid subKey="EO" rank="998" key="59:2EO" baseKey="59:2"/>
+        <fattyacid subKey="EO" rank="998" key="60:0EO" baseKey="60:0"/>
+        <fattyacid subKey="EO" rank="998" key="60:1EO" baseKey="60:1"/>
+        <fattyacid subKey="EO" rank="998" key="60:2EO" baseKey="60:2"/>
+
+
+    </fattyacid-group>
+
+<fattyacid-group id="FREE_FA_SKIN">
+        <fattyacid subKey="" rank="998" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="+O" rank="998" key="14:0+O" baseKey="14:0"/>
+        <fattyacid subKey="" rank="998" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="+O" rank="998" key="15:0+O" baseKey="15:0"/>
+        <fattyacid subKey="" rank="998" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="998" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="+O" rank="998" key="16:0+O" baseKey="16:0"/>
+        <fattyacid subKey="+2O" rank="998" key="16:0+2O" baseKey="16:0"/>
+        <fattyacid subKey="" rank="998" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="+O" rank="998" key="16:1+O" baseKey="16:1"/>
+        <fattyacid subKey="+2O" rank="998" key="16:1+2O" baseKey="16:1"/>
+        <fattyacid subKey="" rank="998" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="+O" rank="998" key="17:0+O" baseKey="17:0"/>
+        <fattyacid subKey="" rank="998" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="+O" rank="998" key="18:0+O" baseKey="18:0"/>
+        <fattyacid subKey="+2O" rank="998" key="18:0+2O" baseKey="18:0"/>
+        <fattyacid subKey="" rank="998" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="+O" rank="998" key="18:1+O" baseKey="18:1"/>
+        <fattyacid subKey="+2O" rank="998" key="18:1+2O" baseKey="18:1"/>
+        <fattyacid subKey="" rank="998" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="+O" rank="998" key="18:2+O" baseKey="18:2"/>
+        <fattyacid subKey="+2O" rank="998" key="18:2+2O" baseKey="18:2"/>
+        <fattyacid subKey="" rank="998" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="998" key="18:4" baseKey="18:4"/>
+        <fattyacid subKey="" rank="998" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="+O" rank="998" key="19:0+O" baseKey="19:0"/>
+        <fattyacid subKey="" rank="998" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="998" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="+O" rank="998" key="20:0+O" baseKey="20:0"/>
+        <fattyacid subKey="" rank="998" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="+O" rank="998" key="20:1+O" baseKey="20:1"/>
+        <fattyacid subKey="" rank="998" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="998" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="998" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="998" key="20:5" baseKey="20:5"/>
+
+		<fattyacid subKey="" rank="998" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="+O" rank="998" key="21:0+O" baseKey="21:0"/>
+        <fattyacid subKey="" rank="998" key="21:1" baseKey="21:1"/>
+        <fattyacid subKey="" rank="998" key="21:2" baseKey="21:2"/>
+        <fattyacid subKey="" rank="998" key="21:3" baseKey="21:3"/>
+        <fattyacid subKey="" rank="998" key="21:4" baseKey="21:4"/>
+        <fattyacid subKey="" rank="998" key="21:5" baseKey="21:5"/>
+
+        <fattyacid subKey="" rank="998" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="+O" rank="998" key="22:0+O" baseKey="22:0"/>
+        <fattyacid subKey="" rank="998" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="998" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="998" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="998" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="998" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="998" key="22:6" baseKey="22:6"/>
+
+		<fattyacid subKey="" rank="998" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="+O" rank="998" key="23:0+O" baseKey="23:0"/>
+        <fattyacid subKey="" rank="998" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="998" key="23:2" baseKey="23:2"/>
+        <fattyacid subKey="" rank="998" key="23:3" baseKey="23:3"/>
+        <fattyacid subKey="" rank="998" key="23:4" baseKey="23:4"/>
+        <fattyacid subKey="" rank="998" key="23:5" baseKey="23:5"/>
+
+        <fattyacid subKey="" rank="998" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="+O" rank="998" key="24:0+O" baseKey="24:0"/>
+        <fattyacid subKey="" rank="998" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="998" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="998" key="24:3" baseKey="24:3"/>
+        <fattyacid subKey="" rank="998" key="24:4" baseKey="24:4"/>
+        <fattyacid subKey="" rank="998" key="24:5" baseKey="24:5"/>
+        <fattyacid subKey="" rank="998" key="24:6" baseKey="24:6"/>
+
+		<fattyacid subKey="" rank="998" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="+O" rank="998" key="25:0+O" baseKey="25:0"/>
+        <fattyacid subKey="" rank="998" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="998" key="25:2" baseKey="25:2"/>
+        <fattyacid subKey="" rank="998" key="25:3" baseKey="25:3"/>
+        <fattyacid subKey="" rank="998" key="25:4" baseKey="25:4"/>
+        <fattyacid subKey="" rank="998" key="25:5" baseKey="25:5"/>
+
+        <fattyacid subKey="" rank="998" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="+O" rank="998" key="26:0+O" baseKey="26:0"/>
+        <fattyacid subKey="" rank="998" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="998" key="26:2" baseKey="26:2"/>
+        <fattyacid subKey="" rank="998" key="26:3" baseKey="26:3"/>
+        <fattyacid subKey="" rank="998" key="26:4" baseKey="26:4"/>
+        <fattyacid subKey="" rank="998" key="26:5" baseKey="26:5"/>
+        <fattyacid subKey="" rank="998" key="26:6" baseKey="26:6"/>
+
+		<fattyacid subKey="" rank="998" key="27:0" baseKey="27:0"/>
+        <fattyacid subKey="+O" rank="998" key="27:0+O" baseKey="27:0"/>
+        <fattyacid subKey="" rank="998" key="27:1" baseKey="27:1"/>
+        <fattyacid subKey="" rank="998" key="27:2" baseKey="27:2"/>
+        <fattyacid subKey="" rank="998" key="27:3" baseKey="27:3"/>
+        <fattyacid subKey="" rank="998" key="27:4" baseKey="27:4"/>
+        <fattyacid subKey="" rank="998" key="27:5" baseKey="27:5"/>
+		<fattyacid subKey="" rank="998" key="27:6" baseKey="27:6"/>
+
+        <fattyacid subKey="" rank="998" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="+O" rank="998" key="28:0+O" baseKey="28:0"/>
+        <fattyacid subKey="" rank="998" key="28:1" baseKey="28:1"/>
+        <fattyacid subKey="" rank="998" key="28:2" baseKey="28:2"/>
+        <fattyacid subKey="" rank="998" key="28:3" baseKey="28:3"/>
+        <fattyacid subKey="" rank="998" key="28:4" baseKey="28:4"/>
+        <fattyacid subKey="" rank="998" key="28:5" baseKey="28:5"/>
+        <fattyacid subKey="" rank="998" key="28:6" baseKey="28:6"/>
+
+		<fattyacid subKey="" rank="998" key="29:0" baseKey="29:0"/>
+        <fattyacid subKey="+O" rank="998" key="29:0+O" baseKey="29:0"/>
+        <fattyacid subKey="" rank="998" key="29:1" baseKey="29:1"/>
+        <fattyacid subKey="" rank="998" key="29:2" baseKey="29:2"/>
+        <fattyacid subKey="" rank="998" key="29:3" baseKey="29:3"/>
+        <fattyacid subKey="" rank="998" key="29:4" baseKey="29:4"/>
+        <fattyacid subKey="" rank="998" key="29:5" baseKey="29:5"/>
+		<fattyacid subKey="" rank="998" key="29:6" baseKey="29:6"/>
+
+        <fattyacid subKey="" rank="998" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="+O" rank="998" key="30:0+O" baseKey="30:0"/>
+        <fattyacid subKey="" rank="998" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="998" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="998" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="998" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="998" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="998" key="30:6" baseKey="30:6"/>
+
+        <fattyacid subKey="" rank="998" key="31:0" baseKey="31:0"/>
+        <fattyacid subKey="+O" rank="998" key="31:0+O" baseKey="31:0"/>
+        <fattyacid subKey="" rank="998" key="31:1" baseKey="31:1"/>
+        <fattyacid subKey="" rank="998" key="31:2" baseKey="31:2"/>
+        <fattyacid subKey="" rank="998" key="31:3" baseKey="31:3"/>
+        <fattyacid subKey="" rank="998" key="31:4" baseKey="31:4"/>
+        <fattyacid subKey="" rank="998" key="31:5" baseKey="31:5"/>
+        <fattyacid subKey="" rank="998" key="31:6" baseKey="31:6"/>
+
+        <fattyacid subKey="" rank="998" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="+O" rank="998" key="32:0+O" baseKey="32:0"/>
+        <fattyacid subKey="" rank="998" key="32:1" baseKey="32:1"/>
+        <fattyacid subKey="" rank="998" key="32:2" baseKey="32:2"/>
+        <fattyacid subKey="" rank="998" key="32:3" baseKey="32:3"/>
+        <fattyacid subKey="" rank="998" key="32:4" baseKey="32:4"/>
+        <fattyacid subKey="" rank="998" key="32:5" baseKey="32:5"/>
+        <fattyacid subKey="" rank="998" key="32:6" baseKey="32:6"/>
+
+        <fattyacid subKey="" rank="998" key="33:0" baseKey="33:0"/>
+        <fattyacid subKey="+O" rank="998" key="33:0+O" baseKey="33:0"/>
+        <fattyacid subKey="" rank="998" key="33:1" baseKey="33:1"/>
+        <fattyacid subKey="" rank="998" key="33:2" baseKey="33:2"/>
+        <fattyacid subKey="" rank="998" key="33:3" baseKey="33:3"/>
+        <fattyacid subKey="" rank="998" key="33:4" baseKey="33:4"/>
+        <fattyacid subKey="" rank="998" key="33:5" baseKey="33:5"/>
+        <fattyacid subKey="" rank="998" key="33:6" baseKey="33:6"/>
+        <fattyacid subKey="" rank="998" key="34:0" baseKey="34:0"/>
+        <fattyacid subKey="+O" rank="998" key="34:0+O" baseKey="34:0"/>
+        <fattyacid subKey="" rank="998" key="34:1" baseKey="34:1"/>
+        <fattyacid subKey="" rank="998" key="34:2" baseKey="34:2"/>
+        <fattyacid subKey="" rank="998" key="34:3" baseKey="34:3"/>
+        <fattyacid subKey="" rank="998" key="34:4" baseKey="34:4"/>
+        <fattyacid subKey="" rank="998" key="34:5" baseKey="34:5"/>
+        <fattyacid subKey="" rank="998" key="34:6" baseKey="34:6"/>
+        <fattyacid subKey="" rank="998" key="35:0" baseKey="35:0"/>
+        <fattyacid subKey="" rank="998" key="35:1" baseKey="35:1"/>
+        <fattyacid subKey="" rank="998" key="35:2" baseKey="35:2"/>
+        <fattyacid subKey="" rank="998" key="35:3" baseKey="35:3"/>
+        <fattyacid subKey="" rank="998" key="35:4" baseKey="35:4"/>
+        <fattyacid subKey="" rank="998" key="35:5" baseKey="35:5"/>
+        <fattyacid subKey="" rank="998" key="35:6" baseKey="35:6"/>
+        <fattyacid subKey="" rank="998" key="36:0" baseKey="36:0"/>
+        <fattyacid subKey="" rank="998" key="36:1" baseKey="36:1"/>
+        <fattyacid subKey="" rank="998" key="36:2" baseKey="36:2"/>
+        <fattyacid subKey="" rank="998" key="36:3" baseKey="36:3"/>
+        <fattyacid subKey="" rank="998" key="36:4" baseKey="36:4"/>
+        <fattyacid subKey="" rank="998" key="36:5" baseKey="36:5"/>
+        <fattyacid subKey="" rank="998" key="36:6" baseKey="36:6"/>
+        <fattyacid subKey="" rank="998" key="37:0" baseKey="37:0"/>
+        <fattyacid subKey="" rank="998" key="37:1" baseKey="37:1"/>
+        <fattyacid subKey="" rank="998" key="37:2" baseKey="37:2"/>
+        <fattyacid subKey="" rank="998" key="37:3" baseKey="37:3"/>
+        <fattyacid subKey="" rank="998" key="37:4" baseKey="37:4"/>
+        <fattyacid subKey="" rank="998" key="37:5" baseKey="37:5"/>
+        <fattyacid subKey="" rank="998" key="37:6" baseKey="37:6"/>
+        <fattyacid subKey="" rank="998" key="38:0" baseKey="38:0"/>
+        <fattyacid subKey="" rank="998" key="38:1" baseKey="38:1"/>
+        <fattyacid subKey="" rank="998" key="38:2" baseKey="38:2"/>
+        <fattyacid subKey="" rank="998" key="38:3" baseKey="38:3"/>
+        <fattyacid subKey="" rank="998" key="38:4" baseKey="38:4"/>
+        <fattyacid subKey="" rank="998" key="38:5" baseKey="38:5"/>
+        <fattyacid subKey="" rank="998" key="38:6" baseKey="38:6"/>
+        <fattyacid subKey="" rank="998" key="39:0" baseKey="39:0"/>
+        <fattyacid subKey="" rank="998" key="39:1" baseKey="39:1"/>
+        <fattyacid subKey="" rank="998" key="39:2" baseKey="39:2"/>
+        <fattyacid subKey="" rank="998" key="39:3" baseKey="39:3"/>
+        <fattyacid subKey="" rank="998" key="39:4" baseKey="39:4"/>
+        <fattyacid subKey="" rank="998" key="39:5" baseKey="39:5"/>
+        <fattyacid subKey="" rank="998" key="39:6" baseKey="39:6"/>
+        <fattyacid subKey="" rank="998" key="40:0" baseKey="40:0"/>
+        <fattyacid subKey="" rank="998" key="40:1" baseKey="40:1"/>
+        <fattyacid subKey="" rank="998" key="40:2" baseKey="40:2"/>
+        <fattyacid subKey="" rank="998" key="40:3" baseKey="40:3"/>
+        <fattyacid subKey="" rank="998" key="40:4" baseKey="40:4"/>
+        <fattyacid subKey="" rank="998" key="40:5" baseKey="40:5"/>
+        <fattyacid subKey="" rank="998" key="40:6" baseKey="40:6"/>
+
+    </fattyacid-group>
+
+
+    <fattyacid-group id="dfa">
+    	<fattyacid subKey="d12:0" rank="998" key="d12:0" baseKey="0:0"/>
+		<fattyacid subKey="d13:0" rank="998" key="d13:0" baseKey="0:0"/>
+    	<fattyacid subKey="d14:0" rank="998" key="d14:0" baseKey="0:0"/>
+    	<fattyacid subKey="d14:1" rank="998" key="d14:1" baseKey="0:0"/>
+		<fattyacid subKey="d14:2" rank="998" key="d14:2" baseKey="0:0"/>
+		<fattyacid subKey="d15:0" rank="998" key="d15:0" baseKey="0:0"/>
+		<fattyacid subKey="d15:1" rank="998" key="d15:1" baseKey="0:0"/>
+		<fattyacid subKey="d15:2" rank="998" key="d15:2" baseKey="0:0"/>
+    	<fattyacid subKey="d16:0" rank="7" key="d16:0" baseKey="0:0"/>
+    	<fattyacid subKey="d16:1" rank="8" key="d16:1" baseKey="0:0"/>
+		<fattyacid subKey="d16:2" rank="9" key="d16:2" baseKey="0:0"/>
+    	<fattyacid subKey="d17:0" rank="998" key="d17:0" baseKey="0:0"/>
+		<fattyacid subKey="d17:1" rank="998" key="d17:1" baseKey="0:0"/>
+		<fattyacid subKey="d18:0" rank="2" key="d18:0" baseKey="0:0"/>
+    	<fattyacid subKey="d18:1" rank="1" key="d18:1" baseKey="0:0"/>
+    	<fattyacid subKey="d18:2" rank="2" key="d18:2" baseKey="0:0"/>
+		<fattyacid subKey="d19:0" rank="999" key="d19:0" baseKey="0:0"/>
+    	<fattyacid subKey="d19:1" rank="999" key="d19:1" baseKey="0:0"/>
+    	<fattyacid subKey="d19:2" rank="999" key="d19:2" baseKey="0:0"/>
+    	<fattyacid subKey="d20:0" rank="7" key="d20:0" baseKey="0:0"/>
+    	<fattyacid subKey="d20:1" rank="7" key="d20:1" baseKey="0:0"/>
+    	<fattyacid subKey="d20:2" rank="998" key="d20:2" baseKey="0:0"/>
+
+		<fattyacid subKey="d21:0" rank="999" key="d21:0" baseKey="0:0"/>
+    	<fattyacid subKey="d21:1" rank="999" key="d21:1" baseKey="0:0"/>
+    	<fattyacid subKey="d21:2" rank="998" key="d21:2" baseKey="0:0"/>
+
+
+    	<fattyacid subKey="d22:0" rank="998" key="d22:0" baseKey="0:0"/>
+    	<fattyacid subKey="d22:1" rank="998" key="d22:1" baseKey="0:0"/>
+    	<fattyacid subKey="d22:2" rank="998" key="d22:2" baseKey="0:0"/>
+
+		<fattyacid subKey="d23:0" rank="999" key="d23:0" baseKey="0:0"/>
+    	<fattyacid subKey="d23:1" rank="999" key="d23:1" baseKey="0:0"/>
+    	<fattyacid subKey="d23:2" rank="998" key="d23:2" baseKey="0:0"/>
+
+    	<fattyacid subKey="d24:0" rank="998" key="d24:0" baseKey="0:0"/>
+		<fattyacid subKey="d24:1" rank="998" key="d24:1" baseKey="0:0"/>
+		<fattyacid subKey="d24:2" rank="998" key="d24:2" baseKey="0:0"/>
+
+    	<fattyacid subKey="t16:0" rank="1" key="t16:0" baseKey="0:0"/>
+    	<fattyacid subKey="t16:1" rank="2" key="t16:1" baseKey="0:0"/>
+    	<fattyacid subKey="t17:0" rank="998" key="t17:0" baseKey="0:0"/>
+		<fattyacid subKey="t17:1" rank="998" key="t17:1" baseKey="0:0"/>
+		<fattyacid subKey="t18:0" rank="2" key="t18:0" baseKey="0:0"/>
+    	<fattyacid subKey="t18:1" rank="1" key="t18:1" baseKey="0:0"/>
+    	<fattyacid subKey="t20:0" rank="2" key="t20:0" baseKey="0:0"/>
+    	<fattyacid subKey="t20:1" rank="2" key="t20:1" baseKey="0:0"/>
+		<fattyacid subKey="m17:0" rank="1" key="m17:0" baseKey="0:0"/>
+    	<fattyacid subKey="m17:1" rank="1" key="m17:1" baseKey="0:0"/>
+    	<fattyacid subKey="m18:0" rank="1" key="m18:0" baseKey="0:0"/>
+    	<fattyacid subKey="m18:1" rank="1" key="m18:1" baseKey="0:0"/>
+		<fattyacid subKey="m19:0" rank="1" key="m19:0" baseKey="0:0"/>
+    	<fattyacid subKey="m19:1" rank="1" key="m19:1" baseKey="0:0"/>
+		<fattyacid subKey="m20:0" rank="1" key="m20:0" baseKey="0:0"/>
+    	<fattyacid subKey="m20:1" rank="1" key="m20:1" baseKey="0:0"/>
+		<fattyacid subKey="m21:0" rank="1" key="m21:0" baseKey="0:0"/>
+    	<fattyacid subKey="m21:1" rank="1" key="m21:1" baseKey="0:0"/>
+		<fattyacid subKey="m22:0" rank="1" key="m22:0" baseKey="0:0"/>
+    	<fattyacid subKey="m22:1" rank="1" key="m22:1" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="dfa2">
+    	<fattyacid subKey="d12:0" rank="998" key="d12:0" baseKey="0:0"/>
+		<fattyacid subKey="d13:0" rank="998" key="d13:0" baseKey="0:0"/>
+    	<fattyacid subKey="d14:0" rank="998" key="d14:0" baseKey="0:0"/>
+    	<fattyacid subKey="d14:1" rank="998" key="d14:1" baseKey="0:0"/>
+		<fattyacid subKey="d14:2" rank="998" key="d14:2" baseKey="0:0"/>
+		<fattyacid subKey="d15:0" rank="998" key="d15:0" baseKey="0:0"/>
+		<fattyacid subKey="d15:1" rank="998" key="d15:1" baseKey="0:0"/>
+		<fattyacid subKey="d15:2" rank="998" key="d15:2" baseKey="0:0"/>
+    	<fattyacid subKey="d16:0" rank="7" key="d16:0" baseKey="0:0"/>
+    	<fattyacid subKey="d16:1" rank="8" key="d16:1" baseKey="0:0"/>
+		<fattyacid subKey="d16:2" rank="9" key="d16:2" baseKey="0:0"/>
+    	<fattyacid subKey="d17:0" rank="998" key="d17:0" baseKey="0:0"/>
+		<fattyacid subKey="d17:1" rank="998" key="d17:1" baseKey="0:0"/>
+		<fattyacid subKey="d18:0" rank="2" key="d18:0" baseKey="0:0"/>
+    	<fattyacid subKey="d18:1" rank="1" key="d18:1" baseKey="0:0"/>
+    	<fattyacid subKey="d18:2" rank="2" key="d18:2" baseKey="0:0"/>
+		<fattyacid subKey="d19:0" rank="999" key="d19:0" baseKey="0:0"/>
+    	<fattyacid subKey="d19:1" rank="999" key="d19:1" baseKey="0:0"/>
+    	<fattyacid subKey="d19:2" rank="999" key="d19:2" baseKey="0:0"/>
+    	<fattyacid subKey="d20:0" rank="7" key="d20:0" baseKey="0:0"/>
+    	<fattyacid subKey="d20:1" rank="7" key="d20:1" baseKey="0:0"/>
+    	<fattyacid subKey="d20:2" rank="998" key="d20:2" baseKey="0:0"/>
+
+		<fattyacid subKey="d21:0" rank="999" key="d21:0" baseKey="0:0"/>
+    	<fattyacid subKey="d21:1" rank="999" key="d21:1" baseKey="0:0"/>
+    	<fattyacid subKey="d21:2" rank="998" key="d21:2" baseKey="0:0"/>
+
+
+    	<fattyacid subKey="d22:0" rank="998" key="d22:0" baseKey="0:0"/>
+    	<fattyacid subKey="d22:1" rank="998" key="d22:1" baseKey="0:0"/>
+    	<fattyacid subKey="d22:2" rank="998" key="d22:2" baseKey="0:0"/>
+
+		<fattyacid subKey="d23:0" rank="999" key="d23:0" baseKey="0:0"/>
+    	<fattyacid subKey="d23:1" rank="999" key="d23:1" baseKey="0:0"/>
+    	<fattyacid subKey="d23:2" rank="998" key="d23:2" baseKey="0:0"/>
+
+    	<fattyacid subKey="d24:0" rank="998" key="d24:0" baseKey="0:0"/>
+		<fattyacid subKey="d24:1" rank="998" key="d24:1" baseKey="0:0"/>
+		<fattyacid subKey="d24:2" rank="998" key="d24:2" baseKey="0:0"/>
+	 </fattyacid-group>
+	 <fattyacid-group id="resdfa">
+	 	<fattyacid subKey="d14:0" rank="5" key="d14:0" baseKey="0:0"/>
+	 	<fattyacid subKey="d16:0" rank="5" key="d16:0" baseKey="0:0"/>
+	 	<fattyacid subKey="d16:1" rank="5" key="d16:1" baseKey="0:0"/>
+	 	<fattyacid subKey="d17:0" rank="5" key="d17:0" baseKey="0:0"/>
+	 	<fattyacid subKey="d17:1" rank="5" key="d17:1" baseKey="0:0"/>
+		<fattyacid subKey="d18:0" rank="2" key="d18:0" baseKey="0:0"/>
+    	<fattyacid subKey="d18:1" rank="1" key="d18:1" baseKey="0:0"/>
+    	<fattyacid subKey="d18:2" rank="2" key="d18:2" baseKey="0:0"/>
+    	<fattyacid subKey="d19:0" rank="5" key="d19:0" baseKey="0:0"/>
+	 	<fattyacid subKey="d19:1" rank="5" key="d19:1" baseKey="0:0"/>
+	 	<fattyacid subKey="d20:0" rank="5" key="d20:0" baseKey="0:0"/>
+	 	<fattyacid subKey="d20:1" rank="5" key="d20:1" baseKey="0:0"/>
+		<fattyacid subKey="t18:0" rank="2" key="t18:0" baseKey="0:0"/>
+    	<fattyacid subKey="t18:1" rank="1" key="t18:1" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="doxSpfa">
+		<fattyacid subKey="m18:0" rank="1" key="m18:0" baseKey="0:0"/>
+    	<fattyacid subKey="m18:1" rank="1" key="m18:1" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="doxMeSpfa">
+		<fattyacid subKey="dm17:0" rank="1" key="m17:0" baseKey="0:0"/>
+    	<fattyacid subKey="dm17:1" rank="1" key="m17:1" baseKey="0:0"/>
+    </fattyacid-group>
+
+    <fattyacid-group id="Glyco">
+    	<fattyacid subKey="d12:0" rank="998" key="G1" baseKey="0:0"/>
+    	<fattyacid subKey="d14:0" rank="998" key="G2" baseKey="0:0"/>
+    	<fattyacid subKey="d14:1" rank="998" key="G3" baseKey="0:0"/>
+    	<fattyacid subKey="d16:0" rank="998" key="d16:0" baseKey="0:0"/>
+    	<fattyacid subKey="d16:1" rank="998" key="d16:1" baseKey="0:0"/>
+    </fattyacid-group>
+     <fattyacid-group id="Ch-FA">
+    	<fattyacid subKey="" rank="999" key="0:0" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="ChE-FA">
+        <fattyacid subKey="" rank="999" key="2:0" baseKey="2:0"/>
+        <fattyacid subKey="" rank="999" key="4:0" baseKey="4:0"/>
+        <fattyacid subKey="" rank="999" key="6:0" baseKey="6:0"/>
+        <fattyacid subKey="" rank="999" key="8:0" baseKey="8:0"/>
+        <fattyacid subKey="" rank="999" key="10:0" baseKey="10:0"/>
+        <fattyacid subKey="" rank="999" key="11:0" baseKey="11:0"/>
+        <fattyacid subKey="" rank="999" key="12:0" baseKey="12:0"/>
+        <fattyacid subKey="" rank="999" key="13:0" baseKey="13:0"/>
+        <fattyacid subKey="" rank="999" key="13:1" baseKey="13:1"/>
+        <fattyacid subKey="" rank="999" key="14:0" baseKey="14:0"/>
+        <fattyacid subKey="" rank="999" key="14:1" baseKey="14:1"/>
+        <fattyacid subKey="" rank="999" key="15:0" baseKey="15:0"/>
+        <fattyacid subKey="" rank="999" key="15:1" baseKey="15:1"/>
+        <fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+        <fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+        <fattyacid subKey="" rank="999" key="17:0" baseKey="17:0"/>
+        <fattyacid subKey="" rank="999" key="17:1" baseKey="17:1"/>
+        <fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+        <fattyacid subKey="" rank="1" key="18:1" baseKey="18:1"/>
+        <fattyacid subKey="" rank="999" key="18:2" baseKey="18:2"/>
+        <fattyacid subKey="" rank="999" key="18:3" baseKey="18:3"/>
+        <fattyacid subKey="" rank="999" key="19:0" baseKey="19:0"/>
+        <fattyacid subKey="" rank="999" key="19:1" baseKey="19:1"/>
+        <fattyacid subKey="" rank="999" key="20:0" baseKey="20:0"/>
+        <fattyacid subKey="" rank="999" key="20:1" baseKey="20:1"/>
+        <fattyacid subKey="" rank="999" key="20:2" baseKey="20:2"/>
+        <fattyacid subKey="" rank="999" key="20:3" baseKey="20:3"/>
+        <fattyacid subKey="" rank="999" key="20:4" baseKey="20:4"/>
+        <fattyacid subKey="" rank="999" key="20:5" baseKey="20:5"/>
+        <fattyacid subKey="" rank="999" key="21:0" baseKey="21:0"/>
+        <fattyacid subKey="" rank="999" key="21:1" baseKey="21:1"/>
+
+        <fattyacid subKey="" rank="999" key="22:0" baseKey="22:0"/>
+        <fattyacid subKey="" rank="999" key="22:1" baseKey="22:1"/>
+        <fattyacid subKey="" rank="999" key="22:2" baseKey="22:2"/>
+        <fattyacid subKey="" rank="999" key="22:3" baseKey="22:3"/>
+        <fattyacid subKey="" rank="999" key="22:4" baseKey="22:4"/>
+        <fattyacid subKey="" rank="999" key="22:5" baseKey="22:5"/>
+        <fattyacid subKey="" rank="999" key="22:6" baseKey="22:6"/>
+        <fattyacid subKey="" rank="999" key="23:0" baseKey="23:0"/>
+        <fattyacid subKey="" rank="999" key="23:1" baseKey="23:1"/>
+        <fattyacid subKey="" rank="999" key="24:0" baseKey="24:0"/>
+        <fattyacid subKey="" rank="999" key="24:1" baseKey="24:1"/>
+        <fattyacid subKey="" rank="999" key="24:2" baseKey="24:2"/>
+        <fattyacid subKey="" rank="999" key="25:0" baseKey="25:0"/>
+        <fattyacid subKey="" rank="999" key="25:1" baseKey="25:1"/>
+        <fattyacid subKey="" rank="999" key="26:0" baseKey="26:0"/>
+        <fattyacid subKey="" rank="999" key="26:1" baseKey="26:1"/>
+        <fattyacid subKey="" rank="999" key="28:0" baseKey="28:0"/>
+        <fattyacid subKey="" rank="999" key="28:1" baseKey="28:1"/>
+        
+        <fattyacid subKey="" rank="999" key="30:0" baseKey="30:0"/>
+        <fattyacid subKey="" rank="999" key="30:1" baseKey="30:1"/>
+        <fattyacid subKey="" rank="999" key="30:2" baseKey="30:2"/>
+        <fattyacid subKey="" rank="999" key="30:3" baseKey="30:3"/>
+        <fattyacid subKey="" rank="999" key="30:4" baseKey="30:4"/>
+        <fattyacid subKey="" rank="999" key="30:5" baseKey="30:5"/>
+        <fattyacid subKey="" rank="999" key="30:6" baseKey="30:6"/>
+        <fattyacid subKey="" rank="999" key="32:0" baseKey="32:0"/>
+        <fattyacid subKey="" rank="999" key="32:1" baseKey="32:1"/>
+        
+        <fattyacid subKey="" rank="999" key="33:0" baseKey="33:0"/>
+        <fattyacid subKey="" rank="999" key="33:1" baseKey="33:1"/>
+        
+        <fattyacid subKey="" rank="999" key="34:0" baseKey="34:0"/>
+        <fattyacid subKey="" rank="999" key="34:1" baseKey="34:1"/>
+        
+        <fattyacid subKey="" rank="999" key="35:0" baseKey="35:0"/>
+        <fattyacid subKey="" rank="999" key="35:1" baseKey="35:1"/>
+        
+        <fattyacid subKey="" rank="999" key="36:0" baseKey="36:0"/>
+        <fattyacid subKey="" rank="999" key="36:1" baseKey="36:1"/>
+      
+        <fattyacid subKey="" rank="999" key="37:0" baseKey="37:0"/>
+        <fattyacid subKey="" rank="999" key="37:1" baseKey="37:1"/>
+       
+        <fattyacid subKey="" rank="999" key="38:0" baseKey="38:0"/>
+        <fattyacid subKey="" rank="999" key="38:1" baseKey="38:1"/>
+       
+
+    </fattyacid-group>
+	<fattyacid-group id="IS_GL_Fa1">
+		<fattyacid subKey="D7" rank="2" key="18:1D7" baseKey="18:1"/>
+	</fattyacid-group>
+	<fattyacid-group id="IS_GL_Fa2">
+		<fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+    	<fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+    	<fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+	</fattyacid-group>
+    <fattyacid-group id="IS_Fa">
+    	<fattyacid subKey="D31" rank="998" key="16:0D31" baseKey="16:0"/>
+    	<fattyacid subKey="D30" rank="998" key="16:0D30" baseKey="16:0"/>
+    	<fattyacid subKey="D3" rank="998" key="16:0D3" baseKey="16:0"/>
+    	<fattyacid subKey="D8" rank="998" key="20:4D8" baseKey="20:4"/>
+    	<fattyacid subKey="D9" rank="998" key="16:0D9" baseKey="16:0"/>
+    	<fattyacid subKey="D5" rank="998" key="16:1D5" baseKey="16:1"/>
+    	<fattyacid subKey="D4" rank="998" key="26:0D4" baseKey="26:0"/>
+    	<fattyacid subKey="D7" rank="2" key="18:1D7" baseKey="18:1"/>
+    	<fattyacid subKey="D9" rank="2" key="18:1D9" baseKey="18:1"/>
+    </fattyacid-group>
+    <fattyacid-group id="Label_Fa_aldehyde">
+    	<fattyacid subKey="D9-O" rank="998" key="16:0D9-O" baseKey="16:0"/>
+    	<fattyacid subKey="D5-O" rank="998" key="16:1D5-O" baseKey="16:1"/>
+    </fattyacid-group>
+    <fattyacid-group id="ChE-Deu">
+		 <fattyacid subKey="" rank="999" key="0:0" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="IS_Fa_sn2">
+    	<fattyacid subKey="" rank="999" key="18:0" baseKey="18:0"/>
+		 <fattyacid subKey="" rank="999" key="18:1" baseKey="18:1"/>
+    </fattyacid-group>
+	<fattyacid-group id="dfa_is">
+    	<fattyacid subKey="d18:1" rank="1" key="d18:1" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="dfa_is_label">
+    	<fattyacid subKey="d18:0D3" rank="1" key="d18:0D3" baseKey="0:0"/>
+    	<fattyacid subKey="d18:1D5" rank="1" key="d18:1D5" baseKey="0:0"/>
+    	<fattyacid subKey="d18:1D7" rank="1" key="d18:1D7" baseKey="0:0"/>
+    	<fattyacid subKey="d18:0D7" rank="1" key="d18:0D7" baseKey="0:0"/>
+    	<fattyacid subKey="m18:0D7" rank="998" key="m18:0D7" baseKey="0:0"/>
+		<fattyacid subKey="m18:1D7" rank="998" key="m18:1D7" baseKey="0:0"/>
+		<fattyacid subKey="m17:0D7" rank="998" key="m17:0D7" baseKey="0:0"/>
+		<fattyacid subKey="m17:1D7" rank="998" key="m17:1D7" baseKey="0:0"/>
+    </fattyacid-group>
+	<fattyacid-group id="IS_FA2">
+    	<fattyacid subKey="BPA" rank="998" key="BPA" baseKey="0:0"/>
+    </fattyacid-group>
+    <fattyacid-group id="DGL_Fa">
+    	<fattyacid subKey="" rank="1" key="14:0" baseKey="14:0"/>
+    	<fattyacid subKey="" rank="1" key="15:0" baseKey="15:0"/>
+    	<fattyacid subKey="" rank="1" key="16:0" baseKey="16:0"/>
+    	<fattyacid subKey="" rank="1" key="17:0" baseKey="17:0"/>
+    	<fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+    	<fattyacid subKey="" rank="1" key="19:0" baseKey="19:0"/>
+    	<fattyacid subKey="" rank="1" key="20:0" baseKey="20:0"/>
+    	<fattyacid subKey="" rank="1" key="20:2" baseKey="20:2"/>
+    	<fattyacid subKey="" rank="1" key="20:4" baseKey="20:4"/>
+    	<fattyacid subKey="" rank="1" key="20:5" baseKey="20:5"/>
+    </fattyacid-group>
+    <fattyacid-group id="DGL_Fa3">
+    	<fattyacid subKey="" rank="1" key="22:6" baseKey="22:6"/>
+    	<fattyacid subKey="" rank="1" key="16:1" baseKey="16:1"/>
+    	<fattyacid subKey="" rank="1" key="18:1" baseKey="18:1"/>
+    	<fattyacid subKey="" rank="1" key="12:0" baseKey="12:0"/>
+    	<fattyacid subKey="" rank="1" key="17:1" baseKey="17:1"/>
+    	<fattyacid subKey="" rank="1" key="18:0" baseKey="18:0"/>
+    	<fattyacid subKey="" rank="1" key="20:1" baseKey="20:1"/>
+    	<fattyacid subKey="" rank="1" key="18:3" baseKey="18:3"/>
+    	<fattyacid subKey="" rank="1" key="18:2" baseKey="18:2"/>
+    </fattyacid-group>
+
+	<fattyacid-group id="CoQ">
+    	<fattyacid subKey="Q6" rank="998" key="Q6" baseKey="0:0"/>
+    	<fattyacid subKey="Q7" rank="998" key="Q7" baseKey="0:0"/>
+    	<fattyacid subKey="Q8" rank="998" key="Q8" baseKey="0:0"/>
+    	<fattyacid subKey="Q9" rank="998" key="Q9" baseKey="0:0"/>
+    	<fattyacid subKey="Q10" rank="998" key="Q10" baseKey="0:0"/>
+    </fattyacid-group>
+
+
+
+    <fattyacid-group id="GGL_FA">
+    	<fattyacid subKey="" rank="4" key="1:0" baseKey="1:0" />
+		<fattyacid subKey="" rank="4" key="2:0" baseKey="2:0" />
+		<fattyacid subKey="" rank="4" key="2:1" baseKey="2:1" />
+		<fattyacid subKey="" rank="4" key="3:0" baseKey="3:0" />
+		<fattyacid subKey="" rank="4" key="3:1" baseKey="3:1" />
+		<fattyacid subKey="" rank="4" key="3:2" baseKey="3:2" />
+		<fattyacid subKey="" rank="4" key="4:0" baseKey="4:0" />
+		<fattyacid subKey="" rank="4" key="4:1" baseKey="4:1" />
+		<fattyacid subKey="" rank="4" key="4:2" baseKey="4:2" />
+		<fattyacid subKey="" rank="4" key="4:3" baseKey="4:3" />
+		<fattyacid subKey="" rank="4" key="5:0" baseKey="5:0" />
+		<fattyacid subKey="" rank="4" key="5:1" baseKey="5:1" />
+		<fattyacid subKey="" rank="4" key="5:2" baseKey="5:2" />
+		<fattyacid subKey="" rank="4" key="5:3" baseKey="5:3" />
+		<fattyacid subKey="" rank="4" key="5:4" baseKey="5:4" />
+		<fattyacid subKey="" rank="4" key="6:0" baseKey="6:0" />
+		<fattyacid subKey="" rank="4" key="6:1" baseKey="6:1" />
+		<fattyacid subKey="" rank="4" key="6:2" baseKey="6:2" />
+		<fattyacid subKey="" rank="4" key="6:3" baseKey="6:3" />
+		<fattyacid subKey="" rank="4" key="6:4" baseKey="6:4" />
+		<fattyacid subKey="" rank="4" key="6:5" baseKey="6:5" />
+		<fattyacid subKey="" rank="4" key="7:0" baseKey="7:0" />
+		<fattyacid subKey="" rank="4" key="7:1" baseKey="7:1" />
+		<fattyacid subKey="" rank="4" key="7:2" baseKey="7:2" />
+		<fattyacid subKey="" rank="4" key="7:3" baseKey="7:3" />
+		<fattyacid subKey="" rank="4" key="7:4" baseKey="7:4" />
+		<fattyacid subKey="" rank="4" key="7:5" baseKey="7:5" />
+		<fattyacid subKey="" rank="4" key="8:0" baseKey="8:0" />
+		<fattyacid subKey="" rank="4" key="8:1" baseKey="8:1" />
+		<fattyacid subKey="" rank="4" key="8:2" baseKey="8:2" />
+		<fattyacid subKey="" rank="4" key="8:3" baseKey="8:3" />
+		<fattyacid subKey="" rank="4" key="8:4" baseKey="8:4" />
+		<fattyacid subKey="" rank="4" key="8:5" baseKey="8:5" />
+		<fattyacid subKey="" rank="4" key="9:0" baseKey="9:0" />
+		<fattyacid subKey="" rank="4" key="9:1" baseKey="9:1" />
+		<fattyacid subKey="" rank="4" key="9:2" baseKey="9:2" />
+		<fattyacid subKey="" rank="4" key="9:3" baseKey="9:3" />
+		<fattyacid subKey="" rank="4" key="9:4" baseKey="9:4" />
+		<fattyacid subKey="" rank="4" key="9:5" baseKey="9:5" />
+		<fattyacid subKey="" rank="4" key="10:0" baseKey="10:0" />
+		<fattyacid subKey="" rank="4" key="10:1" baseKey="10:1" />
+		<fattyacid subKey="" rank="4" key="10:2" baseKey="10:2" />
+		<fattyacid subKey="" rank="4" key="10:3" baseKey="10:3" />
+		<fattyacid subKey="" rank="4" key="10:4" baseKey="10:4" />
+		<fattyacid subKey="" rank="4" key="10:5" baseKey="10:5" />
+		<fattyacid subKey="" rank="4" key="11:0" baseKey="11:0" />
+		<fattyacid subKey="" rank="4" key="11:1" baseKey="11:1" />
+		<fattyacid subKey="" rank="4" key="11:2" baseKey="11:2" />
+		<fattyacid subKey="" rank="4" key="11:3" baseKey="11:3" />
+		<fattyacid subKey="" rank="4" key="11:4" baseKey="11:4" />
+		<fattyacid subKey="" rank="4" key="11:5" baseKey="11:5" />
+		<fattyacid subKey="" rank="4" key="12:0" baseKey="12:0" />
+		<fattyacid subKey="" rank="4" key="12:1" baseKey="12:1" />
+		<fattyacid subKey="" rank="4" key="12:2" baseKey="12:2" />
+		<fattyacid subKey="" rank="4" key="12:3" baseKey="12:3" />
+		<fattyacid subKey="" rank="4" key="12:4" baseKey="12:4" />
+		<fattyacid subKey="" rank="4" key="12:5" baseKey="12:5" />
+		<fattyacid subKey="" rank="4" key="13:0" baseKey="13:0" />
+		<fattyacid subKey="" rank="4" key="13:1" baseKey="13:1" />
+		<fattyacid subKey="" rank="4" key="13:2" baseKey="13:2" />
+		<fattyacid subKey="" rank="4" key="13:3" baseKey="13:3" />
+		<fattyacid subKey="" rank="4" key="13:4" baseKey="13:4" />
+		<fattyacid subKey="" rank="4" key="13:5" baseKey="13:5" />
+		<fattyacid subKey="" rank="4" key="14:0" baseKey="14:0" />
+		<fattyacid subKey="" rank="4" key="14:1" baseKey="14:1" />
+		<fattyacid subKey="" rank="4" key="14:2" baseKey="14:2" />
+		<fattyacid subKey="" rank="4" key="14:3" baseKey="14:3" />
+		<fattyacid subKey="" rank="4" key="14:4" baseKey="14:4" />
+		<fattyacid subKey="" rank="4" key="14:5" baseKey="14:5" />
+		<fattyacid subKey="" rank="4" key="15:0" baseKey="15:0" />
+		<fattyacid subKey="" rank="4" key="15:1" baseKey="15:1" />
+		<fattyacid subKey="" rank="4" key="15:2" baseKey="15:2" />
+		<fattyacid subKey="" rank="4" key="15:3" baseKey="15:3" />
+		<fattyacid subKey="" rank="4" key="15:4" baseKey="15:4" />
+		<fattyacid subKey="" rank="4" key="15:5" baseKey="15:5" />
+		<fattyacid subKey="" rank="4" key="16:0" baseKey="16:0" />
+		<fattyacid subKey="" rank="4" key="16:1" baseKey="16:1" />
+		<fattyacid subKey="" rank="4" key="16:2" baseKey="16:2" />
+		<fattyacid subKey="" rank="4" key="16:3" baseKey="16:3" />
+		<fattyacid subKey="" rank="4" key="16:4" baseKey="16:4" />
+		<fattyacid subKey="" rank="4" key="16:5" baseKey="16:5" />
+		<fattyacid subKey="" rank="4" key="17:0" baseKey="17:0" />
+		<fattyacid subKey="" rank="4" key="17:1" baseKey="17:1" />
+		<fattyacid subKey="" rank="4" key="17:2" baseKey="17:2" />
+		<fattyacid subKey="" rank="4" key="17:3" baseKey="17:3" />
+		<fattyacid subKey="" rank="4" key="17:4" baseKey="17:4" />
+		<fattyacid subKey="" rank="4" key="17:5" baseKey="17:5" />
+		<fattyacid subKey="" rank="4" key="18:0" baseKey="18:0" />
+		<fattyacid subKey="" rank="4" key="18:1" baseKey="18:1" />
+		<fattyacid subKey="" rank="4" key="18:2" baseKey="18:2" />
+		<fattyacid subKey="" rank="4" key="18:3" baseKey="18:3" />
+		<fattyacid subKey="" rank="4" key="18:4" baseKey="18:4" />
+		<fattyacid subKey="" rank="4" key="18:5" baseKey="18:5" />
+		<fattyacid subKey="" rank="4" key="19:0" baseKey="19:0" />
+		<fattyacid subKey="" rank="4" key="19:1" baseKey="19:1" />
+		<fattyacid subKey="" rank="4" key="19:2" baseKey="19:2" />
+		<fattyacid subKey="" rank="4" key="19:3" baseKey="19:3" />
+		<fattyacid subKey="" rank="4" key="19:4" baseKey="19:4" />
+		<fattyacid subKey="" rank="4" key="19:5" baseKey="19:5" />
+		<fattyacid subKey="" rank="4" key="20:0" baseKey="20:0" />
+		<fattyacid subKey="" rank="4" key="20:1" baseKey="20:1" />
+		<fattyacid subKey="" rank="4" key="20:2" baseKey="20:2" />
+		<fattyacid subKey="" rank="4" key="20:3" baseKey="20:3" />
+		<fattyacid subKey="" rank="4" key="20:4" baseKey="20:4" />
+		<fattyacid subKey="" rank="4" key="20:5" baseKey="20:5" />
+		<fattyacid subKey="" rank="4" key="20:6" baseKey="20:6" />
+		<fattyacid subKey="" rank="4" key="20:7" baseKey="20:7" />
+		<fattyacid subKey="" rank="4" key="20:8" baseKey="20:8" />
+		<fattyacid subKey="" rank="4" key="20:9" baseKey="20:9" />
+		<fattyacid subKey="" rank="4" key="20:10" baseKey="20:10" />
+		<fattyacid subKey="" rank="4" key="21:0" baseKey="21:0" />
+		<fattyacid subKey="" rank="4" key="21:1" baseKey="21:1" />
+		<fattyacid subKey="" rank="4" key="21:2" baseKey="21:2" />
+		<fattyacid subKey="" rank="4" key="21:3" baseKey="21:3" />
+		<fattyacid subKey="" rank="4" key="21:4" baseKey="21:4" />
+		<fattyacid subKey="" rank="4" key="21:5" baseKey="21:5" />
+		<fattyacid subKey="" rank="4" key="21:6" baseKey="21:6" />
+		<fattyacid subKey="" rank="4" key="21:7" baseKey="21:7" />
+		<fattyacid subKey="" rank="4" key="21:8" baseKey="21:8" />
+		<fattyacid subKey="" rank="4" key="21:9" baseKey="21:9" />
+		<fattyacid subKey="" rank="4" key="21:10" baseKey="21:10" />
+		<fattyacid subKey="" rank="4" key="22:0" baseKey="22:0" />
+		<fattyacid subKey="" rank="4" key="22:1" baseKey="22:1" />
+		<fattyacid subKey="" rank="4" key="22:2" baseKey="22:2" />
+		<fattyacid subKey="" rank="4" key="22:3" baseKey="22:3" />
+		<fattyacid subKey="" rank="4" key="22:4" baseKey="22:4" />
+		<fattyacid subKey="" rank="4" key="22:5" baseKey="22:5" />
+		<fattyacid subKey="" rank="4" key="22:6" baseKey="22:6" />
+		<fattyacid subKey="" rank="4" key="22:7" baseKey="22:7" />
+		<fattyacid subKey="" rank="4" key="22:8" baseKey="22:8" />
+		<fattyacid subKey="" rank="4" key="22:9" baseKey="22:9" />
+		<fattyacid subKey="" rank="4" key="22:10" baseKey="22:10" />
+		<fattyacid subKey="" rank="4" key="23:0" baseKey="23:0" />
+		<fattyacid subKey="" rank="4" key="23:1" baseKey="23:1" />
+		<fattyacid subKey="" rank="4" key="23:2" baseKey="23:2" />
+		<fattyacid subKey="" rank="4" key="23:3" baseKey="23:3" />
+		<fattyacid subKey="" rank="4" key="23:4" baseKey="23:4" />
+		<fattyacid subKey="" rank="4" key="23:5" baseKey="23:5" />
+		<fattyacid subKey="" rank="4" key="23:6" baseKey="23:6" />
+		<fattyacid subKey="" rank="4" key="23:7" baseKey="23:7" />
+		<fattyacid subKey="" rank="4" key="23:8" baseKey="23:8" />
+		<fattyacid subKey="" rank="4" key="23:9" baseKey="23:9" />
+		<fattyacid subKey="" rank="4" key="23:10" baseKey="23:10" />
+		<fattyacid subKey="" rank="4" key="24:0" baseKey="24:0" />
+		<fattyacid subKey="" rank="4" key="24:1" baseKey="24:1" />
+		<fattyacid subKey="" rank="4" key="24:2" baseKey="24:2" />
+		<fattyacid subKey="" rank="4" key="24:3" baseKey="24:3" />
+		<fattyacid subKey="" rank="4" key="24:4" baseKey="24:4" />
+		<fattyacid subKey="" rank="4" key="24:5" baseKey="24:5" />
+		<fattyacid subKey="" rank="4" key="24:6" baseKey="24:6" />
+		<fattyacid subKey="" rank="4" key="24:7" baseKey="24:7" />
+		<fattyacid subKey="" rank="4" key="24:8" baseKey="24:8" />
+		<fattyacid subKey="" rank="4" key="24:9" baseKey="24:9" />
+		<fattyacid subKey="" rank="4" key="24:10" baseKey="24:10" />
+		<fattyacid subKey="" rank="4" key="25:0" baseKey="25:0" />
+		<fattyacid subKey="" rank="4" key="25:1" baseKey="25:1" />
+		<fattyacid subKey="" rank="4" key="25:2" baseKey="25:2" />
+		<fattyacid subKey="" rank="4" key="25:3" baseKey="25:3" />
+		<fattyacid subKey="" rank="4" key="25:4" baseKey="25:4" />
+		<fattyacid subKey="" rank="4" key="25:5" baseKey="25:5" />
+		<fattyacid subKey="" rank="4" key="25:6" baseKey="25:6" />
+		<fattyacid subKey="" rank="4" key="25:7" baseKey="25:7" />
+		<fattyacid subKey="" rank="4" key="25:8" baseKey="25:8" />
+		<fattyacid subKey="" rank="4" key="25:9" baseKey="25:9" />
+		<fattyacid subKey="" rank="4" key="25:10" baseKey="25:10" />
+		<fattyacid subKey="" rank="4" key="26:0" baseKey="26:0" />
+		<fattyacid subKey="" rank="4" key="26:1" baseKey="26:1" />
+		<fattyacid subKey="" rank="4" key="26:2" baseKey="26:2" />
+		<fattyacid subKey="" rank="4" key="26:3" baseKey="26:3" />
+		<fattyacid subKey="" rank="4" key="26:4" baseKey="26:4" />
+		<fattyacid subKey="" rank="4" key="26:5" baseKey="26:5" />
+		<fattyacid subKey="" rank="4" key="26:6" baseKey="26:6" />
+		<fattyacid subKey="" rank="4" key="26:7" baseKey="26:7" />
+		<fattyacid subKey="" rank="4" key="26:8" baseKey="26:8" />
+		<fattyacid subKey="" rank="4" key="26:9" baseKey="26:9" />
+		<fattyacid subKey="" rank="4" key="26:10" baseKey="26:10" />
+		<fattyacid subKey="" rank="4" key="27:0" baseKey="27:0" />
+		<fattyacid subKey="" rank="4" key="27:1" baseKey="27:1" />
+		<fattyacid subKey="" rank="4" key="27:2" baseKey="27:2" />
+		<fattyacid subKey="" rank="4" key="27:3" baseKey="27:3" />
+		<fattyacid subKey="" rank="4" key="27:4" baseKey="27:4" />
+		<fattyacid subKey="" rank="4" key="27:5" baseKey="27:5" />
+		<fattyacid subKey="" rank="4" key="27:6" baseKey="27:6" />
+		<fattyacid subKey="" rank="4" key="27:7" baseKey="27:7" />
+		<fattyacid subKey="" rank="4" key="27:8" baseKey="27:8" />
+		<fattyacid subKey="" rank="4" key="27:9" baseKey="27:9" />
+		<fattyacid subKey="" rank="4" key="27:10" baseKey="27:10" />
+		<fattyacid subKey="" rank="4" key="28:0" baseKey="28:0" />
+		<fattyacid subKey="" rank="4" key="28:1" baseKey="28:1" />
+		<fattyacid subKey="" rank="4" key="28:2" baseKey="28:2" />
+		<fattyacid subKey="" rank="4" key="28:3" baseKey="28:3" />
+		<fattyacid subKey="" rank="4" key="28:4" baseKey="28:4" />
+		<fattyacid subKey="" rank="4" key="28:5" baseKey="28:5" />
+		<fattyacid subKey="" rank="4" key="28:6" baseKey="28:6" />
+		<fattyacid subKey="" rank="4" key="28:7" baseKey="28:7" />
+		<fattyacid subKey="" rank="4" key="28:8" baseKey="28:8" />
+		<fattyacid subKey="" rank="4" key="28:9" baseKey="28:9" />
+		<fattyacid subKey="" rank="4" key="28:10" baseKey="28:10" />
+		<fattyacid subKey="" rank="4" key="29:0" baseKey="29:0" />
+		<fattyacid subKey="" rank="4" key="29:1" baseKey="29:1" />
+		<fattyacid subKey="" rank="4" key="29:2" baseKey="29:2" />
+		<fattyacid subKey="" rank="4" key="29:3" baseKey="29:3" />
+		<fattyacid subKey="" rank="4" key="29:4" baseKey="29:4" />
+		<fattyacid subKey="" rank="4" key="29:5" baseKey="29:5" />
+		<fattyacid subKey="" rank="4" key="29:6" baseKey="29:6" />
+		<fattyacid subKey="" rank="4" key="29:7" baseKey="29:7" />
+		<fattyacid subKey="" rank="4" key="29:8" baseKey="29:8" />
+		<fattyacid subKey="" rank="4" key="29:9" baseKey="29:9" />
+		<fattyacid subKey="" rank="4" key="29:10" baseKey="29:10" />
+		<fattyacid subKey="" rank="4" key="30:0" baseKey="30:0" />
+		<fattyacid subKey="" rank="4" key="30:1" baseKey="30:1" />
+		<fattyacid subKey="" rank="4" key="30:2" baseKey="30:2" />
+		<fattyacid subKey="" rank="4" key="30:3" baseKey="30:3" />
+		<fattyacid subKey="" rank="4" key="30:4" baseKey="30:4" />
+		<fattyacid subKey="" rank="4" key="30:5" baseKey="30:5" />
+		<fattyacid subKey="" rank="4" key="30:6" baseKey="30:6" />
+		<fattyacid subKey="" rank="4" key="30:7" baseKey="30:7" />
+		<fattyacid subKey="" rank="4" key="30:8" baseKey="30:8" />
+		<fattyacid subKey="" rank="4" key="30:9" baseKey="30:9" />
+		<fattyacid subKey="" rank="4" key="30:10" baseKey="30:10" />
+		<fattyacid subKey="" rank="4" key="31:0" baseKey="31:0" />
+		<fattyacid subKey="" rank="4" key="31:1" baseKey="31:1" />
+		<fattyacid subKey="" rank="4" key="31:2" baseKey="31:2" />
+		<fattyacid subKey="" rank="4" key="31:3" baseKey="31:3" />
+		<fattyacid subKey="" rank="4" key="31:4" baseKey="31:4" />
+		<fattyacid subKey="" rank="4" key="31:5" baseKey="31:5" />
+		<fattyacid subKey="" rank="4" key="31:6" baseKey="31:6" />
+		<fattyacid subKey="" rank="4" key="31:7" baseKey="31:7" />
+		<fattyacid subKey="" rank="4" key="31:8" baseKey="31:8" />
+		<fattyacid subKey="" rank="4" key="31:9" baseKey="31:9" />
+		<fattyacid subKey="" rank="4" key="31:10" baseKey="31:10" />
+		<fattyacid subKey="" rank="4" key="32:0" baseKey="32:0" />
+		<fattyacid subKey="" rank="4" key="32:1" baseKey="32:1" />
+		<fattyacid subKey="" rank="4" key="32:2" baseKey="32:2" />
+		<fattyacid subKey="" rank="4" key="32:3" baseKey="32:3" />
+		<fattyacid subKey="" rank="4" key="32:4" baseKey="32:4" />
+		<fattyacid subKey="" rank="4" key="32:5" baseKey="32:5" />
+		<fattyacid subKey="" rank="4" key="32:6" baseKey="32:6" />
+		<fattyacid subKey="" rank="4" key="32:7" baseKey="32:7" />
+		<fattyacid subKey="" rank="4" key="32:8" baseKey="32:8" />
+		<fattyacid subKey="" rank="4" key="32:9" baseKey="32:9" />
+		<fattyacid subKey="" rank="4" key="32:10" baseKey="32:10" />
+		<fattyacid subKey="" rank="4" key="33:0" baseKey="33:0" />
+		<fattyacid subKey="" rank="4" key="33:1" baseKey="33:1" />
+		<fattyacid subKey="" rank="4" key="33:2" baseKey="33:2" />
+		<fattyacid subKey="" rank="4" key="33:3" baseKey="33:3" />
+		<fattyacid subKey="" rank="4" key="33:4" baseKey="33:4" />
+		<fattyacid subKey="" rank="4" key="33:5" baseKey="33:5" />
+		<fattyacid subKey="" rank="4" key="33:6" baseKey="33:6" />
+		<fattyacid subKey="" rank="4" key="33:7" baseKey="33:7" />
+		<fattyacid subKey="" rank="4" key="33:8" baseKey="33:8" />
+		<fattyacid subKey="" rank="4" key="33:9" baseKey="33:9" />
+		<fattyacid subKey="" rank="4" key="33:10" baseKey="33:10" />
+		<fattyacid subKey="" rank="4" key="34:0" baseKey="34:0" />
+		<fattyacid subKey="" rank="4" key="34:1" baseKey="34:1" />
+		<fattyacid subKey="" rank="4" key="34:2" baseKey="34:2" />
+		<fattyacid subKey="" rank="4" key="34:3" baseKey="34:3" />
+		<fattyacid subKey="" rank="4" key="34:4" baseKey="34:4" />
+		<fattyacid subKey="" rank="4" key="34:5" baseKey="34:5" />
+		<fattyacid subKey="" rank="4" key="34:6" baseKey="34:6" />
+		<fattyacid subKey="" rank="4" key="34:7" baseKey="34:7" />
+		<fattyacid subKey="" rank="4" key="34:8" baseKey="34:8" />
+		<fattyacid subKey="" rank="4" key="34:9" baseKey="34:9" />
+		<fattyacid subKey="" rank="4" key="34:10" baseKey="34:10" />
+		<fattyacid subKey="" rank="4" key="35:0" baseKey="35:0" />
+		<fattyacid subKey="" rank="4" key="35:1" baseKey="35:1" />
+		<fattyacid subKey="" rank="4" key="35:2" baseKey="35:2" />
+		<fattyacid subKey="" rank="4" key="35:3" baseKey="35:3" />
+		<fattyacid subKey="" rank="4" key="35:4" baseKey="35:4" />
+		<fattyacid subKey="" rank="4" key="35:5" baseKey="35:5" />
+		<fattyacid subKey="" rank="4" key="35:6" baseKey="35:6" />
+		<fattyacid subKey="" rank="4" key="35:7" baseKey="35:7" />
+		<fattyacid subKey="" rank="4" key="35:8" baseKey="35:8" />
+		<fattyacid subKey="" rank="4" key="35:9" baseKey="35:9" />
+		<fattyacid subKey="" rank="4" key="35:10" baseKey="35:10" />
+		<fattyacid subKey="" rank="4" key="36:0" baseKey="36:0" />
+		<fattyacid subKey="" rank="4" key="36:1" baseKey="36:1" />
+		<fattyacid subKey="" rank="4" key="36:2" baseKey="36:2" />
+		<fattyacid subKey="" rank="4" key="36:3" baseKey="36:3" />
+		<fattyacid subKey="" rank="4" key="36:4" baseKey="36:4" />
+		<fattyacid subKey="" rank="4" key="36:5" baseKey="36:5" />
+		<fattyacid subKey="" rank="4" key="36:6" baseKey="36:6" />
+		<fattyacid subKey="" rank="4" key="36:7" baseKey="36:7" />
+		<fattyacid subKey="" rank="4" key="36:8" baseKey="36:8" />
+		<fattyacid subKey="" rank="4" key="36:9" baseKey="36:9" />
+		<fattyacid subKey="" rank="4" key="36:10" baseKey="36:10" />
+		<fattyacid subKey="" rank="4" key="37:0" baseKey="37:0" />
+		<fattyacid subKey="" rank="4" key="37:1" baseKey="37:1" />
+		<fattyacid subKey="" rank="4" key="37:2" baseKey="37:2" />
+		<fattyacid subKey="" rank="4" key="37:3" baseKey="37:3" />
+		<fattyacid subKey="" rank="4" key="37:4" baseKey="37:4" />
+		<fattyacid subKey="" rank="4" key="37:5" baseKey="37:5" />
+		<fattyacid subKey="" rank="4" key="37:6" baseKey="37:6" />
+		<fattyacid subKey="" rank="4" key="37:7" baseKey="37:7" />
+		<fattyacid subKey="" rank="4" key="37:8" baseKey="37:8" />
+		<fattyacid subKey="" rank="4" key="37:9" baseKey="37:9" />
+		<fattyacid subKey="" rank="4" key="37:10" baseKey="37:10" />
+		<fattyacid subKey="" rank="4" key="38:0" baseKey="38:0" />
+		<fattyacid subKey="" rank="4" key="38:1" baseKey="38:1" />
+		<fattyacid subKey="" rank="4" key="38:2" baseKey="38:2" />
+		<fattyacid subKey="" rank="4" key="38:3" baseKey="38:3" />
+		<fattyacid subKey="" rank="4" key="38:4" baseKey="38:4" />
+		<fattyacid subKey="" rank="4" key="38:5" baseKey="38:5" />
+		<fattyacid subKey="" rank="4" key="38:6" baseKey="38:6" />
+		<fattyacid subKey="" rank="4" key="38:7" baseKey="38:7" />
+		<fattyacid subKey="" rank="4" key="38:8" baseKey="38:8" />
+		<fattyacid subKey="" rank="4" key="38:9" baseKey="38:9" />
+		<fattyacid subKey="" rank="4" key="38:10" baseKey="38:10" />
+		<fattyacid subKey="" rank="4" key="39:0" baseKey="39:0" />
+		<fattyacid subKey="" rank="4" key="39:1" baseKey="39:1" />
+		<fattyacid subKey="" rank="4" key="39:2" baseKey="39:2" />
+		<fattyacid subKey="" rank="4" key="39:3" baseKey="39:3" />
+		<fattyacid subKey="" rank="4" key="39:4" baseKey="39:4" />
+		<fattyacid subKey="" rank="4" key="39:5" baseKey="39:5" />
+		<fattyacid subKey="" rank="4" key="39:6" baseKey="39:6" />
+		<fattyacid subKey="" rank="4" key="39:7" baseKey="39:7" />
+		<fattyacid subKey="" rank="4" key="39:8" baseKey="39:8" />
+		<fattyacid subKey="" rank="4" key="39:9" baseKey="39:9" />
+		<fattyacid subKey="" rank="4" key="39:10" baseKey="39:10" />
+		<fattyacid subKey="" rank="4" key="40:0" baseKey="40:0" />
+		<fattyacid subKey="" rank="4" key="40:1" baseKey="40:1" />
+		<fattyacid subKey="" rank="4" key="40:2" baseKey="40:2" />
+		<fattyacid subKey="" rank="4" key="40:3" baseKey="40:3" />
+		<fattyacid subKey="" rank="4" key="40:4" baseKey="40:4" />
+		<fattyacid subKey="" rank="4" key="40:5" baseKey="40:5" />
+		<fattyacid subKey="" rank="4" key="40:6" baseKey="40:6" />
+		<fattyacid subKey="" rank="4" key="40:7" baseKey="40:7" />
+		<fattyacid subKey="" rank="4" key="40:8" baseKey="40:8" />
+		<fattyacid subKey="" rank="4" key="40:9" baseKey="40:9" />
+		<fattyacid subKey="" rank="4" key="40:10" baseKey="40:10" />
+
+     </fattyacid-group>
+
+	<fattyacid-group id="GGL_MINI">
+		<fattyacid subKey="" rank="4" key="10:0" baseKey="10:0" />
+		<fattyacid subKey="" rank="4" key="10:1" baseKey="10:1" />
+		<fattyacid subKey="" rank="4" key="10:2" baseKey="10:2" />
+		<fattyacid subKey="" rank="4" key="10:3" baseKey="10:3" />
+		<fattyacid subKey="" rank="4" key="10:4" baseKey="10:4" />
+		<fattyacid subKey="" rank="4" key="10:5" baseKey="10:5" />
+	</fattyacid-group>
+
+	<fattyacid-group id="GGL_FA2">
+		<fattyacid subKey="" rank="4" key="10:0" baseKey="10:0" />
+		<fattyacid subKey="" rank="4" key="10:1" baseKey="10:1" />
+		<fattyacid subKey="" rank="4" key="10:2" baseKey="10:2" />
+		<fattyacid subKey="" rank="4" key="10:3" baseKey="10:3" />
+		<fattyacid subKey="" rank="4" key="10:4" baseKey="10:4" />
+		<fattyacid subKey="" rank="4" key="10:5" baseKey="10:5" />
+		<fattyacid subKey="" rank="4" key="11:0" baseKey="11:0" />
+		<fattyacid subKey="" rank="4" key="11:1" baseKey="11:1" />
+		<fattyacid subKey="" rank="4" key="11:2" baseKey="11:2" />
+		<fattyacid subKey="" rank="4" key="11:3" baseKey="11:3" />
+		<fattyacid subKey="" rank="4" key="11:4" baseKey="11:4" />
+		<fattyacid subKey="" rank="4" key="11:5" baseKey="11:5" />
+		<fattyacid subKey="" rank="4" key="12:0" baseKey="12:0" />
+		<fattyacid subKey="" rank="4" key="12:1" baseKey="12:1" />
+		<fattyacid subKey="" rank="4" key="12:2" baseKey="12:2" />
+		<fattyacid subKey="" rank="4" key="12:3" baseKey="12:3" />
+		<fattyacid subKey="" rank="4" key="12:4" baseKey="12:4" />
+		<fattyacid subKey="" rank="4" key="12:5" baseKey="12:5" />
+		<fattyacid subKey="" rank="4" key="13:0" baseKey="13:0" />
+		<fattyacid subKey="" rank="4" key="13:1" baseKey="13:1" />
+		<fattyacid subKey="" rank="4" key="13:2" baseKey="13:2" />
+		<fattyacid subKey="" rank="4" key="13:3" baseKey="13:3" />
+		<fattyacid subKey="" rank="4" key="13:4" baseKey="13:4" />
+		<fattyacid subKey="" rank="4" key="13:5" baseKey="13:5" />
+		<fattyacid subKey="" rank="4" key="14:0" baseKey="14:0" />
+		<fattyacid subKey="" rank="4" key="14:1" baseKey="14:1" />
+		<fattyacid subKey="" rank="4" key="14:2" baseKey="14:2" />
+		<fattyacid subKey="" rank="4" key="14:3" baseKey="14:3" />
+		<fattyacid subKey="" rank="4" key="14:4" baseKey="14:4" />
+		<fattyacid subKey="" rank="4" key="14:5" baseKey="14:5" />
+		<fattyacid subKey="" rank="4" key="15:0" baseKey="15:0" />
+		<fattyacid subKey="" rank="4" key="15:1" baseKey="15:1" />
+		<fattyacid subKey="" rank="4" key="15:2" baseKey="15:2" />
+		<fattyacid subKey="" rank="4" key="15:3" baseKey="15:3" />
+		<fattyacid subKey="" rank="4" key="15:4" baseKey="15:4" />
+		<fattyacid subKey="" rank="4" key="15:5" baseKey="15:5" />
+		<fattyacid subKey="" rank="4" key="16:0" baseKey="16:0" />
+		<fattyacid subKey="" rank="4" key="16:0p" baseKey="16:0p"/>
+		<fattyacid subKey="" rank="4" key="16:1" baseKey="16:1" />
+		<fattyacid subKey="" rank="4" key="16:2" baseKey="16:2" />
+		<fattyacid subKey="" rank="4" key="16:3" baseKey="16:3" />
+		<fattyacid subKey="" rank="4" key="16:4" baseKey="16:4" />
+		<fattyacid subKey="" rank="4" key="16:5" baseKey="16:5" />
+		<fattyacid subKey="" rank="4" key="17:0" baseKey="17:0" />
+		<fattyacid subKey="" rank="4" key="17:1" baseKey="17:1" />
+		<fattyacid subKey="" rank="4" key="17:2" baseKey="17:2" />
+		<fattyacid subKey="" rank="4" key="17:3" baseKey="17:3" />
+		<fattyacid subKey="" rank="4" key="17:4" baseKey="17:4" />
+		<fattyacid subKey="" rank="4" key="17:5" baseKey="17:5" />
+		<fattyacid subKey="" rank="4" key="18:0" baseKey="18:0" />
+		<fattyacid subKey="" rank="4" key="18:1" baseKey="18:1" />
+		<fattyacid subKey="" rank="4" key="18:2" baseKey="18:2" />
+		<fattyacid subKey="" rank="4" key="18:3" baseKey="18:3" />
+		<fattyacid subKey="" rank="4" key="18:4" baseKey="18:4" />
+		<fattyacid subKey="" rank="4" key="18:5" baseKey="18:5" />
+		<fattyacid subKey="" rank="4" key="19:0" baseKey="19:0" />
+		<fattyacid subKey="" rank="4" key="19:1" baseKey="19:1" />
+		<fattyacid subKey="" rank="4" key="19:2" baseKey="19:2" />
+		<fattyacid subKey="" rank="4" key="19:3" baseKey="19:3" />
+		<fattyacid subKey="" rank="4" key="19:4" baseKey="19:4" />
+		<fattyacid subKey="" rank="4" key="19:5" baseKey="19:5" />
+		<fattyacid subKey="" rank="4" key="20:0" baseKey="20:0" />
+		<fattyacid subKey="" rank="4" key="20:1" baseKey="20:1" />
+		<fattyacid subKey="" rank="4" key="20:2" baseKey="20:2" />
+		<fattyacid subKey="" rank="4" key="20:3" baseKey="20:3" />
+		<fattyacid subKey="" rank="4" key="20:4" baseKey="20:4" />
+		<fattyacid subKey="" rank="4" key="20:5" baseKey="20:5" />
+		<fattyacid subKey="" rank="4" key="20:6" baseKey="20:6" />
+		<fattyacid subKey="" rank="4" key="20:7" baseKey="20:7" />
+		<fattyacid subKey="" rank="4" key="20:8" baseKey="20:8" />
+		<fattyacid subKey="" rank="4" key="20:9" baseKey="20:9" />
+		<fattyacid subKey="" rank="4" key="20:10" baseKey="20:10" />
+		<fattyacid subKey="" rank="4" key="21:0" baseKey="21:0" />
+		<fattyacid subKey="" rank="4" key="21:1" baseKey="21:1" />
+		<fattyacid subKey="" rank="4" key="21:2" baseKey="21:2" />
+		<fattyacid subKey="" rank="4" key="21:3" baseKey="21:3" />
+		<fattyacid subKey="" rank="4" key="21:4" baseKey="21:4" />
+		<fattyacid subKey="" rank="4" key="21:5" baseKey="21:5" />
+		<fattyacid subKey="" rank="4" key="21:6" baseKey="21:6" />
+		<fattyacid subKey="" rank="4" key="21:7" baseKey="21:7" />
+		<fattyacid subKey="" rank="4" key="21:8" baseKey="21:8" />
+		<fattyacid subKey="" rank="4" key="21:9" baseKey="21:9" />
+		<fattyacid subKey="" rank="4" key="21:10" baseKey="21:10" />
+		<fattyacid subKey="" rank="4" key="22:0" baseKey="22:0" />
+		<fattyacid subKey="" rank="4" key="22:1" baseKey="22:1" />
+		<fattyacid subKey="" rank="4" key="22:2" baseKey="22:2" />
+		<fattyacid subKey="" rank="4" key="22:3" baseKey="22:3" />
+		<fattyacid subKey="" rank="4" key="22:4" baseKey="22:4" />
+		<fattyacid subKey="" rank="4" key="22:5" baseKey="22:5" />
+		<fattyacid subKey="" rank="4" key="22:6" baseKey="22:6" />
+		<fattyacid subKey="" rank="4" key="22:7" baseKey="22:7" />
+		<fattyacid subKey="" rank="4" key="22:8" baseKey="22:8" />
+		<fattyacid subKey="" rank="4" key="22:9" baseKey="22:9" />
+		<fattyacid subKey="" rank="4" key="22:10" baseKey="22:10" />
+		<fattyacid subKey="" rank="4" key="23:0" baseKey="23:0" />
+		<fattyacid subKey="" rank="4" key="23:1" baseKey="23:1" />
+		<fattyacid subKey="" rank="4" key="23:2" baseKey="23:2" />
+		<fattyacid subKey="" rank="4" key="23:3" baseKey="23:3" />
+		<fattyacid subKey="" rank="4" key="23:4" baseKey="23:4" />
+		<fattyacid subKey="" rank="4" key="23:5" baseKey="23:5" />
+		<fattyacid subKey="" rank="4" key="23:6" baseKey="23:6" />
+		<fattyacid subKey="" rank="4" key="23:7" baseKey="23:7" />
+		<fattyacid subKey="" rank="4" key="23:8" baseKey="23:8" />
+		<fattyacid subKey="" rank="4" key="23:9" baseKey="23:9" />
+		<fattyacid subKey="" rank="4" key="23:10" baseKey="23:10" />
+		<fattyacid subKey="" rank="4" key="24:0" baseKey="24:0" />
+		<fattyacid subKey="" rank="4" key="24:1" baseKey="24:1" />
+		<fattyacid subKey="" rank="4" key="24:2" baseKey="24:2" />
+		<fattyacid subKey="" rank="4" key="24:3" baseKey="24:3" />
+		<fattyacid subKey="" rank="4" key="24:4" baseKey="24:4" />
+		<fattyacid subKey="" rank="4" key="24:5" baseKey="24:5" />
+		<fattyacid subKey="" rank="4" key="24:6" baseKey="24:6" />
+		<fattyacid subKey="" rank="4" key="24:7" baseKey="24:7" />
+		<fattyacid subKey="" rank="4" key="24:8" baseKey="24:8" />
+		<fattyacid subKey="" rank="4" key="24:9" baseKey="24:9" />
+		<fattyacid subKey="" rank="4" key="24:10" baseKey="24:10" />
+		<fattyacid subKey="" rank="4" key="25:0" baseKey="25:0" />
+		<fattyacid subKey="" rank="4" key="25:1" baseKey="25:1" />
+		<fattyacid subKey="" rank="4" key="25:2" baseKey="25:2" />
+		<fattyacid subKey="" rank="4" key="25:3" baseKey="25:3" />
+		<fattyacid subKey="" rank="4" key="25:4" baseKey="25:4" />
+		<fattyacid subKey="" rank="4" key="25:5" baseKey="25:5" />
+		<fattyacid subKey="" rank="4" key="25:6" baseKey="25:6" />
+		<fattyacid subKey="" rank="4" key="25:7" baseKey="25:7" />
+		<fattyacid subKey="" rank="4" key="25:8" baseKey="25:8" />
+		<fattyacid subKey="" rank="4" key="25:9" baseKey="25:9" />
+		<fattyacid subKey="" rank="4" key="25:10" baseKey="25:10" />
+		<fattyacid subKey="" rank="4" key="26:0" baseKey="26:0" />
+		<fattyacid subKey="" rank="4" key="26:1" baseKey="26:1" />
+		<fattyacid subKey="" rank="4" key="26:2" baseKey="26:2" />
+		<fattyacid subKey="" rank="4" key="26:3" baseKey="26:3" />
+		<fattyacid subKey="" rank="4" key="26:4" baseKey="26:4" />
+		<fattyacid subKey="" rank="4" key="26:5" baseKey="26:5" />
+		<fattyacid subKey="" rank="4" key="26:6" baseKey="26:6" />
+		<fattyacid subKey="" rank="4" key="26:7" baseKey="26:7" />
+		<fattyacid subKey="" rank="4" key="26:8" baseKey="26:8" />
+		<fattyacid subKey="" rank="4" key="26:9" baseKey="26:9" />
+		<fattyacid subKey="" rank="4" key="26:10" baseKey="26:10" />
+		<fattyacid subKey="" rank="4" key="27:0" baseKey="27:0" />
+		<fattyacid subKey="" rank="4" key="27:1" baseKey="27:1" />
+		<fattyacid subKey="" rank="4" key="27:2" baseKey="27:2" />
+		<fattyacid subKey="" rank="4" key="27:3" baseKey="27:3" />
+		<fattyacid subKey="" rank="4" key="27:4" baseKey="27:4" />
+		<fattyacid subKey="" rank="4" key="27:5" baseKey="27:5" />
+		<fattyacid subKey="" rank="4" key="27:6" baseKey="27:6" />
+		<fattyacid subKey="" rank="4" key="27:7" baseKey="27:7" />
+		<fattyacid subKey="" rank="4" key="27:8" baseKey="27:8" />
+		<fattyacid subKey="" rank="4" key="27:9" baseKey="27:9" />
+		<fattyacid subKey="" rank="4" key="27:10" baseKey="27:10" />
+		<fattyacid subKey="" rank="4" key="28:0" baseKey="28:0" />
+		<fattyacid subKey="" rank="4" key="28:1" baseKey="28:1" />
+		<fattyacid subKey="" rank="4" key="28:2" baseKey="28:2" />
+		<fattyacid subKey="" rank="4" key="28:3" baseKey="28:3" />
+		<fattyacid subKey="" rank="4" key="28:4" baseKey="28:4" />
+		<fattyacid subKey="" rank="4" key="28:5" baseKey="28:5" />
+		<fattyacid subKey="" rank="4" key="28:6" baseKey="28:6" />
+		<fattyacid subKey="" rank="4" key="28:7" baseKey="28:7" />
+		<fattyacid subKey="" rank="4" key="28:8" baseKey="28:8" />
+		<fattyacid subKey="" rank="4" key="28:9" baseKey="28:9" />
+		<fattyacid subKey="" rank="4" key="28:10" baseKey="28:10" />
+		<fattyacid subKey="" rank="4" key="29:0" baseKey="29:0" />
+		<fattyacid subKey="" rank="4" key="29:1" baseKey="29:1" />
+		<fattyacid subKey="" rank="4" key="29:2" baseKey="29:2" />
+		<fattyacid subKey="" rank="4" key="29:3" baseKey="29:3" />
+		<fattyacid subKey="" rank="4" key="29:4" baseKey="29:4" />
+		<fattyacid subKey="" rank="4" key="29:5" baseKey="29:5" />
+		<fattyacid subKey="" rank="4" key="29:6" baseKey="29:6" />
+		<fattyacid subKey="" rank="4" key="29:7" baseKey="29:7" />
+		<fattyacid subKey="" rank="4" key="29:8" baseKey="29:8" />
+		<fattyacid subKey="" rank="4" key="29:9" baseKey="29:9" />
+		<fattyacid subKey="" rank="4" key="29:10" baseKey="29:10" />
+		<fattyacid subKey="" rank="4" key="30:0" baseKey="30:0" />
+		<fattyacid subKey="" rank="4" key="30:1" baseKey="30:1" />
+		<fattyacid subKey="" rank="4" key="30:2" baseKey="30:2" />
+		<fattyacid subKey="" rank="4" key="30:3" baseKey="30:3" />
+		<fattyacid subKey="" rank="4" key="30:4" baseKey="30:4" />
+		<fattyacid subKey="" rank="4" key="30:5" baseKey="30:5" />
+		<fattyacid subKey="" rank="4" key="30:6" baseKey="30:6" />
+		<fattyacid subKey="" rank="4" key="30:7" baseKey="30:7" />
+		<fattyacid subKey="" rank="4" key="30:8" baseKey="30:8" />
+		<fattyacid subKey="" rank="4" key="30:9" baseKey="30:9" />
+		<fattyacid subKey="" rank="4" key="30:10" baseKey="30:10" />
+
+    </fattyacid-group>
+
+    <!--0:0 = 'H2O' -->
+    <substitution-definition>
+        <subsutitution key="CHO">O1 H-2</subsutitution>
+        <subsutitution key="COOH">O2 H-2</subsutitution>
+        <subsutitution key="COOCH3">C1 O2</subsutitution>
+        <subsutitution key="+O">O1</subsutitution>
+        <subsutitution key="+2O">O2</subsutitution>
+        <subsutitution key="+3O">O3</subsutitution>
+        <subsutitution key="+4O">O4</subsutitution>
+        <subsutitution key="+5O">O5</subsutitution>
+        <subsutitution key="+6O">O6</subsutitution>
+        <subsutitution key="+7O">O7</subsutitution>
+        <subsutitution key="+8O">O8</subsutitution>
+        <subsutitution key="OH">O1</subsutitution>
+        <subsutitution key="d12:0">C9 H18</subsutitution>
+		<subsutitution key="d13:0">C10 H20</subsutitution>
+        <subsutitution key="d14:0">C11 H22</subsutitution>
+        <subsutitution key="d14:1">C11 H20</subsutitution>
+		<subsutitution key="d14:2">C11 H18</subsutitution>
+		<subsutitution key="d15:0">C12 H24</subsutitution>
+		<subsutitution key="d15:1">C12 H22</subsutitution>
+		<subsutitution key="d15:2">C12 H20</subsutitution>
+        <subsutitution key="d16:0">C13 H26</subsutitution>
+        <subsutitution key="d16:1">C13 H24</subsutitution>
+		<subsutitution key="d16:2">C13 H22</subsutitution>
+		<subsutitution key="d17:0">C14 H28</subsutitution>
+		<subsutitution key="d17:1">C14 H26</subsutitution>
+		<subsutitution key="d17:2">C14 H24</subsutitution>
+        <subsutitution key="d18:0">C15 H30</subsutitution>
+        <subsutitution key="d18:1">C15 H28</subsutitution>
+        <subsutitution key="d18:2">C15 H26</subsutitution>
+
+ 		<subsutitution key="d19:0">C16 H32</subsutitution>
+        <subsutitution key="d19:1">C16 H30</subsutitution>
+        <subsutitution key="d19:2">C16 H28</subsutitution>
+
+
+        <subsutitution key="d20:0">C17 H34</subsutitution>
+        <subsutitution key="d20:1">C17 H32</subsutitution>
+        <subsutitution key="d20:2">C17 H30</subsutitution>
+
+		<subsutitution key="d21:0">C18 H36</subsutitution>
+        <subsutitution key="d21:1">C18 H34</subsutitution>
+        <subsutitution key="d21:2">C18 H32</subsutitution>
+
+        <subsutitution key="d22:0">C19 H38</subsutitution>
+        <subsutitution key="d22:1">C19 H36</subsutitution>
+        <subsutitution key="d22:2">C19 H34</subsutitution>
+
+		<subsutitution key="d23:0">C20 H40</subsutitution>
+        <subsutitution key="d23:1">C20 H38</subsutitution>
+        <subsutitution key="d23:2">C20 H36</subsutitution>
+
+        <subsutitution key="d24:0">C21 H42</subsutitution>
+        <subsutitution key="d24:1">C21 H40</subsutitution>
+        <subsutitution key="d24:2">C21 H38</subsutitution>
+		<subsutitution key="d25:0">C22 H44</subsutitution>
+		<subsutitution key="d25:1">C22 H42</subsutitution>
+		<subsutitution key="d25:2">C22 H40</subsutitution>
+
+		<subsutitution key="d26:0">C23 H46</subsutitution>
+		<subsutitution key="d26:0">C23 H44</subsutitution>
+		<subsutitution key="d26:0">C23 H42</subsutitution>
+
+		<subsutitution key="d12:0+pO">C9 H18 O1</subsutitution>
+		<subsutitution key="d13:0+pO">C10 H20 O1</subsutitution>
+        <subsutitution key="d14:0+pO">C11 H22 O1</subsutitution>
+        <subsutitution key="d14:1+hO">C11 H20 O1</subsutitution>
+		<subsutitution key="d15:0+pO">C12 H24 O1</subsutitution>
+        <subsutitution key="d16:0+pO">C13 H26 O1</subsutitution>
+        <subsutitution key="d16:1+hO">C13 H24 O1</subsutitution>
+		<subsutitution key="d17:0+pO">C14 H28 O1</subsutitution>
+		<subsutitution key="d17:1+hO">C14 H26 O1</subsutitution>
+        <subsutitution key="d18:0+pO">C15 H30 O1</subsutitution>
+        <subsutitution key="d18:1+hO">C15 H28 O1</subsutitution>
+        <subsutitution key="d20:0+pO">C17 H34 O1</subsutitution>
+        <subsutitution key="d20:1+hO">C17 H32 O1</subsutitution>
+        <subsutitution key="d22:0+pO">C19 H38 O1</subsutitution>
+        <subsutitution key="d22:1+hO">C19 H36 O1</subsutitution>
+        <subsutitution key="d24:0+pO">C21 H42 O1</subsutitution>
+        <subsutitution key="d24:1+hO">C21 H40 O1</subsutitution>
+		<subsutitution key="d25:0+pO">C22 H44 O1</subsutitution>
+        <subsutitution key="+2O+Ox">O3 H-2</subsutitution>
+        <subsutitution key="+3O+Ox">O3 H-2</subsutitution>
+        <subsutitution key="+Ox">O1 H-2</subsutitution>
+        <subsutitution key="+OO">O2</subsutitution>
+
+        <subsutitution key="D31">D31 H-31</subsutitution>
+        <subsutitution key="D30">D30 H-30</subsutitution>
+        <subsutitution key="D3">D3 H-3</subsutitution>
+        <subsutitution key="D4">D4 H-4</subsutitution>
+        <subsutitution key="D5">D5 H-5</subsutitution>
+        <subsutitution key="D7">D7 H-7</subsutitution>
+        <subsutitution key="D8">D8 H-8</subsutitution>
+        <subsutitution key="D9">D9 H-9</subsutitution>
+        <subsutitution key="d18:0D3">C15 H27 D3</subsutitution>
+        <subsutitution key="d18:1D5">C15 H23 D5</subsutitution>
+        <subsutitution key="d18:1D7">C15 H21 D7</subsutitution>
+        <subsutitution key="d18:0D7">C15 H23 D7</subsutitution>
+		<subsutitution key="D9-O">D9 H-9 O-1</subsutitution>
+		<subsutitution key="D5-O">D5 H-5 O-1</subsutitution>
+        <subsutitution key="Q6">C30 H47 O-1</subsutitution>
+        <subsutitution key="Q7">C35 H55 O-1</subsutitution>
+        <subsutitution key="Q8">C40 H63 O-1</subsutitution>
+        <subsutitution key="Q9">C45 H71 O-1</subsutitution>
+        <subsutitution key="Q10">C50 H79 O-1</subsutitution>
+
+        <subsutitution key="BPA">C9 H10 Br1 N1 O2</subsutitution>
+
+        <subsutitution key="+EO">O1</subsutitution>
+        <subsutitution key="EO">O2 H-2</subsutitution>
+
+        <subsutitution key="_13C4">tC4 C-4</subsutitution>
+        <subsutitution key="13C4">tC4 C-4</subsutitution>
+
+        <subsutitution key="m12:0">C9 H18 O-1</subsutitution>
+		<subsutitution key="m13:0">C10 H20 O-1</subsutitution>
+        <subsutitution key="m14:0">C11 H22 O-1</subsutitution>
+        <subsutitution key="m14:1">C11 H20 O-1</subsutitution>
+		<subsutitution key="m15:0">C12 H24 O-1</subsutitution>
+        <subsutitution key="m16:0">C13 H26 O-1</subsutitution>
+        <subsutitution key="m16:1">C13 H24 O-1</subsutitution>
+		<subsutitution key="m17:0">C14 H28 O-1</subsutitution>
+		<subsutitution key="m17:1">C14 H26 O-1</subsutitution>
+        <subsutitution key="m18:0">C15 H30 O-1</subsutitution>
+        <subsutitution key="m18:1">C15 H28 O-1</subsutitution>
+        <subsutitution key="m18:2">C15 H26 O-1</subsutitution>
+		<subsutitution key="m19:0">C16 H32 O-1</subsutitution>
+		<subsutitution key="m19:1">C16 H30 O-1</subsutitution>
+        <subsutitution key="m19:2">C16 H28 O-1</subsutitution>
+        <subsutitution key="m20:0">C17 H34 O-1</subsutitution>
+        <subsutitution key="m20:1">C17 H32 O-1</subsutitution>
+        <subsutitution key="m20:2">C17 H30 O-1</subsutitution>
+		<subsutitution key="m21:0">C18 H36 O-1</subsutitution>
+        <subsutitution key="m21:1">C18 H34 O-1</subsutitution>
+        <subsutitution key="m21:2">C18 H32 O-1</subsutitution>
+        <subsutitution key="m22:0">C19 H38 O-1</subsutitution>
+        <subsutitution key="m22:1">C19 H36 O-1</subsutitution>
+        <subsutitution key="m22:2">C19 H34 O-1</subsutitution>
+		<subsutitution key="m23:0">C20 H40 O-1</subsutitution>
+        <subsutitution key="m23:1">C20 H38 O-1</subsutitution>
+        <subsutitution key="m23:2">C20 H36 O-1</subsutitution>
+        <subsutitution key="m24:0">C21 H42 O-1</subsutitution>
+        <subsutitution key="m24:1">C21 H40 O-1</subsutitution>
+        <subsutitution key="m24:2">C21 H38 O-1</subsutitution>
+		<subsutitution key="m25:0">C22 H44 O-1</subsutitution>
+
+		<subsutitution key="t12:0">C9 H18 O1</subsutitution>
+		<subsutitution key="t13:0">C10 H20 O1</subsutitution>
+        <subsutitution key="t14:0">C11 H22 O1</subsutitution>
+        <subsutitution key="t14:1">C11 H20 O1</subsutitution>
+		<subsutitution key="t15:0">C12 H24 O1</subsutitution>
+        <subsutitution key="t16:0">C13 H26 O1</subsutitution>
+        <subsutitution key="t16:1">C13 H24 O1</subsutitution>
+		<subsutitution key="t16:2">C13 H22 O1</subsutitution>
+		<subsutitution key="t17:0">C14 H28 O1</subsutitution>
+		<subsutitution key="t17:1">C14 H26 O1</subsutitution>
+        <subsutitution key="t18:0">C15 H30 O1</subsutitution>
+        <subsutitution key="t18:1">C15 H28 O1</subsutitution>
+        <subsutitution key="t20:0">C17 H34 O1</subsutitution>
+        <subsutitution key="t20:1">C17 H32 O1</subsutitution>
+        <subsutitution key="t22:0">C19 H38 O1</subsutitution>
+        <subsutitution key="t22:1">C19 H36 O1</subsutitution>
+        <subsutitution key="t24:0">C21 H42 O1</subsutitution>
+        <subsutitution key="t24:1">C21 H40 O1</subsutitution>
+		<subsutitution key="t25:0">C22 H44 O1</subsutitution>
+
+		 <subsutitution key="m17:0D7">C14 H21 D7 O-1</subsutitution>
+         <subsutitution key="m17:1D7">C14 H19 D7 O-1</subsutitution>
+         <subsutitution key="m18:0D7">C15 H23 D7 O-1</subsutitution>
+         <subsutitution key="m18:1D7">C15 H21 D7 O-1</subsutitution>
+
+
+    </substitution-definition>
+</fattyacid-definition>
+

@@ -1,0 +1,424 @@
+Compound,Adduct info,Approved,Sample,Lipid Class,Num. of samples,Adducts,Has MS/MS,Has OX Chain,StdDev,Area
+>727.4771@0.94,,Approved,Super Sample,Cholesterol and derivatives,7,,Y,N,252420.44515507697,200108.63333333333
+>>727.4743@0.94,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,12,,Y,N,0,686614
+>>727.4844@0.94,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,Y,N,0,395468
+>>727.4742@0.94,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,N,N,0,228763
+>>727.4741@0.93,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,386267
+>>727.4815@0.90,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,5,,N,N,0,39371
+>>727.4755@0.95,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,12,,Y,N,0,643218
+>>727.4754@0.98,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,N,N,0,21603
+>393.3091@3.50,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,685390.779695038,2342574.1666666665
+>>393.3087@3.51,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,5,,Y,N,0,1780620
+>>393.3129@3.50,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,Y,N,0,2447270
+>>393.3087@3.51,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,4,,Y,N,0,2532660
+>>393.3049@3.49,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,2991970
+>>393.3086@3.48,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,4,,Y,N,0,1413820
+>>393.3094@3.51,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,11,,Y,N,0,1756390
+>>393.3128@3.51,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,3,,Y,N,0,3563980
+>>393.3091@3.50,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,Y,N,0,2909020
+>>393.3089@3.50,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,1,,Y,N,0,1777630
+>>393.3068@3.50,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,6,,N,N,0,3050430
+>>393.3093@3.50,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,6,,Y,N,0,2533030
+>>393.3090@3.50,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,1354070
+>507.2721@3.52,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,7,,Y,N,322194.6530632658,119065.2625
+>>507.2700@3.54,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,10,,N,N,0,8210
+>>507.2737@3.39,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,56560
+>>507.2718@3.63,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,1,,N,N,0,71036
+>>507.2749@3.37,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,5,,N,N,0,62368
+>>507.2705@3.63,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,3,,Y,N,0,1184140
+>>507.2686@3.67,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,4,,N,N,0,9789
+>>507.2749@3.39,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,36681
+>417.3369@4.03,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,185246.32616350692,816287.5833333334
+>>417.3361@4.04,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,11,,Y,N,0,755667
+>>417.3417@4.03,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,10,,Y,N,0,885237
+>>417.3360@4.03,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,Y,N,0,852792
+>>417.3357@4.03,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,4,,N,N,0,757553
+>>417.3363@4.03,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,N,N,0,865507
+>>417.3368@4.03,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,4,,Y,N,0,722078
+>>417.3410@4.04,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,5,,Y,N,0,801115
+>>417.3366@4.03,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,N,N,0,625122
+>>417.3368@4.03,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,N,N,0,721235
+>>417.3330@4.03,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,11,,Y,N,0,1363080
+>>417.3368@4.04,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,8,,Y,N,0,611004
+>>417.3365@4.04,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,3,,Y,N,0,835061
+>654.4490@4.40,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,122825.87003840793,74868.62499999999
+>>654.4476@4.42,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,5,,N,N,0,26148
+>>654.4460@4.28,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,N,N,0,63327
+>>654.4523@4.48,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,10,,N,N,0,16701
+>>654.4522@4.49,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,8,,N,N,0,27935
+>>654.4551@4.31,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,11,,N,N,0,54998
+>>654.4480@4.37,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,2,,N,N,0,20553
+>>654.4491@4.46,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,5,,N,N,0,53528
+>>654.4477@4.40,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,4,,N,N,0,35357
+>>654.4425@4.42,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,N,N,0,46779
+>>654.4560@4.39,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,Y,N,0,479669
+>>654.4449@4.43,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,12,,N,N,0,33912
+>>654.4462@4.30,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,N,N,0,39517
+>495.3073@5.17,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,603702.4881671951,310734.3416666667
+>>495.3079@5.11,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,81902
+>>495.3105@4.99,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,3,,N,N,0,116921
+>>495.3049@5.24,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,183462
+>>495.3057@5.20,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,2,,N,N,0,220888
+>>495.3038@5.72,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,4,,N,N,0,309843
+>>495.3105@5.13,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,11,,N,N,0,112569
+>>495.3103@5.00,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,8,,N,N,0,92247
+>>495.3098@5.03,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,2,,N,N,0,100411
+>>495.3068@5.07,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,6,,N,N,0,43108
+>>495.3030@5.33,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2298790
+>>495.3093@5.02,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,5,,N,N,0,112057
+>>495.3057@5.18,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,4,,N,N,0,56614
+>437.3146@5.53,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,385720.0898417141,931202
+>>437.3151@5.52,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,5,,Y,N,0,593185
+>>437.3152@5.53,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,2,,Y,N,0,884735
+>>437.3112@5.53,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,5,,N,N,0,1009430
+>>437.3124@5.53,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,5,,Y,N,0,922869
+>>437.3121@5.53,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,N,N,0,595900
+>>437.3166@5.54,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,12,,Y,N,0,585575
+>>437.3179@5.53,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,Y,N,0,1581300
+>>437.3137@5.54,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,5,,Y,N,0,1176980
+>>437.3171@5.52,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,2,,Y,N,0,630699
+>>437.3149@5.52,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,N,N,0,924895
+>>437.3158@5.53,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,6,,N,N,0,1756880
+>>437.3137@5.53,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,511976
+>421.3407@5.53,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,607095.3381795427,1637664
+>>421.3401@5.54,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,12,,Y,N,0,1005490
+>>421.3427@5.53,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,6,,Y,N,0,1498830
+>>421.3374@5.53,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,Y,N,0,1895310
+>>421.3386@5.53,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,1872850
+>>421.3443@5.53,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,Y,N,0,1208280
+>>421.3408@5.54,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,5,,Y,N,0,1067200
+>>421.3435@5.53,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,5,,Y,N,0,2769160
+>>421.3407@5.54,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,Y,N,0,2100100
+>>421.3407@5.54,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,Y,N,0,1054580
+>>421.3396@5.52,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,4,,Y,N,0,1747530
+>>421.3415@5.53,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,1,,Y,N,0,2586320
+>>421.3385@5.54,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,846318
+>495.3055@5.87,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,203142.5513173342,110094.99166666665
+>>495.3070@5.95,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,5,,N,N,0,30447
+>>495.3073@5.96,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,21254
+>>495.3041@5.69,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,63285
+>>495.3039@5.98,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,81653
+>>495.3038@5.76,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,150870
+>>495.3056@5.93,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,2,,N,N,0,15716
+>>495.3066@5.90,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,4,,N,N,0,61556
+>>495.3064@5.93,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,41789
+>>495.3059@5.94,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,1,,N,N,0,11290
+>>495.3031@5.81,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,772875
+>>495.3060@5.69,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,42846
+>>495.3062@5.94,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,2,,N,N,0,27559
+>421.3529@6.03,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,987736.547809811,1857271.4166666667
+>>421.3520@6.16,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,12,,N,N,0,908825
+>>421.3572@6.14,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,11,,Y,N,0,1478070
+>>421.3517@5.94,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,Y,N,0,3895820
+>>421.3518@5.98,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,1356590
+>>421.3520@5.99,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,Y,N,0,2709430
+>>421.3529@5.96,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,4,,Y,N,0,923583
+>>421.3563@5.97,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,N,N,0,1409290
+>>421.3523@5.97,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,Y,N,0,2551130
+>>421.3523@6.14,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,6,,Y,N,0,1028550
+>>421.3514@5.99,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,Y,N,0,1777510
+>>421.3524@5.96,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,11,,Y,N,0,3377630
+>>421.3526@6.16,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,870829
+>465.3441@7.78,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,306038.9194697665,1085527.3333333333
+>>465.3414@7.78,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,10,,Y,N,0,774745
+>>465.3508@7.79,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,5,,Y,N,0,1032970
+>>465.3419@7.79,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,6,,Y,N,0,1202820
+>>465.3451@7.79,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,2,,Y,N,0,1215490
+>>465.3448@7.79,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,9,,Y,N,0,796963
+>>465.3420@7.78,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,12,,Y,N,0,836603
+>>465.3500@7.78,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,Y,N,0,1653060
+>>465.3416@7.78,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,Y,N,0,1455800
+>>465.3440@7.78,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,Y,N,0,772714
+>>465.3394@7.78,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,Y,N,0,1316750
+>>465.3437@7.78,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,12,,Y,N,0,1314090
+>>465.3448@7.78,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,6,,Y,N,0,654323
+>449.3723@7.79,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,961304.9065242717,2192615.8333333335
+>>449.3737@7.78,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,5,,Y,N,0,1441620
+>>449.3746@7.79,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,Y,N,0,1686230
+>>449.3724@7.79,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,2,,Y,N,0,1992490
+>>449.3674@7.79,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,6,,Y,N,0,2406230
+>>449.3769@7.79,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,Y,N,0,1489670
+>>449.3705@7.79,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,10,,Y,N,0,1437340
+>>449.3754@7.78,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,N,N,0,4150800
+>>449.3714@7.78,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,3,,Y,N,0,2533530
+>>449.3730@7.78,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,N,N,0,1278460
+>>449.3696@7.78,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,Y,N,0,2523710
+>>449.3709@7.78,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,12,,N,N,0,4052480
+>>449.3720@7.79,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,1318830
+>457.3313@8.39,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,2915202.7073239502,3517828.6666666665
+>>457.3300@8.39,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1084000
+>>457.3368@8.39,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,7172710
+>>457.3297@8.40,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2160290
+>>457.3304@8.39,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,8183110
+>>457.3301@8.39,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,5,,Y,N,0,1655310
+>>457.3308@8.39,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1096580
+>>457.3359@8.39,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,7825410
+>>457.3306@8.39,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1852200
+>>457.3300@8.39,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,921302
+>>457.3300@8.39,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,7164660
+>>457.3305@8.39,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2113990
+>>457.3305@8.39,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,984382
+>474.3587@8.39,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,2468974.36367043,3045300.8333333335
+>>474.3576@8.39,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,909362
+>>474.3638@8.39,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,6319320
+>>474.3572@8.40,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,2029260
+>>474.3573@8.39,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,7124300
+>>474.3577@8.39,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,1508670
+>>474.3585@8.39,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,925683
+>>474.3630@8.39,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,6572810
+>>474.3580@8.39,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1725400
+>>474.3579@8.39,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,815316
+>>474.3567@8.39,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,5881060
+>>474.3581@8.39,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,10,,Y,N,0,1868960
+>>474.3580@8.39,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,863469
+>447.3830@9.82,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,165136.2182701165,587961.6666666666
+>>447.3819@9.80,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,596089
+>>447.3880@9.81,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,8,,Y,N,0,513580
+>>447.3815@9.80,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,496890
+>>447.3817@9.81,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,684850
+>>447.3818@9.80,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,372960
+>>447.3825@9.82,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,540144
+>>447.3869@9.89,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,4,,Y,N,0,780161
+>>447.3839@9.80,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,464281
+>>447.3840@9.80,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,5,,Y,N,0,570219
+>>447.3793@9.86,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,575868
+>>447.3827@9.81,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,3,,Y,N,0,1015080
+>>447.3823@9.81,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,445418
+>461.3630@10.23,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,320357.04955261335,1211268.6666666667
+>>461.3619@10.20,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,965443
+>>461.3682@10.19,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1194750
+>>461.3617@10.19,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,10,,Y,N,0,1518150
+>>461.3618@10.34,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,1939840
+>>461.3620@10.33,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,886076
+>>461.3628@10.19,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,860863
+>>461.3674@10.19,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1536240
+>>461.3623@10.35,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1100170
+>>461.3621@10.18,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,838792
+>>461.3615@10.19,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1139770
+>>461.3627@10.20,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1430410
+>>461.3622@10.20,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,1124720
+>401.3420@10.30,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,726118.5126850085,4106721.6666666665
+>>401.3411@10.30,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,12,,Y,N,0,3577300
+>>401.3465@10.30,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,Y,N,0,3741010
+>>401.3407@10.30,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,Y,N,0,3876710
+>>401.3409@10.30,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,4734230
+>>401.3411@10.30,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,Y,N,0,4049510
+>>401.3418@10.30,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,12,,Y,N,0,3801690
+>>401.3458@10.30,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,Y,N,0,5282160
+>>401.3414@10.30,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,Y,N,0,5469720
+>>401.3412@10.30,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,Y,N,0,2968870
+>>401.3404@10.30,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,N,N,0,3597470
+>>401.3417@10.30,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,12,,Y,N,0,4627650
+>>401.3414@10.30,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,Y,N,0,3554340
+>461.3634@10.65,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,212533.40936439982,861346.6666666666
+>>461.3623@10.65,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,646503
+>>461.3685@10.65,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,922069
+>>461.3625@10.67,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,995080
+>>461.3618@10.64,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1209700
+>>461.3622@10.65,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,631042
+>>461.3631@10.66,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,628661
+>>461.3680@10.63,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,898179
+>>461.3626@10.65,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,5,,N,N,0,640357
+>>461.3625@10.65,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,746154
+>>461.3615@10.64,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,761475
+>>461.3628@10.65,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1250200
+>>461.3628@10.65,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,1,,N,N,0,1006740
+>461.3639@11.07,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,783333.3232783688,3641405
+>>461.3629@11.07,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3686090
+>>461.3691@11.07,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,3990740
+>>461.3624@11.07,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,4859280
+>>461.3625@11.07,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,4979790
+>>461.3628@11.07,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,4202300
+>>461.3638@11.08,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3852680
+>>461.3682@11.08,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3954530
+>>461.3631@11.07,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2745260
+>>461.3629@11.07,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2718250
+>>461.3621@11.07,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2947010
+>>461.3635@11.07,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3206030
+>>461.3632@11.08,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2554900
+>461.3632@11.34,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,485384.54865060345,2218192.5
+>>461.3623@11.34,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,5,,Y,N,0,2110080
+>>461.3684@11.34,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1779800
+>>461.3616@11.34,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2477970
+>>461.3619@11.35,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2737600
+>>461.3621@11.34,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1465290
+>>461.3631@11.34,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2298040
+>>461.3677@11.35,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,2467760
+>>461.3625@11.35,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1734900
+>>461.3623@11.34,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1964320
+>>461.3615@11.35,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,1824900
+>>461.3629@11.34,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3281900
+>>461.3626@11.35,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,1,,Y,N,0,2475750
+>429.3737@11.51,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,849888.1833789797,2272588.3333333335
+>>429.3728@11.52,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1555560
+>>429.3785@11.52,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3125210
+>>429.3721@11.52,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,2193790
+>>429.3723@11.51,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3967870
+>>429.3727@11.50,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1801180
+>>429.3736@11.53,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1609360
+>>429.3778@11.51,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,3160530
+>>429.3730@11.52,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1858870
+>>429.3728@11.51,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1140270
+>>429.3720@11.50,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3205000
+>>429.3734@11.51,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2260060
+>>429.3730@11.51,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1393360
+>550.3491@11.54,,Approved,Super Sample,Cholesterol and derivatives,6,,Y,N,708601.9892019273,220965.51250000004
+>>550.3476@11.50,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,N,N,0,10675
+>>550.3492@11.09,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,11,,N,N,0,23029
+>>550.3503@11.79,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,N,N,0,21959
+>>550.3496@11.81,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,N,N,0,16786
+>>550.3486@11.28,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,Y,N,0,2570960
+>>550.3493@11.75,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,10,,N,N,0,8177
+>446.3739@11.79,,Approved,Super Sample,Cholesterol and derivatives,12,,Y,N,123179.39646868258,343599.6666666667
+>>446.3743@11.74,,,"QE_18_45_0,05p_SIR1_20181110072802",Cholesterol and derivatives,1,,N,N,0,292974
+>>446.3779@11.93,,,"QE_18_45_0,05p_SIR2_20181110080303",Cholesterol and derivatives,12,,N,N,0,407635
+>>446.3736@11.75,,,"QE_18_45_0,05p_SIR3_20181110083804",Cholesterol and derivatives,12,,N,N,0,318635
+>>446.3730@11.72,,,"QE_18_45_0,05p_SIS1_20181110050800",Cholesterol and derivatives,12,,Y,N,0,711200
+>>446.3741@11.75,,,"QE_18_45_0,05p_SIS2_20181110054301",Cholesterol and derivatives,12,,N,N,0,351970
+>>446.3734@11.73,,,"QE_18_45_0,05p_SIS3_20181110061802",Cholesterol and derivatives,12,,N,N,0,346484
+>>446.3758@11.89,,,"QE_18_45_0,05p_VIR1_20181110124308",Cholesterol and derivatives,12,,N,N,0,309004
+>>446.3734@11.91,,,"QE_18_45_0,05p_VIR2_20181110131811",Cholesterol and derivatives,12,,N,N,0,220931
+>>446.3737@11.70,,,"QE_18_45_0,05p_VIR3_20181110135312",Cholesterol and derivatives,12,,N,N,0,244603
+>>446.3724@11.85,,,"QE_18_45_0,05p_VIS1_20181110094805",Cholesterol and derivatives,12,,N,N,0,369768
+>>446.3725@11.75,,,"QE_18_45_0,05p_VIS2_20181110102309",Cholesterol and derivatives,2,,N,N,0,316471
+>>446.3730@11.82,,,"QE_18_45_0,05p_VIS3_20181110105810",Cholesterol and derivatives,12,,N,N,0,233521
+>411.3625@11.90,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,397723.97633814113,599522.6666666666
+>>411.3604@11.89,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,186296
+>>411.3673@11.88,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,2,,N,N,0,1169020
+>>411.3612@11.94,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,570548
+>>411.3613@11.89,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1342230
+>>411.3617@11.92,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,447153
+>>411.3625@11.90,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,229102
+>>411.3666@11.88,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1127480
+>>411.3621@11.89,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,315430
+>>411.3619@11.88,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,9,,N,N,0,223973
+>>411.3613@11.88,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,5,,Y,N,0,810349
+>>411.3622@11.93,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,551308
+>>411.3620@11.92,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,9,,N,N,0,221383
+>447.3841@13.31,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,809520.9522145215,3030754.1666666665
+>>447.3832@13.29,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2093570
+>>447.3892@13.31,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2901160
+>>447.3827@13.30,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2818990
+>>447.3827@13.32,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,1,,N,N,0,3186060
+>>447.3830@13.30,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1685080
+>>447.3840@13.31,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2141790
+>>447.3882@13.31,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2892090
+>>447.3834@13.30,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,4458680
+>>447.3832@13.31,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4111260
+>>447.3824@13.30,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2871440
+>>447.3839@13.31,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,3163240
+>>447.3833@13.31,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4045690
+>447.3838@14.07,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,3378985.742618963,13200826.666666666
+>>447.3827@14.07,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,11057600
+>>447.3887@14.07,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,10051000
+>>447.3823@14.07,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,13913100
+>>447.3824@14.07,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,10862100
+>>447.3826@14.07,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,7372420
+>>447.3836@14.07,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,11225300
+>>447.3879@14.07,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,10663400
+>>447.3831@14.07,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,16083800
+>>447.3829@14.08,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,4,,Y,N,0,16054500
+>>447.3822@14.06,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,17256400
+>>447.3835@14.07,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,14546200
+>>447.3831@14.07,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,7,,Y,N,0,19324100
+>860.7350@20.63,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,644159.5994876234,1395872.3333333333
+>>860.7330@20.53,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,9,,N,N,0,827861
+>>860.7447@20.67,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1103200
+>>860.7327@20.49,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1033530
+>>860.7327@20.65,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3038210
+>>860.7329@20.68,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2065820
+>>860.7345@20.67,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,828947
+>>860.7431@20.62,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1501570
+>>860.7336@20.82,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1628660
+>>860.7331@20.50,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,913760
+>>860.7322@20.62,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1542480
+>>860.7341@20.62,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,4,,N,N,0,1640630
+>>860.7340@20.65,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,9,,N,N,0,625800
+>888.7665@21.05,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,1364611.678014777,2991245.8333333335
+>>888.7644@21.04,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,10,,Y,N,0,1661290
+>>888.7766@21.01,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,3,,Y,N,0,2388190
+>>888.7638@21.06,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2417970
+>>888.7639@21.06,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,6585680
+>>888.7640@21.08,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4626520
+>>888.7655@21.08,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1506840
+>>888.7749@21.02,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3497040
+>>888.7652@21.08,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2655820
+>>888.7643@21.05,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,3,,Y,N,0,2221590
+>>888.7640@21.06,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2486120
+>>888.7655@21.06,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3580610
+>>888.7654@21.05,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2267280
+>914.7820@21.11,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,661477.3176740244,1808061.6666666667
+>>914.7798@21.19,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1900600
+>>914.7925@21.19,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1291620
+>>914.7796@21.20,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1121970
+>>914.7793@21.06,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2908070
+>>914.7795@21.08,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2009010
+>>914.7810@21.04,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2034460
+>>914.7904@21.02,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3324190
+>>914.7807@21.08,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1660240
+>>914.7802@21.19,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1258590
+>>914.7793@21.06,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1407110
+>>914.7812@21.06,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,10,,N,N,0,1578830
+>>914.7808@21.20,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,5,,Y,N,0,1202050
+>826.6427@21.12,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,11,,Y,N,148352.9772615102,240655.75
+>>826.6406@21.11,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,459862
+>>826.6521@21.12,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,285906
+>>826.6399@21.12,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,451847
+>>826.6442@21.13,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,120147
+>>826.6401@21.11,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,226985
+>>826.6419@21.12,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,7,,Y,N,0,493328
+>>826.6503@21.12,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,3,,N,N,0,244687
+>>826.6402@21.11,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,10,,N,N,0,143518
+>>826.6403@21.11,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,151248
+>>826.6419@21.11,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,134270
+>>826.6379@21.11,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,176071
+>916.7981@21.39,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,1198261.3698266125,3442532.5
+>>916.7956@21.37,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2048670
+>>916.8084@21.34,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,11,,Y,N,0,3232780
+>>916.7955@21.34,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2848260
+>>916.7955@21.50,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,5947840
+>>916.7956@21.52,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,5182190
+>>916.7976@21.34,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,2,,Y,N,0,1659860
+>>916.8069@21.35,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4449640
+>>916.7963@21.52,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3350490
+>>916.7958@21.34,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2847660
+>>916.7952@21.34,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3131750
+>>916.7972@21.33,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3975840
+>>916.7970@21.35,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2635410
+>916.7976@21.69,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,1160103.7818765636,3915395.8333333335
+>>916.7954@21.66,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2677470
+>>916.8081@21.84,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4162410
+>>916.7949@21.69,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1992880
+>>916.7950@21.57,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,10,,Y,N,0,6629140
+>>916.7951@21.49,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3404090
+>>916.7969@21.82,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2644680
+>>916.8061@21.46,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4762960
+>>916.7959@21.70,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4521680
+>>916.7954@21.85,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,7,,Y,N,0,3900220
+>>916.7948@21.73,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3734730
+>>916.7965@21.72,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,4623150
+>>916.7966@21.71,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3931340
+>916.7975@21.79,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,12,,Y,N,1108287.2853200487,2427672.5
+>>916.7952@21.66,,,"QE_18_45_0,05p_SIR1_20181110072802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1985940
+>>916.8081@21.83,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3229950
+>>916.7948@21.88,,,"QE_18_45_0,05p_SIR3_20181110083804",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1706820
+>>916.7950@21.83,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,5269890
+>>916.7948@21.78,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,11,,N,N,0,2558020
+>>916.7968@21.84,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1281910
+>>916.8060@21.82,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,3725130
+>>916.7960@21.83,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2171360
+>>916.7954@21.84,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,2254790
+>>916.7945@21.73,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,1538340
+>>916.7965@21.72,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,2128470
+>>916.7964@21.75,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,1281450
+>858.7200@22.31,,Approved,Super Sample,Stigmasterols and C24-ethyl derivatives,10,,Y,N,247509.53209985505,190827.65
+>>858.7206@22.22,,,"QE_18_45_0,05p_SIR2_20181110080303",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,34813
+>>858.7164@22.32,,,"QE_18_45_0,05p_SIS1_20181110050800",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,301832
+>>858.7161@22.32,,,"QE_18_45_0,05p_SIS2_20181110054301",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,256237
+>>858.7199@22.24,,,"QE_18_45_0,05p_SIS3_20181110061802",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,78245
+>>858.7274@22.31,,,"QE_18_45_0,05p_VIR1_20181110124308",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,167003
+>>858.7214@22.37,,,"QE_18_45_0,05p_VIR2_20181110131811",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,175874
+>>858.7189@22.39,,,"QE_18_45_0,05p_VIR3_20181110135312",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,38100
+>>858.7165@22.32,,,"QE_18_45_0,05p_VIS1_20181110094805",Stigmasterols and C24-ethyl derivatives,12,,Y,N,0,952322
+>>858.7184@22.22,,,"QE_18_45_0,05p_VIS2_20181110102309",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,148773
+>>858.7245@22.39,,,"QE_18_45_0,05p_VIS3_20181110105810",Stigmasterols and C24-ethyl derivatives,12,,N,N,0,136733

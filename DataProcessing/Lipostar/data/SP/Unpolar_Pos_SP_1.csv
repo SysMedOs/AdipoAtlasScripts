@@ -1,0 +1,456 @@
+Compound,Adduct info,Approved,Sample,Lipid Class,Num. of samples,Adducts,Has MS/MS,Has OX Chain,StdDev,Area
+>675.5427@4.84,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,91594.38984669797,222779.66666666666
+>>675.5429@4.85,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,135032
+>>675.5429@4.83,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,147158
+>>675.5424@4.85,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,195089
+>>675.5425@4.84,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,164735
+>>675.5427@4.84,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,218616
+>>675.5426@4.83,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,279431
+>>675.5434@4.84,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,339146
+>>675.5426@4.85,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,424015
+>>675.5428@4.84,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,130398
+>>675.5428@4.85,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,301107
+>>675.5427@4.82,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,221612
+>>675.5427@4.85,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,117017
+>701.5583@5.01,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,123373.96264347744,349516.25
+>>701.5586@5.00,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,221463
+>>701.5584@5.01,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,317805
+>>701.5579@5.01,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,395661
+>>701.5581@5.01,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,289638
+>>701.5582@5.00,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,379358
+>>701.5583@5.01,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,452294
+>>701.5589@5.01,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,426264
+>>701.5581@5.01,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,620392
+>>701.5584@5.01,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,229820
+>>701.5584@5.02,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,409770
+>>701.5583@5.02,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,326565
+>>701.5583@5.00,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,125165
+>725.5556@5.69,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,90152.64176985239,241750.5
+>>725.5559@5.66,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,170901
+>>725.5554@5.70,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,137947
+>>725.5554@5.66,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,186457
+>>725.5556@5.72,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,179018
+>>725.5553@5.68,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,216953
+>>725.5558@5.67,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,244464
+>>725.5562@5.69,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,367326
+>>725.5556@5.67,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,443035
+>>725.5553@5.69,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,199477
+>>725.5555@5.69,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,323289
+>>725.5555@5.69,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,279634
+>>725.5559@5.72,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,152505
+>705.5900@6.00,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,167293.35645057756,407211
+>>705.5905@6.01,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,250434
+>>705.5900@5.99,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,251496
+>>705.5898@5.98,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,347370
+>>705.5896@6.00,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,262694
+>>705.5900@5.99,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,239042
+>>705.5898@6.00,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,366650
+>>705.5906@6.02,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,705897
+>>705.5899@6.00,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,510936
+>>705.5897@6.02,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,403331
+>>705.5901@6.00,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,686492
+>>705.5900@5.99,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,594650
+>>705.5905@6.00,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,267540
+>731.6046@6.40,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,46506.159698053256,176335.15
+>>731.6050@6.43,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,183230
+>>731.6047@6.40,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,192258
+>>731.6045@6.38,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,187553
+>>731.6042@6.39,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,83764
+>>731.6042@6.43,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,216393
+>>731.6047@6.41,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),11,,N,N,0,245291
+>>731.6052@6.41,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,94139
+>>731.6043@6.43,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,188420
+>>731.6046@6.43,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,201079
+>>731.6044@6.38,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,204927
+>>731.6045@6.38,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),11,,N,N,0,130346
+>>731.6047@6.39,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,188622
+>731.6044@6.56,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,399231.9060975,887151.0833333334
+>>731.6046@6.56,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,343303
+>>731.6045@6.53,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,727923
+>>731.6039@6.54,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,690437
+>>731.6043@6.53,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,406086
+>>731.6042@6.57,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,783916
+>>731.6042@6.56,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,710657
+>>731.6050@6.54,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1503070
+>>731.6042@6.57,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1614500
+>>731.6044@6.56,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1198840
+>>731.6044@6.56,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1148700
+>>731.6043@6.57,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1053200
+>>731.6042@6.58,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,465181
+>538.5183@6.66,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,305462.8348854293,715026.5833333334
+>>538.5185@6.65,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,585184
+>>538.5184@6.67,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,403036
+>>538.5183@6.66,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,619722
+>>538.5182@6.67,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,495851
+>>538.5182@6.66,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,430598
+>>538.5183@6.65,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,305934
+>>538.5187@6.66,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,1043440
+>>538.5182@6.65,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,1242790
+>>538.5178@6.67,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,716839
+>>538.5184@6.66,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,823249
+>>538.5184@6.67,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,1261030
+>>538.5183@6.65,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,652646
+>785.6518@7.82,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,126153.29394618366,295353.8333333333
+>>785.6519@7.82,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,196046
+>>785.6520@7.81,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,201358
+>>785.6516@7.82,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,301659
+>>785.6517@7.83,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,207015
+>>785.6514@7.82,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,265387
+>>785.6516@7.81,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,323480
+>>785.6522@7.84,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,430665
+>>785.6515@7.82,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,608368
+>>785.6516@7.81,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,206279
+>>785.6520@7.83,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,396890
+>>785.6518@7.82,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,278912
+>>785.6520@7.81,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,128187
+>813.6831@8.54,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,14225.535522774608,151239.58333333334
+>>813.6833@8.55,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,146110
+>>813.6837@8.56,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,145192
+>>813.6827@8.53,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,144221
+>>813.6829@8.54,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,142782
+>>813.6828@8.51,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,129833
+>>813.6828@8.50,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,142163
+>>813.6835@8.55,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,149692
+>>813.6828@8.56,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,180643
+>>813.6833@8.54,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,137442
+>>813.6828@8.51,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,163287
+>>813.6833@8.55,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,163580
+>>813.6831@8.56,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,169930
+>813.6831@8.66,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,521494.08484114707,1477605.8333333333
+>>813.6832@8.68,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1085510
+>>813.6833@8.66,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1134500
+>>813.6829@8.64,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1069750
+>>813.6829@8.63,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1140950
+>>813.6830@8.66,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1168240
+>>813.6832@8.66,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1257950
+>>813.6836@8.67,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2471120
+>>813.6830@8.66,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2568380
+>>813.6830@8.68,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1280810
+>>813.6833@8.67,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1711290
+>>813.6832@8.65,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1803390
+>>813.6831@8.67,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1039380
+>787.6674@8.76,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,337503.0820680157,1280216.0833333333
+>>787.6674@8.75,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,825413
+>>787.6675@8.76,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1097690
+>>787.6671@8.75,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1223330
+>>787.6672@8.75,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1082300
+>>787.6672@8.75,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1071800
+>>787.6673@8.76,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1085620
+>>787.6679@8.75,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1884690
+>>787.6674@8.77,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1938450
+>>787.6672@8.76,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1051170
+>>787.6674@8.76,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1567400
+>>787.6674@8.75,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1453240
+>>787.6673@8.76,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1081490
+>578.5851@9.02,,Approved,Super Sample,Other Sphingolipids,12,,Y,N,818265.6660370152,1234043
+>>578.5837@9.01,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,586162
+>>578.5833@9.03,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Other Sphingolipids,11,,N,N,0,802378
+>>578.5856@9.02,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,578337
+>>578.5829@9.04,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,751134
+>>578.5858@9.02,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,825219
+>>578.5853@9.01,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,534657
+>>578.5860@9.01,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,2849160
+>>578.5859@9.03,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,2925760
+>>578.5857@9.05,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,805501
+>>578.5849@9.01,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,891448
+>>578.5854@9.02,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,N,N,0,1741360
+>>578.5861@9.02,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Other Sphingolipids,11,,N,N,0,1517400
+>813.6824@9.11,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,109851.3362846361,211929.025
+>>813.6823@9.12,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,54112
+>>813.6825@9.13,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,81028
+>>813.6823@9.09,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,236434
+>>813.6819@9.15,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,130309
+>>813.6823@9.09,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,267711
+>>813.6824@9.13,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,126318
+>>813.6832@9.12,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,267573
+>>813.6826@9.09,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,413635
+>>813.6825@9.13,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,279174
+>>813.6828@9.11,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,382724
+>>813.6822@9.10,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,137549
+>>813.6824@9.11,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,166582
+>620.5965@9.32,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,133952.40653999377,167400.05833333332
+>>620.5967@9.30,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,21333
+>>620.5966@9.31,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,50445
+>>620.5958@9.32,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,104984
+>>620.5964@9.34,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,55909
+>>620.5966@9.32,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,57840
+>>620.5968@9.34,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,71526
+>>620.5969@9.30,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,398294
+>>620.5965@9.32,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,408570
+>>620.5962@9.34,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,82954
+>>620.5966@9.30,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,222469
+>>620.5964@9.33,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,291833
+>>620.5963@9.35,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,242643
+>815.6987@10.24,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,254207.2396281313,716151.75
+>>815.6989@10.25,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,639891
+>>815.6988@10.22,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,642049
+>>815.6981@10.23,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,725712
+>>815.6982@10.26,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,501497
+>>815.6984@10.22,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,471536
+>>815.6986@10.26,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,670826
+>>815.6993@10.25,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1204620
+>>815.6988@10.24,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1173830
+>>815.6986@10.25,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,658511
+>>815.6988@10.25,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,940836
+>>815.6987@10.22,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,332591
+>>815.6988@10.24,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,631922
+>815.6987@10.25,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,232339.1299634814,623872.75
+>>815.6990@10.23,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,351890
+>>815.6988@10.22,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,575447
+>>815.6981@10.25,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,627372
+>>815.6983@10.26,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,504403
+>>815.6984@10.31,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,239524
+>>815.6986@10.28,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,681868
+>>815.6993@10.25,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1031050
+>>815.6989@10.25,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1047550
+>>815.6985@10.24,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,558236
+>>815.6987@10.25,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,817087
+>>815.6987@10.28,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,526527
+>>815.6988@10.24,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,525519
+>632.6334@10.48,,Approved,Super Sample,Other Sphingolipids,12,,Y,N,972374.8072110048,1420975.1666666667
+>>632.6336@10.48,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,737683
+>>632.6334@10.49,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,868951
+>>632.6330@10.46,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,750272
+>>632.6331@10.47,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,962170
+>>632.6332@10.48,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,1183140
+>>632.6333@10.49,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,574952
+>>632.6338@10.49,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,3174360
+>>632.6335@10.48,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,3615770
+>>632.6333@10.51,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,833659
+>>632.6333@10.49,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,785435
+>>632.6334@10.48,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,2129000
+>>632.6335@10.49,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,1436310
+>622.6128@10.51,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,109302.44915838269,258297.75
+>>622.6130@10.48,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,290399
+>>622.6127@10.49,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,114997
+>>622.6124@10.55,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,246197
+>>622.6126@10.48,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,192854
+>>622.6126@10.51,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,242360
+>>622.6128@10.53,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,124239
+>>622.6132@10.49,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,251002
+>>622.6130@10.52,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,466753
+>>622.6128@10.51,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,139824
+>>622.6129@10.49,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,254140
+>>622.6129@10.51,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,450566
+>>622.6130@10.52,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,326242
+>622.6128@10.51,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,85558.22847871891,255368.5
+>>622.6130@10.49,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,208548
+>>622.6129@10.49,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,185232
+>>622.6126@10.54,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,195840
+>>622.6126@10.49,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,200975
+>>622.6127@10.50,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,227672
+>>622.6122@10.52,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,178804
+>>622.6133@10.55,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,305243
+>>622.6130@10.52,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,431778
+>>622.6128@10.51,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,181700
+>>622.6129@10.49,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,223491
+>>622.6129@10.50,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,410343
+>>622.6130@10.53,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,314796
+>648.6281@10.95,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,168316.2612262627,325259.25
+>>648.6282@10.95,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,179564
+>>648.6283@10.96,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,212113
+>>648.6279@10.95,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,187287
+>>648.6280@10.96,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,214128
+>>648.6279@10.93,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,170092
+>>648.6281@10.95,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,238988
+>>648.6287@10.94,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,627472
+>>648.6280@10.94,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,668298
+>>648.6282@10.96,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,217885
+>>648.6282@10.94,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,324725
+>>648.6281@10.93,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,433609
+>>648.6281@10.93,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,428950
+>650.6441@12.31,,Approved,Super Sample,N-acylsphingosines (ceramides),12,,Y,N,195294.8354771717,321521.6666666667
+>>650.6443@12.29,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,135838
+>>650.6441@12.30,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,218764
+>>650.6436@12.34,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,196666
+>>650.6440@12.31,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,112801
+>>650.6440@12.33,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,170811
+>>650.6440@12.30,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,239283
+>>650.6444@12.31,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,735948
+>>650.6439@12.30,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,515372
+>>650.6441@12.29,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,N,N,0,132385
+>>650.6443@12.32,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,387506
+>>650.6439@12.30,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,561975
+>>650.6440@12.32,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",N-acylsphingosines (ceramides),12,,Y,N,0,450911
+>634.6490@12.41,,Approved,Super Sample,Other Sphingolipids,12,,Y,N,677667.2750896801,983129.1666666666
+>>634.6493@12.40,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,538930
+>>634.6483@12.42,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,582584
+>>634.6489@12.41,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,491423
+>>634.6485@12.39,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,616334
+>>634.6491@12.42,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,768214
+>>634.6494@12.41,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,370863
+>>634.6496@12.41,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,2489980
+>>634.6488@12.41,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,2240920
+>>634.6493@12.39,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,504726
+>>634.6494@12.41,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,654666
+>>634.6487@12.42,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,1303470
+>>634.6486@12.41,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Other Sphingolipids,12,,Y,N,0,1235440
+>689.5684@12.49,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,322053.68536406534,499206.5833333333
+>>689.5685@12.52,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,241159
+>>689.5687@12.51,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,233628
+>>689.5682@12.48,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,337922
+>>689.5680@12.51,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,721034
+>>689.5681@12.52,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1142930
+>>689.5684@12.51,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,186310
+>>689.5688@12.51,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1135290
+>>689.5683@12.40,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,451176
+>>689.5686@12.42,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,181310
+>>689.5684@12.52,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,458335
+>>689.5686@12.50,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,397527
+>>689.5685@12.49,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,503858
+>717.5993@14.46,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,411267.64882098744,585451.9166666666
+>>717.5997@14.40,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,494532
+>>717.5998@14.54,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,152375
+>>717.5991@14.51,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,284162
+>>717.5992@14.41,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,841264
+>>717.5988@14.50,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,909901
+>>717.5993@14.54,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,174118
+>>717.5997@14.40,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1638270
+>>717.5994@14.41,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,431201
+>>717.5994@14.49,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,197527
+>>717.5995@14.40,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,842889
+>>717.5992@14.40,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,684468
+>>717.5990@14.51,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,374716
+>731.6154@14.82,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,207469.72046746363,273829.35000000003
+>>731.6159@14.83,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,126518
+>>731.6154@14.83,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,152789
+>>731.6149@14.80,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,143149
+>>731.6154@14.90,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,195157
+>>731.6151@14.92,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,742244
+>>731.6155@14.79,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,151280
+>>731.6154@14.83,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,313618
+>>731.6153@14.74,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,236399
+>>731.6151@14.73,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,54473
+>>731.6155@14.84,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,685337
+>>731.6152@14.85,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,236500
+>>731.6156@14.83,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),10,,N,N,0,248488
+>731.6154@15.18,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,311230.55851968046,499647.8333333333
+>>731.6157@15.18,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,261804
+>>731.6161@15.15,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,182706
+>>731.6154@15.18,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,198340
+>>731.6154@15.16,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,363382
+>>731.6150@15.20,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,658592
+>>731.6153@15.20,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,193702
+>>731.6154@15.19,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,719135
+>>731.6152@15.19,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,674470
+>>731.6156@15.19,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,143386
+>>731.6156@15.19,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1014270
+>>731.6152@15.19,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,533637
+>>731.6154@15.17,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1052350
+>731.6154@15.20,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,381744.48169496254,727435.3333333334
+>>731.6158@15.20,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,442380
+>>731.6156@15.22,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,132692
+>>731.6150@15.21,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,491650
+>>731.6153@15.21,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,513039
+>>731.6151@15.20,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1176500
+>>731.6153@15.20,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,430594
+>>731.6156@15.19,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1353140
+>>731.6151@15.20,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,998995
+>>731.6154@15.19,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,242566
+>>731.6155@15.19,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1105230
+>>731.6152@15.20,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,875103
+>>731.6153@15.17,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,967335
+>759.6460@16.86,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,626042.6314330669,1304315.8333333333
+>>759.6462@16.87,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1179730
+>>759.6461@16.92,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,304748
+>>759.6459@16.84,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1050260
+>>759.6458@16.85,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1805790
+>>759.6456@16.84,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1961150
+>>759.6459@16.87,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,666600
+>>759.6464@16.83,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,2038760
+>>759.6459@16.84,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1457430
+>>759.6460@17.02,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,128542
+>>759.6461@16.82,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1967490
+>>759.6460@16.84,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1417610
+>>759.6460@16.82,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1673680
+>705.5811@18.33,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,505577.19915513945,1935663.3333333333
+>>705.5813@18.34,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1404830
+>>705.5814@18.32,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1484340
+>>705.5808@18.34,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2208590
+>>705.5811@18.36,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1110600
+>>705.5809@18.32,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1845250
+>>705.5809@18.35,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1910880
+>>705.5816@18.32,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2340140
+>>705.5812@18.34,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2882130
+>>705.5811@18.32,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1938890
+>>705.5811@18.35,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1379720
+>>705.5808@18.31,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2152720
+>>705.5813@18.32,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2569870
+>787.6771@18.96,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,358959.4762715795,1266710
+>>787.6775@18.94,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1527120
+>>787.6773@18.94,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,715685
+>>787.6765@18.97,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1172270
+>>787.6774@18.99,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1362480
+>>787.6771@18.97,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1030630
+>>787.6768@18.96,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1157150
+>>787.6777@18.98,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1586730
+>>787.6770@18.90,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,808161
+>>787.6767@18.95,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,929804
+>>787.6772@18.99,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1961430
+>>787.6769@18.96,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1258020
+>>787.6774@18.94,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),8,,Y,N,0,1691040
+>787.6771@18.98,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,660598.6433053808,918611.9166666666
+>>787.6774@18.93,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,447814
+>>787.6774@19.01,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,422629
+>>787.6768@18.93,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,362584
+>>787.6773@19.00,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),8,,Y,N,0,2120980
+>>787.6770@18.89,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,442483
+>>787.6768@19.00,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1308870
+>>787.6778@19.00,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1600700
+>>787.6772@19.01,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,362855
+>>787.6767@19.06,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),8,,N,N,0,292742
+>>787.6773@19.05,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2065470
+>>787.6768@18.96,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1048140
+>>787.6772@18.94,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,548076
+>813.6930@19.10,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,675756.15027209,2718391.6666666665
+>>813.6932@19.13,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2653500
+>>813.6931@19.11,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2141000
+>>813.6926@19.11,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2545260
+>>813.6929@19.13,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3218230
+>>813.6929@19.15,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2902760
+>>813.6927@19.09,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2351910
+>>813.6939@19.08,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2311930
+>>813.6934@19.01,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1813040
+>>813.6928@19.12,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1858980
+>>813.6929@19.08,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3767190
+>>813.6928@19.11,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3000140
+>>813.6931@19.05,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,4056760
+>813.6929@19.12,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,1105481.7826312548,2598326.9166666665
+>>813.6932@19.13,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3156170
+>>813.6932@19.11,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1856280
+>>813.6926@19.12,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2056590
+>>813.6929@19.14,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),9,,Y,N,0,4262850
+>>813.6926@19.14,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1369450
+>>813.6926@19.12,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),11,,Y,N,0,2997220
+>>813.6932@19.14,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,664243
+>>813.6931@19.12,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1291810
+>>813.6927@19.13,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,2464800
+>>813.6927@19.09,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3733540
+>>813.6926@19.10,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),11,,Y,N,0,3816060
+>>813.6931@19.10,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,3510910
+>813.6927@19.16,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,372616.6165567798,1217559.3333333333
+>>813.6931@19.13,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1125970
+>>813.6931@19.18,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,629444
+>>813.6925@19.19,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1108810
+>>813.6927@19.15,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1307880
+>>813.6929@19.10,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),9,,Y,N,0,2034250
+>>813.6925@19.14,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,926252
+>>813.6930@19.21,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1233520
+>>813.6925@19.20,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,1319410
+>>813.6924@19.14,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,647996
+>>813.6925@19.20,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1615200
+>>813.6923@19.14,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1228180
+>>813.6929@19.13,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1433800
+>813.6930@19.82,,Approved,Super Sample,Ceramide phosphocholines (sphingomyelins),12,,Y,N,301463.8317476447,1034329.8333333334
+>>813.6929@19.75,,,"QE_18_42_AT_SIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1179180
+>>813.6932@19.75,,,"QE_18_42_AT_SIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,950150
+>>813.6928@19.88,,,"QE_18_42_AT_SIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,789530
+>>813.6932@19.94,,,"QE_18_42_AT_SIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,669493
+>>813.6927@19.74,,,"QE_18_42_AT_SIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1320830
+>>813.6927@19.75,,,"QE_18_42_AT_SIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1178810
+>>813.6936@19.76,,,"QE_18_42_AT_VIR1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1346190
+>>813.6927@19.81,,,"QE_18_42_AT_VIR2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,795553
+>>813.6929@19.87,,,"QE_18_42_AT_VIR3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,N,N,0,605821
+>>813.6930@19.75,,,"QE_18_42_AT_VIS1_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,1676300
+>>813.6928@19.90,,,"QE_18_42_AT_VIS2_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,916249
+>>813.6934@19.88,,,"QE_18_42_AT_VIS3_1_0,00025_pos_DDA",Ceramide phosphocholines (sphingomyelins),12,,Y,N,0,983852
