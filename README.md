@@ -4,8 +4,9 @@
 
 - All scripts for data visualization is in `DataVisualization` folder
 
+- Scripts are stored by tasks/plots separately.
 
-
+- Some raw image outputs might be edited further to add additional labels and markers for the production of the final image in the publication.
 
 
 ### License
@@ -18,12 +19,8 @@
   
   * For commercial use: please contact the develop team by email.  
 
-+ Please cite our publication in an appropriate form.   
-  
-  * Ni, Zhixu, Georgia Angelidou, Mike Lange, Ralf Hoffmann, and Maria Fedorova. "LipidHunter identifies phospholipids by high-throughput processing of LC-MS and shotgun lipidomics datasets." Analytical Chemistry (2017).  
-    - DOI: 10.1021/acs.analchem.7b01126  
++ Please cite our publication in an appropriate form.
 
-### 
 
 ### Funding
 
