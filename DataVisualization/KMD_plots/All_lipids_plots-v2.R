@@ -1,3 +1,15 @@
+# Copyright (C) 2016-2021  SysMedOs_team @ AG Bioanalytik, University of Leipzig:
+# SysMedOs_team: Zhixu Ni, Georgia Angelidou, Mike Lange, Maria Fedorova
+# LipidHunter is Dual-licensed
+#     For academic and non-commercial use: `GPLv2 License` Please read more information by the following link:
+#         [The GNU General Public License version 2] (https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+#     For commercial use:
+#         please contact the SysMedOs_team by email.
+# Please cite our publication in an appropriate form.
+#
+# For more info please contact:
+#     Developer Georgia Agnelidou georgia.angelidou@uni-leipzig.de
+
 library("readxl")
 library("openxlsx")
 library("hash")
@@ -158,7 +170,7 @@ cols<- c("0" = "#F8766D", "1" = "#E38900", "2" = "darkgoldenrod1", "3" = "#99A80
          "8" = "darkslateblue", "9" ="#06A4FF", "10"=  "#A58AFF", "11"="hotpink3",
          "12"="#FB61D7", "13"="#FF66A8")
 
-wb <- loadWorkbook("./AdiposeAtlas_lipidIdentification_05062020.xlsx")
+wb <- loadWorkbook("./data/AdiposeAtlas_lipidIdentification_05062020.xlsx")
 data_info <- readWorkbook(wb, sheet=1)
 lpc_df <- data_info[data_info$Class == "LPC", ]
 lpc_df <- bulkInfo(lpc_df, 'LPC')

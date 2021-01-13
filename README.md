@@ -1,4 +1,4 @@
-# Python scripts collection for AdipoAtlas project
+# Scripts collection for AdipoAtlas project
 
 - All scripts for data processing is in `DataProcessing` folder
 
@@ -11,7 +11,7 @@
 
 ### License
 
-+ LipidHunter is Dual-licensed  
++ This project is Dual-licensed  
   
   * For academic and non-commercial use: `GPLv2 License`:   
     
