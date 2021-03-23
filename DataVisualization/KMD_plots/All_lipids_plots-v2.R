@@ -139,9 +139,17 @@ kmd_calculation <- function(d_df, elem){
   d_df$O[is.na(d_df$O)] <- 0
   d_df$P <- ''
   d_df$P <- str_match(d_df$Formula_Neutral, "P(\\d+)")[,2]
-  d_df$P[is.na(d_df$P)] <- 0
+  d_df$P_SEG <- ''
+  d_df$P_COUNT <- 0
+  d_df$P_SEG <- str_match(d_df$Formula_Neutral, "P(\\d+)|P")[,1]
+  d_df$P_COUNT[d_df$P_SEG == "P"] <- 1
+  d_df$P[is.na(d_df$P)] <- d_df$P_COUNT
   d_df$N <- str_match(d_df$Formula_Neutral, "N(\\d+)")[,2]
-  d_df$N[is.na(d_df$N)] <- 0
+  d_df$N_SEG <- ''
+  d_df$N_COUNT <- 0
+  d_df$N_SEG <- str_match(d_df$Formula_Neutral, "N(\\d+)|N")[,1]
+  d_df$N_COUNT[d_df$N_SEG == "N"] <- 1
+  d_df$N[is.na(d_df$N)] <- d_df$N_COUNT
   #if (str_detect(d_df$Formula_Neutral, 'C')){
   #  d_df$C <- str_match(d_df$Formula_Neutral, "C(\\d+)")[,2]
   #}
