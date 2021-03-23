@@ -144,6 +144,7 @@ kmd_calculation <- function(d_df, elem){
   d_df$P_SEG <- str_match(d_df$Formula_Neutral, "P(\\d+)|P")[,1]
   d_df$P_COUNT[d_df$P_SEG == "P"] <- 1
   d_df$P[is.na(d_df$P)] <- d_df$P_COUNT
+  d_df$N <- ''
   d_df$N <- str_match(d_df$Formula_Neutral, "N(\\d+)")[,2]
   d_df$N_SEG <- ''
   d_df$N_COUNT <- 0
