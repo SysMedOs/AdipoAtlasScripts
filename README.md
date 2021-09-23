@@ -20,6 +20,8 @@
   * For commercial use: please contact the develop team by email.  
 
 + Please cite our publication in an appropriate form.
+  * Lange, Mike, Georgia Angelidou, Zhixu Ni, Angela Criscuolo, Jürgen Schiller, Matthias Bl€, Maria Fedorova Correspondence, and Maria Fedorova. “AdipoAtlas: A Reference Lipidome for Human White Adipose Tissue.” Cell Reports Medicine 2 (2021). [https://doi.org/10.1016/j.xcrm.2021.100407](https://doi.org/10.1016/j.xcrm.2021.100407).
+
 
 
 ### Funding
